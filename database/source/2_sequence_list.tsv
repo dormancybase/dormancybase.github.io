@@ -1,0 +1,936 @@
+Timestamp	Latin name of a given species	Sequence name (from NCBI or other sources)	Sequence Accession Number from NCBI	Type of a given sequence	GO - Molecular Function (from Uniprot)	GO - Biological process (from Uniprot)	Special Note	Sequence Accession Number from other source	Choose alternative Source of Sequence Accession Number	Who typed in the data	
+6/13/2015 11:39:15	Aedes albopictus	3-hydroxyacyl-CoA dehydrogenase	JO884349	mRNA	NaN	NaN					
+6/13/2015 11:31:46	Aedes albopictus	3,2-Trans-enoyl-CoA isomerase	JO850771	mRNA	NaN	NaN					
+6/10/2015 15:05:18	Aedes albopictus	60S ribosomal protein L9		mRNA	rRNA binding; structural constituent of ribosome	translation	Similar to Aedes aegypti, UniProt identifier: XM_001652777	AAEL007699	Vector Base		
+6/13/2015 11:18:17	Aedes albopictus	Acetyl-CoA synthase		mRNA	acetyl-CoA carboxylase activity; ATP binding; biotin carboxylase activity; metal ion binding	fatty acid biosynthetic process	Similar to Aedes aegypti, UniProt identifier: XM_001651829	AAEL006307	Vector Base		
+6/13/2015 10:52:31	Aedes albopictus	Acetyl-CoA carboxylase_acc	JO861035	mRNA	NaN	NaN					
+6/13/2015 11:36:40	Aedes albopictus	Acyl-CoA dehdrogenase 4	JO893690	mRNA	NaN	NaN					
+6/13/2015 11:33:54	Aedes albopictus	Acyl-CoA dehydrogenase 2	JO888990	mRNA	NaN	NaN					
+6/13/2015 11:44:51	Aedes albopictus	Acyl-CoA Δ(11) desaturase	JO854414	mRNA	NaN	NaN					
+6/10/2015 14:30:08	Aedes albopictus	aldo-keto reductase		mRNA	oxidoreductase activity	oxidation-reduction process	Similar to Aedes aegypti, UniProt identifier: XM_001648408	AAEL004102	Vector Base		
+6/10/2015 13:26:28	Aedes albopictus	amino acid transporter		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001648078	AAEL003970	Vector Base		
+6/13/2015 11:41:43	Aedes albopictus	AMP activated protein kinase beta	JO867565	mRNA	NaN	NaN					
+6/13/2015 11:42:44	Aedes albopictus	AMP activated protein kinase gamma	JO855296	mRNA	NaN	NaN					
+6/13/2015 11:40:05	Aedes albopictus	AMP activated protein kinase-alpha	JO905089	mRNA	NaN	NaN					
+6/13/2015 10:56:05	Aedes albopictus	Apolipophorin-III	JO863154	mRNA	NaN	NaN					
+6/10/2015 12:20:27	Aedes albopictus	apolipophorin-III, putative		mRNA	lipid binding	lipid transport	Similar to Aedes aegypti, UniProt identifier: XM_001659474	AAEL008789	Vector Base		
+6/10/2015 11:50:14	Aedes albopictus	ATP-citrate synthase		mRNA	ATP binding; ATP citrate synthase activity; cofactor binding; succinate-CoA ligase (ADP-forming) activity	cellular carbohydrate metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001648798	AAEL004297	Vector Base		
+6/11/2015 10:36:45	Aedes albopictus	atypical odorant-binding protein 46 (OBP46) mRNA	FJ040863	mRNA	odorant binding	NaN					
+6/10/2015 11:44:13	Aedes albopictus	bhlhzip transcription factor bigmax		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001655128	AAEL011202	Vector Base		
+6/10/2015 13:33:24	Aedes albopictus	Bromodomain-containing protein, putative		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001654690	AAEL002125	Vector Base		
+6/13/2015 11:29:59	Aedes albopictus	Carnitine O-palmitoyltransferase	JO882235	mRNA	NaN	NaN					
+6/10/2015 15:06:47	Aedes albopictus	conserved hypothetical protein_AAEL000269		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001654740	AAEL000269	Vector Base		
+6/10/2015 14:44:54	Aedes albopictus	conserved hypothetical protein_AAEL004873		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001649899	AAEL004873	Vector Base		
+6/10/2015 14:46:26	Aedes albopictus	conserved hypothetical protein_AAEL006143		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001657485	AAEL006143	Vector Base		
+6/10/2015 13:31:00	Aedes albopictus	conserved hypothetical protein_AAEL006328		mRNA	chitin binding	carbohydrate metabolic process; chitin metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001651892	AAEL006328	Vector Base		
+6/10/2015 11:23:52	Aedes albopictus	conserved hypothetical protein_AAEL008645		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001659331	AAEL008645	Vector Base		
+6/10/2015 11:46:03	Aedes albopictus	conserved hypothetical protein_AAEL012019		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001662104	AAEL012019	Vector Base		
+6/10/2015 14:51:36	Aedes albopictus	conserved hypothetical protein_AAEL014318		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001648372	AAEL014318	Vector Base		
+6/13/2015 11:32:52	Aedes albopictus	Cyclo-hex-1-ene-1-carboxyl CoA hydratase	JO879395	mRNA	NaN	NaN					
+6/11/2015 16:19:21	Aedes albopictus	CYP18A1		mRNA	heme binding; iron ion binding; monooxygenase activity; oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	oxidation-reduction process	Similar to Aedes aegypti, UniProt identifier: XM_001649920	AAEL004870	Vector Base		
+4/26/2015 18:09:04	Aedes albopictus	cysteine-rich venom protein	GT564937	EST	NaN	NaN	Sličnost - 3.00e09, Aedes aegypti				
+6/10/2015 14:58:10	Aedes albopictus	cytidine deaminase, putative		mRNA	cytidine deaminase activity; zinc ion binding	cytidine deamination	Similar to Aedes aegypti, UniProt identifier: XM_001651966	AAEL006518	Vector Base		
+6/10/2015 12:18:19	Aedes albopictus	cytochrome c oxidase, subunit VIA, putative		mRNA	cytochrome-c oxidase activity	hydrogen ion transmembrane transport	Similar to Aedes aegypti, UniProt identifier: XM_001656578	AAEL003234	Vector Base		
+6/10/2015 15:09:01	Aedes albopictus	DEAD box ATP-dependent RNA helicase		mRNA	ATP binding; helicase activity; nucleic acid binding	metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001650077	AAEL004978	Vector Base		
+6/10/2015 11:41:55	Aedes albopictus	ecdysone inducible protein L2, putative		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001654666	AAEL002130	Vector Base		
+4/26/2015 17:33:16	Aedes albopictus	epithelial membrane protein mRNA	GU175173	mRNA	NaN	cell adhesion	GO - Cellular component - integral component of membrane				
+6/13/2015 10:54:59	Aedes albopictus	Fatty acid binding protein	JO853034	mRNA	NaN	NaN					
+6/10/2015 12:14:30	Aedes albopictus	fatty acid desaturase, putative		mRNA	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	fatty acid biosynthetic process	Similar to Aedes aegypti, UniProt identifier: XM_001656495	AAEL003203	Vector Base		
+4/26/2015 18:07:53	Aedes albopictus	fatty acyl coA elongase	GT565069	EST	NaN	NaN	Sličnost - 3.00e36, Aedes aegypti, DQ439986				
+6/10/2015 12:07:54	Aedes albopictus	fatty acyl CoA elongase mRNA	GQ168593	mRNA	transferase activity	fatty acid biosynthetic process					
+6/11/2015 15:44:47	Aedes albopictus	gene containing a JH binding protein domain		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001656926	AAEL000500	Vector Base		
+6/10/2015 13:07:43	Aedes albopictus	geranylgeranyl pyrophosphate synthase		mRNA	transferase activity	isoprenoid biosynthetic process	Similar to Aedes aegypti, UniProt identifier: XM_001651638	AAEL005925	Vector Base		
+6/10/2015 14:42:36	Aedes albopictus	glycoprotein, putative		mRNA	chitinase activity; hydrolase activity, hydrolyzing O-glycosyl compounds	carbohydrate metabolic process; chitin catabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001663121	AAEL003094	Vector Base		
+6/10/2015 11:35:59	Aedes albopictus	GPCR Methuselah Family		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001661676	AAEL011521	Vector Base		
+4/26/2015 18:10:00	Aedes albopictus	heat shock protein 67B2	GT564856	EST	NaN	NaN	Sličnost - 9.00e45, Aedes aegypti				
+6/10/2015 12:30:39	Aedes albopictus	histone H2A		mRNA	DNA binding; protein heterodimerization activity	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001656938	AAEL000494	Vector Base		
+6/11/2015 16:39:37	Aedes albopictus	homolog of a putative cecropin anti-microbial peptide (CECB)		mRNA	NaN	defense response to bacterium; immune system process; innate immune response	Similar to Aedes aegypti, UniProt identifier: XM_001648640	AAEL004223	Vector Base		
+6/11/2015 15:52:17	Aedes albopictus	homolog of glyceraldehyde 3 phosphate dehydrogenase		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_011494724	AAEL016984	Vector Base		
+6/11/2015 16:44:56	Aedes albopictus	homolog of gram-negative binding protein 3 (GNBPB3)		mRNA	hydrolase activity, hydrolyzing O-glycosyl compounds; transporter activity	carbohydrate metabolic process; transport	Similar to Aedes aegypti, UniProt identifier: XM_001659746	AAEL009176	Vector Base		
+6/11/2015 16:48:20	Aedes albopictus	homolog of gram-negative binding protein 4 (GNBPB4)		mRNA	hydrolase activity, hydrolyzing O-glycosyl compounds	carbohydrate metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001659747	AAEL009178	Vector Base		
+6/10/2015 11:28:24	Aedes albopictus	inhibitor of growth protein, ing1		mRNA	zinc ion binding	chromatin modification	Similar to Aedes aegypti, UniProt identifier: XM_001657050	AAEL003650	Vector Base		
+6/13/2015 11:37:50	Aedes albopictus	Isovaleryl-CoA dehydrogenase	JO891909	mRNA	NaN	NaN					
+6/13/2015 11:00:07	Aedes albopictus	Lipase_AAEL001057		mRNA	carboxylic ester hydrolase activity	metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001657977	AAEL001057	Vector Base		
+6/13/2015 11:03:35	Aedes albopictus	Lipase_AAEL007044		mRNA	phosphatidylcholine 1-acylhydrolase activity; carboxylic ester hydrolase activity	lipid metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001652478	AAEL007044	Vector Base		
+6/13/2015 11:06:10	Aedes albopictus	Lipase_AAEL012343		mRNA	hydrolase activity, acting on ester bonds	lipid catabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001662447	AAEL012343	Vector Base		
+6/13/2015 10:53:55	Aedes albopictus	Lipid storage droplet protein	JO907205	mRNA	NaN	NaN					
+6/10/2015 13:28:27	Aedes albopictus	lipid storage droplets surface binding protein 2 (lsd2)		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001658008	AAEL006820	Vector Base		
+6/10/2015 12:36:34	Aedes albopictus	mfs transporter		mRNA	transmembrane transporter activity	transmembrane transport	Similar to Aedes aegypti, UniProt identifier: XM_001662241	AAEL012183	Vector Base		
+6/11/2015 15:42:02	Aedes albopictus	ortholog of juvenile hormone esterase (JHE)		mRNA	hydrolase activity	metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001650430	AAEL005200	Vector Base		
+4/26/2015 17:36:43	Aedes albopictus	phosphatidylethanolamine-binding protein mRNA	GU175172	mRNA	NaN	NaN					
+6/10/2015 11:40:02	Aedes albopictus	phosphoenolpyruvate carboxykinase		mRNA	GTP binding; phosphoenolpyruvate carboxykinase (GTP) activity	gluconeogenesis	Similar to Aedes aegypti, UniProt identifier: XM_001647885	AAEL000006	Vector Base		
+6/11/2015 15:49:32	Aedes albopictus	phosphoenolpyruvate carboxykinase		mRNA	GTP binding; phosphoenolpyruvate carboxykinase (GTP) activity	gluconeogenesis	Similar to Aedes aegypti, UniProt identifier: XM_001647887	AAEL000080	Vector Base		
+6/10/2015 14:56:02	Aedes albopictus	predicted protein, chromodomain-containing		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001649238	AAEL004484	Vector Base		
+6/10/2015 15:16:53	Aedes albopictus	profilin		mRNA	actin binding	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001656622	AAEL013353	Vector Base		
+6/10/2015 14:32:35	Aedes albopictus	proliferating cell nuclear antigen		mRNA	DNA binding; DNA polymerase processivity factor activity	DNA replication; regulation of DNA replication	Similar to Aedes aegypti, UniProt identifier: XM_001662594	AAEL012545	Vector Base		
+6/10/2015 15:14:13	Aedes albopictus	protein disulfide isomerase		mRNA	protein disulfide isomerase activity	cell redox homeostasis; protein folding	Similar to Aedes aegypti, UniProt identifier: XM_001649724	AAEL000641	Vector Base		
+6/10/2015 11:55:07	Aedes albopictus	putative 67B2 family heat shock protein mRNA	GQ332399	mRNA	NaN	Stress response					
+6/11/2015 15:38:43	Aedes albopictus	putative JH-inducible protein		mRNA	transferase activity, transferring phosphorus-containing groups	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001656146	AAEL012680	Vector Base		
+6/11/2015 16:12:12	Aedes albopictus	pyruvate kinase		mRNA	magnesium ion binding; potassium ion binding; pyruvate kinase activity	glycolytic process; phosphorylation	Similar to Aedes aegypti, UniProt identifier: XM_001649933	AAEL014913	Vector Base		
+6/11/2015 10:32:31	Aedes albopictus	questionable odorant-binding protein 99a	GT564795	EST	NaN	NaN	Sličnost - 2.00e11, Armigeres subalbatus, EU207435				
+6/10/2015 11:33:58	Aedes albopictus	receptor for activated C kinase, putative		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001661968	AAEL011892	Vector Base		
+6/10/2015 12:27:18	Aedes albopictus	rer1 protein		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: XM_001654428	AAEL010361	Vector Base		
+6/10/2015 12:23:02	Aedes albopictus	RuvB-like helicase 2 (EC 3.6.4.12)(Reptin)		mRNA	ATP binding; ATP-dependent 5'-3' DNA helicase activity; transcription corepressor activity	DNA repair; histone acetylation; histone exchange; negative regulation of nucleic acid-templated transcription; regulation of cell proliferation; regulation of transcription, DNA-templated; regulation of Wnt signaling pathway; transcription, DNA-templated	Similar to Aedes aegypti, UniProt identifier: XM_001654402	AAEL010341	Vector Base		
+6/10/2015 12:09:39	Aedes albopictus	saposin		mRNA	NaN	sphingolipid metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001662944	AAEL003046	Vector Base		
+6/10/2015 15:11:48	Aedes albopictus	skp1		mRNA	NaN	ubiquitin-dependent protein catabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001653651	AAEL009160	Vector Base		
+6/10/2015 14:54:07	Aedes albopictus	thioredoxin peroxidase		mRNA	peroxiredoxin activity; antioxidant activity; oxidoreductase activity	oxidation-reduction process	Similar to Aedes aegypti, UniProt identifier: XM_001648402	AAEL004112	Vector Base		
+6/10/2015 14:40:10	Aedes albopictus	transcription factor GATA-4 (GATA binding factor-4)		mRNA	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity; transcription regulatory region DNA binding; zinc ion binding	positive regulation of transcription from RNA polymerase II promoter	Similar to Aedes aegypti, UniProt identifier: XM_001654325	AAEL010222	Vector Base		
+6/10/2015 14:59:48	Aedes albopictus	transketolase		mRNA	catalytic activity	metabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001649091	AAEL004434	Vector Base		
+6/10/2015 13:35:33	Aedes albopictus	trehalose-6-phosphate synthase		mRNA	catalytic activity	trehalose biosynthetic process	Similar to Aedes aegypti, UniProt identifier: XM_001657763	AAEL006446	Vector Base		
+6/10/2015 13:24:43	Aedes albopictus	Trypsin 3A1 Precursor (EC 3.4.21.4)		mRNA	serine-type endopeptidase activity; hydrolase activity	digestion; proteolysis	Similar to Aedes aegypti, UniProt identifier: XM_001652894	AAEL007818	Vector Base		
+6/10/2015 15:01:56	Aedes albopictus	ubiquitin		mRNA	structural constituent of ribosome	translation	Similar to Aedes aegypti, UniProt identifier: XM_001651978	AAEL006511	Vector Base		
+6/10/2015 12:12:39	Aedes albopictus	ubiquitin carboxyl-terminal hydrolase isozyme L5		mRNA	omega peptidase activity; ubiquitin-specific protease activity	ubiquitin-dependent protein catabolic process	Similar to Aedes aegypti, UniProt identifier: XM_001655018	AAEL010966	Vector Base		
+6/10/2015 12:16:19	Aedes albopictus	vacuolar ATP synthase proteolipid subunit		mRNA	hydrogen ion transmembrane transporter activity	ATP hydrolysis coupled proton transport	Similar to Aedes aegypti, UniProt identifier: XM_001662206	AAEL012113	Vector Base		
+6/13/2015 11:43:39	Aedes albopictus	Δ(9) desaturase	JO908589	mRNA	NaN	NaN					
+4/28/2015 16:07:31	Agrius convolvuli	mitochondrial COX1 gene for cytochrome c oxidase subunit 1	LC049959	DNA	NaN	NaN					
+6/16/2015 2:23:22	Allonemobius socius	Aldo-keto reductase family member		mRNA	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: XP_974785				
+6/16/2015 2:17:45	Allonemobius socius	Arginine kinase		mRNA	NaN	NaN	Similar to Periplaneta americana, UniProt identifier: AAT77152				
+6/16/2015 2:02:01	Allonemobius socius	ATP citrate lyase		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: EAT44342				
+6/16/2015 2:15:10	Allonemobius socius	Bax-inhibitor 1-like protein		mRNA	NaN	NaN	Similar to Maconellicoccus hirsutus, UniProt identifier: ABM55570				
+6/16/2015 2:00:12	Allonemobius socius	Cathepsin B-like protease		mRNA	NaN	NaN	Similar to Drosophila melanogaster, UniProt identifier: NP_572920				
+6/16/2015 2:26:30	Allonemobius socius	CHORD containing protein		mRNA	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: XP_967567				
+6/16/2015 2:16:12	Allonemobius socius	Cytochrome c oxidase subunit II		mRNA	NaN	NaN	Similar to Allomenobius socius, UniProt identifier: AAU11284				
+6/16/2015 2:21:17	Allonemobius socius	Cytochrome c oxidase subunit IV		mRNA	NaN	NaN	Similar to Ixodes scapularis, UniProt identifier: AAY66918				
+6/16/2015 2:34:08	Allonemobius socius	Cytochrome c oxidase VIIc		mRNA	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: XP_970390				
+6/16/2015 2:06:46	Allonemobius socius	Cytochrome P450		mRNA	NaN	NaN	Similar to Blattella germanica, UniProt identifier: AAK57914				
+6/16/2015 2:28:39	Allonemobius socius	DNA dependent RNA polymerase III		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_625037				
+6/16/2015 1:57:11	Allonemobius socius	Endoplasmin (Hsp90 family member)		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: EAT34979				
+6/16/2015 2:11:47	Allonemobius socius	Eukaryotic translation initiation factor 4 gamma		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: EAT40334				
+6/16/2015 2:05:31	Allonemobius socius	Fatty acid desaturase		mRNA	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: XP_967943				
+6/16/2015 2:20:12	Allonemobius socius	Glyoxalase CG1532-PA		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_625100				
+6/16/2015 1:58:51	Allonemobius socius	Heat shock 70 family member		mRNA	NaN	NaN	Similar to Locusta migratoria, UniProt identifier: AAO21473				
+6/16/2015 1:55:39	Allonemobius socius	Heat shock protein 90		mRNA	NaN	NaN	Similar to Locusta migratoria, UniProt identifier: AAS45246				
+6/16/2015 2:09:35	Allonemobius socius	Histone2A		mRNA	NaN	NaN	Similar to Anopheles gambiae, UniProt identifier: XP_307083				
+6/16/2015 2:25:38	Allonemobius socius	Hsp 20.7		mRNA	NaN	NaN	Similar to Locusta migratoria, UniProt identifier: ABC84494				
+6/16/2015 2:12:59	Allonemobius socius	Interferon developmental regulator		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_392883				
+6/16/2015 2:24:25	Allonemobius socius	Lipid storage protein CG32645-PB		mRNA	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: XP_969264				
+6/16/2015 2:30:48	Allonemobius socius	Male sterility protein (acyl-CoA reductase)		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: EAT41033				
+6/16/2015 2:22:14	Allonemobius socius	Mitochondrial processing peptidase		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_624556				
+6/16/2015 2:34:59	Allonemobius socius	Mitochondrial ribosomal protein L45 (TIMM 44)		mRNA	NaN	NaN	Similar to Aedes aegypti, UniProt identifier: EAT35833				
+6/16/2015 2:35:49	Allonemobius socius	Nedd8		mRNA	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: XP_972922				
+6/16/2015 2:32:56	Allonemobius socius	Neimann-Pick type C-like		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_624310				
+6/16/2015 2:29:39	Allonemobius socius	Pyrroline 5-carboyxlate reductase		mRNA	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: XP_974776				
+6/16/2015 2:10:35	Allonemobius socius	RACK1		mRNA	NaN	NaN	Similar to Bombyx mori, UniProt identifier: NP_001041703				
+6/16/2015 2:31:52	Allonemobius socius	Ribosomal protein L35Ae		mRNA	NaN	NaN	Similar to Carabus granulatus, UniProt identifier: CAJ17420				
+6/16/2015 2:27:34	Allonemobius socius	RubV-like 2 (Reptin/TBP interacting protein)		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_001122537				
+6/16/2015 2:14:04	Allonemobius socius	Spaghetti squash (myosin regulatory light chain)		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_623372				
+6/16/2015 2:18:57	Allonemobius socius	Transcription factor Dp2 (E2F dimerization partner)		mRNA	NaN	NaN	Similar to Apis mellifera, UniProt identifier: XP_393377				
+6/16/2015 2:04:10	Allonemobius socius	Translation elongation factor 1 gamma		mRNA	NaN	NaN	Similar to Locusta migratoria, UniProt identifier: AAL78751				
+4/27/2015 16:29:36	Antheraea pernyi	diapause hormone-phermone biosynthesis activating neuropeptide	AAR17699	protein	NaN	neuropeptide signaling pathway; pheromone biosynthetic process					
+4/27/2015 16:27:53	Antheraea pernyi	diapause hormone-phermone biosynthesis activating neuropeptide mRNA	AY445658	mRNA	NaN	neuropeptide signaling pathway; pheromone biosynthetic process					
+4/27/2015 17:58:39	Antheraea yamamai	mRNA for cytochrome P450 CYP4G25	AB196795	mRNA	heme binding; iron ion binding; monooxygenase activity; oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	NaN					
+1/7/2015 16:13:02	Anthonomus grandis	agSP-1 arylphorin	AAN63347	protein	NaN	NaN					
+3/16/2015 19:21:40	Anthonomus grandis	AgSP-1 arylphorin mRNA	AF512519	mRNA	NaN	NaN					
+5/2/2015 18:41:24	Bactrocera minax	CL3214.Contig1 transcribed RNA sequence	GBIT01007665	mRNA	NaN	NaN					
+5/2/2015 18:57:13	Bactrocera minax	CL3305.Contig1 transcribed RNA sequence	GBIT01007839	mRNA	NaN	NaN					
+5/2/2015 18:55:55	Bactrocera minax	CL493.Contig2 transcribed RNA sequence	GBIT01001598	mRNA	NaN	NaN					
+5/2/2015 18:46:15	Bactrocera minax	CL523.Contig2 transcribed RNA sequence	GBIT01001666	mRNA	NaN	NaN					
+4/29/2015 12:11:58	Bactrocera minax	hsp23 mRNA	KJ541737	mRNA	NaN	NaN					
+4/29/2015 12:16:30	Bactrocera minax	hsp70 mRNA	KJ541738	mRNA	ATP binding	NaN					
+4/29/2015 12:14:43	Bactrocera minax	hsp90 mRNA	KJ541739	mRNA	ATP binding	protein folding; response to stress					
+5/2/2015 18:36:27	Bactrocera minax	Unigene14891 transcribed RNA sequence	GBIT01023852	mRNA	NaN	NaN					
+5/2/2015 18:48:38	Bactrocera minax	Unigene15293 transcribed RNA sequence	GBIT01024254	mRNA	NaN	NaN					
+5/2/2015 19:00:58	Bactrocera minax	Unigene15829 transcribed RNA sequence	GBIT01024790	mRNA	NaN	NaN					
+5/2/2015 18:38:09	Bactrocera minax	Unigene15888 transcribed RNA sequence	GBIT01024849	mRNA	NaN	NaN					
+5/2/2015 18:59:37	Bactrocera minax	Unigene17845 transcribed RNA sequence	GBIT01026806	mRNA	NaN	NaN					
+5/2/2015 18:50:04	Bactrocera minax	Unigene21913 transcribed RNA sequence	GBIT01030872	mRNA	NaN	NaN					
+5/2/2015 19:06:15	Bactrocera minax	Unigene26502 transcribed RNA sequence	GBIT01035459	mRNA	NaN	NaN					
+5/2/2015 18:34:30	Bactrocera minax	Unigene29307 transcribed RNA sequence	GBIT01038264	mRNA	NaN	NaN					
+5/2/2015 18:43:12	Bactrocera minax	Unigene2931 transcribed RNA sequence	GBIT01011896	mRNA	NaN	NaN					
+5/2/2015 18:44:50	Bactrocera minax	Unigene30050 transcribed RNA sequence	GBIT01039007	mRNA	NaN	NaN					
+5/2/2015 18:39:37	Bactrocera minax	Unigene32073 transcribed RNA sequence	GBIT01041029	mRNA	NaN	NaN					
+4/29/2015 15:15:36	Bombus terrestris	heat shock protein 90 (hsp90) mRNA	EU124769	mRNA	ATP binding	protein folding; response to stress					
+4/29/2015 15:11:59	Bombus terrestris	heat shock protein cognate 70 (hsc70) mRNA	EU124768	mRNA	ATP binding	NaN					
+4/29/2015 15:17:59	Bombus terrestris	small heat shock protein (shsp) mRNA	EU124767	mRNA	NaN	NaN					
+3/21/2015 20:20:18	Bombyx mori	14-3-3 epsilon protein	NP_001091764 	protein	monooxygenase activity; protein domain specific binding	oxidation-reduction process					Nikola Krivokuca
+1/9/2015 22:20:12	Bombyx mori	14-3-3 epsilon protein (Ywhae) mRNA	NM_001098294	mRNA	monooxygenase activity	NaN					Nikola Krivokuca
+3/15/2015 10:08:05	Bombyx mori	19G1 gene for 30K protein	X54736	DNA	NaN	NaN	GO - Cellular component - extracellular region				Nikola Krivokuca
+3/18/2015 10:52:03	Bombyx mori	26S proteasome regulatory ATPase subunit 10B	NP_001040484	protein	ATP binding; hydrolase activity	protein catabolic process					Nikola Krivokuca
+3/23/2015 8:25:04	Bombyx mori	27 kDa glycoprotein precursor	NP_001036878	protein	NaN	NaN	GO - Cellular component - extracellular region				Nikola Krivokuca
+3/18/2015 10:49:30	Bombyx mori	40S ribosomal protein S28	NP_001037680 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/23/2015 20:33:17	Bombyx mori	40S ribosomal protein SA	NP_001106143	protein	structural constituent of ribosome	ribosomal small subunit assembly; translation					Nikola Krivokuca
+3/18/2015 10:33:26	Bombyx mori	60S ribosomal protein L17	NP_001037165 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:34:23	Bombyx mori	60S ribosomal protein L18	NP_001037217 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:37:54	Bombyx mori	60S ribosomal protein L38	NP_001037554 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/15/2015 10:15:49	Bombyx mori	6G1 gene for 30K major plasma protein	X54735	DNA	NaN	NaN	GO - Cellular component - extracellular region				Nikola Krivokuca
+3/21/2015 20:23:31	Bombyx mori	actin, cytoplasmic A4	NP_001119727	protein	ATP binding	NaN	GO Cellular localization - cytoskeleton				Nikola Krivokuca
+6/13/2015 20:08:22	Bombyx mori	acyl CoA desaturase (ACD) mRNA	AF157627	mRNA	iron ion binding; stearoyl-CoA 9-desaturase activity	fatty acid biosynthetic process					
+3/21/2015 20:24:38	Bombyx mori	acyl-CoA binding protein	NP_001037022	protein	fatty-acyl-CoA binding	NaN					Nikola Krivokuca
+1/7/2015 22:13:29	Bombyx mori	acyl-CoA desaturase (Desat3) mRNA	NM_001043553	mRNA	iron ion binding; stearoyl-CoA 9-desaturase activity	fatty acid biosynthetic process					Nikola Krivokuca
+1/8/2015 23:35:38	Bombyx mori	adenosine deaminase related growth factor (Adgf) mRNA	NM_001105228	mRNA	deaminase activity	NaN					Nikola Krivokuca
+3/30/2015 14:43:39	Bombyx mori	adenylate kinase 2 (adk2) mRNA	NM_001171916	mRNA	adenylate kinase activity; ATP binding	ADP biosynthetic process; AMP metabolic process; ATP metabolic process					
+3/18/2015 10:53:09	Bombyx mori	ADP/ATP translocase	NP_001037072	protein	transporter activity	transmembrane transport					Nikola Krivokuca
+1/10/2015 8:55:52	Bombyx mori	aliphatic nitrilase mRNA	GU354318	mRNA	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	nitrogen compound metabolic process					Nikola Krivokuca
+1/10/2015 8:59:17	Bombyx mori	AMP-activated protein kinase	NP_001093315	protein	AMP-activated protein kinase activity; ATP binding	NaN					Nikola Krivokuca
+3/21/2015 20:25:59	Bombyx mori	antennal binding protein precursor	NP_001106744	protein	odorant binding	NaN					Nikola Krivokuca
+3/21/2015 20:27:34	Bombyx mori	antitrypsin isoform 1 precursor	NP_001037305 	protein	serine-type endopeptidase inhibitor activity	negative regulation of peptidase activity					Nikola Krivokuca
+1/9/2015 21:55:04	Bombyx mori	aquaporin (aqp) mRNA	NM_001043454	mRNA	transporter activity	NaN					Nikola Krivokuca
+3/18/2015 21:53:37	Bombyx mori	arginine kinase	NP_001037402 	protein	ATP binding; kinase activity	phosphorylation					Nikola Krivokuca
+1/10/2015 9:05:00	Bombyx mori	ARP1 actin-related protein 1-like protein A	NP_001040336	protein	ATP binding	NaN					Nikola Krivokuca
+3/18/2015 21:55:06	Bombyx mori	ATP synthase	NP_001040233	protein	ATP binding; proton-transporting ATPase activity; proton-transporting ATPase activity, rotational mechanism; proton-transporting ATP synthase activity, rotational mechanism	ATP hydrolysis coupled proton transport; ATP synthesis coupled proton transport					Nikola Krivokuca
+3/21/2015 20:28:40	Bombyx mori	aubergine protein	NP_001098066	protein	nucleic acid binding	NaN					Nikola Krivokuca
+1/10/2015 9:06:51	Bombyx mori	BCP inhibitor precursor	NP_001037057	protein	cysteine-type peptidase activity	NaN					Nikola Krivokuca
+3/21/2015 20:30:20	Bombyx mori	beta-tubulin	NP_001036964	protein	GTPase activity; GTP binding; structural constituent of cytoskeleton	GTP catabolic process; microtubule-based process; protein polymerization					Nikola Krivokuca
+3/21/2015 20:31:30	Bombyx mori	beta-tubulin	NP_001036888	protein	GTPase activity; GTP binding; structural constituent of cytoskeleton	GTP catabolic process; microtubule-based process; protein polymerization					Nikola Krivokuca
+1/8/2015 21:43:17	Bombyx mori	BmEts mRNA for transcription factor BmEts	AB115082	mRNA	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity	regulation of transcription, DNA-templated					Nikola Krivokuca
+12/30/2014 23:47:55	Bombyx mori	BmHsp70 mRNA for HSP70	AB035326	mRNA	ATP binding	NaN					Nikola Krivokuca
+3/28/2015 11:07:05	Bombyx mori	BmK5 mRNA for possible precursor of neuropeptides	AB162718	mRNA	NaN	NaN	GO - Cellular component - cytoplasm; extracellular region				
+1/25/2015 0:20:54	Bombyx mori	BmSDH-2 mRNA for sorbitol dehydrogenase-2	AB164059	mRNA	L-iditol 2-dehydrogenase activity; zinc ion binding	oxidation-reduction process					Nikola Krivokuca
+6/13/2015 19:16:56	Bombyx mori	BmTret1 mRNA for trehalose transporter BmTRET1	AB369550	mRNA	trehalose transmembrane transporter activity	trehalose transport					
+3/22/2015 10:08:44	Bombyx mori	BWK-1-like protein	NP_001040311	protein	NaN	NaN					Nikola Krivokuca
+1/10/2015 9:08:39	Bombyx mori	calcineurin A	NP_001037025	protein	phosphoprotein phosphatase activity	NaN					Nikola Krivokuca
+3/22/2015 10:10:42	Bombyx mori	calreticulin precursor	NP_001037075	protein	calcium ion binding; carbohydrate binding	protein folding					Nikola Krivokuca
+3/27/2015 12:54:58	Bombyx mori	cAMP response element binding protein 1 (CREB1) mRNA	EF682068	mRNA	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity	regulation of transcription, DNA-templated					
+3/27/2015 12:57:46	Bombyx mori	cAMP response element binding protein 2 (CREB2) mRNA	EF682069	mRNA	NaN	regulation of transcription, DNA-templated					
+3/27/2015 12:59:54	Bombyx mori	cAMP response element binding protein 3 (CREB3) mRNA	EF682070	mRNA	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity	regulation of transcription, DNA-templated					
+3/22/2015 10:12:10	Bombyx mori	carotenoid-binding protein isoform 1	NP_001036998	protein	lipid binding	NaN					Nikola Krivokuca
+3/22/2015 10:27:53	Bombyx mori	cationic peptide CP8 precursor	NP_001037081	protein	NaN	NaN					Nikola Krivokuca
+3/22/2015 10:13:59	Bombyx mori	cellular retinoic acid binding protein	NP_001037364	protein	lipid binding; transporter activity	transport					Nikola Krivokuca
+3/22/2015 10:17:21	Bombyx mori	chaperonin	NP_001073348	protein	ATP binding; unfolded protein binding	protein folding					Nikola Krivokuca
+3/22/2015 10:19:04	Bombyx mori	chaperonin containing t-complex polypeptide 1 beta subunit	NP_001040109	protein	ATP binding; unfolded protein binding	protein folding					Nikola Krivokuca
+3/22/2015 10:20:21	Bombyx mori	chaperonin subunit 4 delta	NP_001040107	protein	ATP binding; unfolded protein binding	protein folding					Nikola Krivokuca
+3/22/2015 10:21:33	Bombyx mori	chaperonin subunit 6a zeta	NP_001040108	protein	ATP binding; unfolded protein binding	protein folding					Nikola Krivokuca
+3/22/2015 10:22:35	Bombyx mori	chemosensory protein 7 precursor	NP_001037068	protein	NaN	NaN					Nikola Krivokuca
+1/10/2015 9:23:29	Bombyx mori	chemosensory protein 8 precursor	NP_001037067	protein	NaN	NaN					Nikola Krivokuca
+1/4/2015 12:33:59	Bombyx mori	chitinase domain-containing protein 1-like	XP_004931749	protein	hydrolase activity, hydrolyzing O-glycosyl compounds	carbohydrate metabolic process					Nikola Krivokuca
+3/31/2015 9:58:06	Bombyx mori	Chorion class A protein L12	P08825	protein	structural constituent of chorion	chorion-containing eggshell formation; multicellular organismal development					
+3/22/2015 10:23:48	Bombyx mori	chymotrypsin inhibitor SCI-II precursor	NP_001119717	protein	serine-type endopeptidase inhibitor activity	negative regulation of endopeptidase activity					Nikola Krivokuca
+1/10/2015 9:29:26	Bombyx mori	clip domain serine protease 11 precursor	NP_001037053	protein	serine-type endopeptidase activity	NaN					Nikola Krivokuca
+3/14/2015 11:40:13	Bombyx mori	cuticular protein RR-1 motif 41 (CPR41), mRNA	NM_001044025	mRNA	structural constituent of cuticle	NaN					Nikola Krivokuca
+1/9/2015 22:16:20	Bombyx mori	cytochrome b5 (LOC100127129) mRNA	NM_001112760	mRNA	heme binding; metal ion binding	NaN					Nikola Krivokuca
+1/10/2015 9:15:38	Bombyx mori	cytochrome P450 CYP6AE7	NP_001104006	protein	heme binding; iron ion binding; monooxygenase activity; oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	NaN					Nikola Krivokuca
+1/10/2015 9:14:27	Bombyx mori	cytochrome P450 CYP6AE9	NP_001104004	protein	heme binding; iron ion binding; monooxygenase activity; oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	NaN					Nikola Krivokuca
+3/16/2015 11:52:42	Bombyx mori	cytosolic malate dehydrogenase	NP_001040257	protein	L-malate dehydrogenase activity	cellular carbohydrate metabolic process; malate metabolic process; tricarboxylic acid cycle					Nikola Krivokuca
+3/16/2015 11:50:17	Bombyx mori	diapause bioclock protein	ABL63514	protein	metal ion binding; superoxide dismutase activity	NaN					Nikola Krivokuca
+6/14/2015 10:18:08	Bombyx mori	dicer-2 (dcr-2), mRNA	NM_001193614	mRNA	ATP binding; DNA binding; ribonuclease III activity; RNA binding	RNA processing; rRNA catabolic process					
+1/12/2015 8:10:45	Bombyx mori	DNA topoisomerase 2	NP_001037009	protein	ATP binding; DNA binding; DNA topoisomerase type II (ATP-hydrolyzing) activity; metal ion binding	DNA topological change					Nikola Krivokuca
+1/9/2015 22:14:16	Bombyx mori	DnaJ (Hsp40) homolog 5 (DnaJ-5) mRNA	NM_001043525	mRNA	protein folding	NaN					Nikola Krivokuca
+6/13/2015 17:02:35	Bombyx mori	dopa decarboxylase (LOC692675), mRNA	NM_001043709	mRNA	carboxy-lyase activity; pyridoxal phosphate binding; catalytic activity; lyase activity	cellular amino acid metabolic process; carboxylic acid metabolic process					
+3/22/2015 10:30:13	Bombyx mori	dynactin 4 protein	NP_001040117	protein	NaN	NaN					Nikola Krivokuca
+3/21/2015 10:56:36	Bombyx mori	ecdysteroid 22-kinase	NP_001038956	protein	transferase activity, transferring phosphorus-containing groups	metabolic process					Nikola Krivokuca
+3/22/2015 10:32:32	Bombyx mori	Ef1alpha-like factor isoform 1	NP_001040118	protein	GTPase activity; GTP binding; translation elongation factor activity; translation release factor activity	translational elongation; translational termination					Nikola Krivokuca
+3/16/2015 11:53:44	Bombyx mori	egg protein 80 gene	HM012804	DNA	NaN	NaN					Nikola Krivokuca
+3/17/2015 14:45:19	Bombyx mori	egg-specific protein precursor	NP_001119718	protein	NaN	lipid metabolic process					Nikola Krivokuca
+3/22/2015 10:35:04	Bombyx mori	elongation factor 1 gamma	NP_001036852	protein	translation elongation factor activity	translational elongation					Nikola Krivokuca
+3/22/2015 10:33:56	Bombyx mori	elongation factor 1-beta	NP_001037556	protein	translation elongation factor activity	translational elongation					Nikola Krivokuca
+3/29/2015 16:48:11	Bombyx mori	ERK mRNA for Extracellular regulated MAP kinase	AB183869	mRNA	ATP binding; MAP kinase activity	MAPK cascade; protein phosphorylation					
+3/22/2015 10:36:21	Bombyx mori	eukaryotic translation initiation factor 3 subunit E	NP_001037404	protein	translation initiation factor activity	formation of translation preinitiation complex; regulation of translational initiation					Nikola Krivokuca
+1/10/2015 9:18:23	Bombyx mori	eukaryotic translation initiation factor 3 subunit K	NP_001040534	protein	ribosome binding; translation initiation factor activity	formation of translation preinitiation complex; regulation of translational initiation					Nikola Krivokuca
+3/29/2015 17:00:35	Bombyx mori	extracellular regulated MAP kinase	NP_001036921	protein	ATP binding; MAP kinase activity	MAPK cascade; protein phosphorylation					
+3/22/2015 10:37:29	Bombyx mori	exuperantia	NP_001040124	protein	nucleic acid binding	NaN					Nikola Krivokuca
+3/22/2015 10:39:37	Bombyx mori	ferritin precursor	NP_001037580	protein	ferric iron binding; ferroxidase activity	cellular iron ion homeostasis; iron ion transport; oxidation-reduction process					Nikola Krivokuca
+3/21/2015 10:58:47	Bombyx mori	fibroinase precursor	NP_001037464 	protein	cysteine-type peptidase activity	proteolysis					Nikola Krivokuca
+1/10/2015 9:20:55	Bombyx mori	FK506-binding protein precursor	NP_001108408	protein	NaN	NaN					Nikola Krivokuca
+3/21/2015 11:02:09	Bombyx mori	fructose 1,6-bisphosphate aldolase	NP_001091766	protein	fructose-bisphosphate aldolase activity	glycolytic process					Nikola Krivokuca
+3/21/2015 11:00:36	Bombyx mori	fumarylacetoacetase	NP_001040300	protein	fumarylacetoacetase activity	aromatic amino acid family metabolic process					Nikola Krivokuca
+6/14/2015 10:11:50	Bombyx mori	galactokinase-like (LOC101735679), transcript variant X2, mRNA	XM_004921944	mRNA	NaN	NaN					
+3/30/2015 14:50:58	Bombyx mori	gamma-glutamyltransferase mRNA	GU270851	mRNA	gamma-glutamyltransferase activity	glutathione metabolic process					
+1/8/2015 21:32:11	Bombyx mori	gene for diapause hormone precursor	D16230	DNA	myostimulatory hormone activity; neuropeptide hormone activity	neuropeptide signaling pathway; pheromone biosynthetic process					Nikola Krivokuca
+1/3/2015 12:26:12	Bombyx mori	GK-3 mRNA for glycerol kinase-3	AB250689	mRNA	glycerol kinase activity	carbohydrate metabolic process					Nikola Krivokuca
+6/13/2015 18:59:21	Bombyx mori	glucose-6-phosphate 1-dehydrogenase (LOC101746394), mRNA	XM_004929180	mRNA	glucose-6-phosphate dehydrogenase activity; NADP binding	glucose metabolic process; pentose-phosphate shunt		fcaL-P16_F_O12	Silk Base		
+1/5/2015 18:41:00	Bombyx mori	glucose-6-phosphate 1-dehydrogenase-like	XP_004929237	protein	glucose-6-phosphate dehydrogenase activity; NADP binding	glucose metabolic process; pentose-phosphate shunt					Nikola Krivokuca
+3/21/2015 11:03:44	Bombyx mori	glucose-6-phosphate isomerase	NP_001091761	protein	glucose-6-phosphate isomerase activity	gluconeogenesis; glycolytic process					Nikola Krivokuca
+3/21/2015 11:05:11	Bombyx mori	glutamate dehydrogenase	NP_001040245	protein	oxidoreductase activity	cellular amino acid metabolic process					Nikola Krivokuca
+3/21/2015 11:09:28	Bombyx mori	glutathione S-transferase delta 2	NP_001036974	protein	transferase activity	metabolic process					Nikola Krivokuca
+3/13/2015 11:21:46	Bombyx mori	glutathione S-transferase omega 3	NP_001040435	protein	glutathione transferase activity	NaN					Nikola Krivokuca
+3/21/2015 11:11:13	Bombyx mori	glutathione S-transferase sigma 2	NP_001036994	protein	transferase activity	metabolic process					Nikola Krivokuca
+1/5/2015 18:40:29	Bombyx mori	glycogen phosphorylase (Glyp), mRNA	NM_001123339	mRNA	glycogen phosphorylase activity; pyridoxal phosphate binding	carbohydrate metabolic process					Nikola Krivokuca
+6/13/2015 17:43:33	Bombyx mori	glycogen phosphorylase (GPase)	BP183207	EST	NaN	NaN		NRPG1576	Silk Base		
+3/23/2015 8:04:29	Bombyx mori	GTP binding protein	NP_001040339	protein	ATPase activity; ATP binding; GTP binding; ribosomal large subunit binding; ribosome binding	metabolic process					Nikola Krivokuca
+3/22/2015 10:42:13	Bombyx mori	GTP-binding nuclear protein Ran	NP_001040274	protein	GTPase activity; GTP binding	GTP catabolic process; intracellular protein transport; nucleocytoplasmic transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/23/2015 8:06:38	Bombyx mori	GTP-binding protein RAB2	NP_001037612 	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/21/2015 11:13:45	Bombyx mori	H+ transporting ATP synthase beta subunit isoform 1	NP_001040450	protein	ATP binding; proton-transporting ATP synthase activity, rotational mechanism	ATP hydrolysis coupled proton transport; ATP synthesis coupled proton transport					Nikola Krivokuca
+3/21/2015 11:17:46	Bombyx mori	H+ transporting ATP synthase O subunit isoform 1	NP_001040526	protein	proton-transporting ATP synthase activity, rotational mechanism	ATP synthesis coupled proton transport					Nikola Krivokuca
+3/21/2015 11:15:12	Bombyx mori	H+ transporting ATP synthase subunit d	NP_001093279	protein	hydrogen ion transmembrane transporter activity	ATP synthesis coupled proton transport					Nikola Krivokuca
+3/21/2015 11:16:31	Bombyx mori	H+ transporting ATP synthase subunit g	NP_001040398	protein	hydrogen ion transmembrane transporter activity	ATP synthesis coupled proton transport					Nikola Krivokuca
+3/23/2015 8:08:27	Bombyx mori	H2A histone family member V	NP_001040529	protein	DNA binding; protein heterodimerization activity	NaN					Nikola Krivokuca
+1/4/2015 12:12:35	Bombyx mori	heat shock cognate protein	NP_001036892	protein	ATP binding	Stress response					Nikola Krivokuca
+3/17/2015 15:02:30	Bombyx mori	heat shock protein 20.4	NP_001037038 	protein	NaN	Stress response					Nikola Krivokuca
+3/17/2015 15:09:36	Bombyx mori	heat shock protein 70	NP_001037396	protein	ATP binding	Stress response					Nikola Krivokuca
+3/24/2015 11:07:55	Bombyx mori	heat shock protein 70 mRNA	DQ311189	mRNA	ATP binding	NaN					Nikola Krivokuca
+3/17/2015 14:57:16	Bombyx mori	heat shock protein 83	NP_001036876	protein	ATP binding	protein folding; response to stress					Nikola Krivokuca
+3/17/2015 15:04:58	Bombyx mori	heat shock protein hsp 19.9	NP_001036984	protein	NaN	Stress response					Nikola Krivokuca
+3/17/2015 15:03:36	Bombyx mori	heat shock protein hsp20.1	NP_001036941	protein	NaN	Stress response					Nikola Krivokuca
+1/5/2015 19:05:11	Bombyx mori	heat shock protein hsp20.4 (Hsp20.4) mRNA	AF315318	mRNA	NaN	stress response					Nikola Krivokuca
+1/26/2015 1:07:49	Bombyx mori	heat shock protein hsp20.8 (Hsp20.8) mRNA	AF315317	mRNA	NaN	NaN					Nikola Krivokuca
+3/17/2015 15:00:32	Bombyx mori	heat shock protein hsp20.8	NP_001091794	protein	NaN	Stress response					Nikola Krivokuca
+3/17/2015 15:07:04	Bombyx mori	heat shock protein hsp21.4	NP_001036985	protein	NaN	Stress response					Nikola Krivokuca
+3/17/2015 15:06:06	Bombyx mori	heat shock protein hsp23.7 precursor	NP_001036942	protein	NaN	Stress response					Nikola Krivokuca
+1/2/2015 23:35:39	Bombyx mori	HSFd mRNA for heat shock factor-d	AB623244	mRNA	sequence-specific DNA binding	regulation of transcription from RNA polymerase II promoter					Nikola Krivokuca
+1/5/2015 19:02:56	Bombyx mori	hsp90 mRNA for 90-kDa heat shock protein	AB060275	mRNA	ATP binding	protein folding; response to stress					Nikola Krivokuca
+3/21/2015 11:19:54	Bombyx mori	hydroxyacyl-coenzyme A dehydrogenase	NP_001040132	protein	3-hydroxyacyl-CoA dehydrogenase activity; coenzyme binding; enoyl-CoA hydratase activity	fatty acid beta-oxidation					Nikola Krivokuca
+3/23/2015 8:12:37	Bombyx mori	insulin-related peptide binding protein precursor	NP_001040473	protein	NaN	NaN					Nikola Krivokuca
+3/21/2015 11:24:56	Bombyx mori	isocitrate dehydrogenase	NP_001040134	protein	isocitrate dehydrogenase (NADP+) activity; magnesium ion binding; NAD binding	isocitrate metabolic process; tricarboxylic acid cycle					Nikola Krivokuca
+3/30/2015 14:48:34	Bombyx mori	isocitrate dehydrogenase mRNA	GU270852	mRNA	isocitrate dehydrogenase (NAD+) activity; magnesium ion binding; NAD binding	tricarboxylic acid cycle					
+3/23/2015 8:10:11	Bombyx mori	juvenile hormone binding protein e96h-0303 precursor	NP_001036949	protein	NaN	NaN					Nikola Krivokuca
+1/9/2015 21:27:59	Bombyx mori	juvenile hormone epoxide hydrolase-like protein 4 (Jheh-lp4) mRNA	NM_001166148	mRNA	cis-stilbene-oxide hydrolase activity	NaN					Nikola Krivokuca
+3/23/2015 8:13:51	Bombyx mori	karyopherin alpha 3	NP_001040340	protein	protein transporter activity	protein import into nucleus					Nikola Krivokuca
+3/23/2015 8:15:25	Bombyx mori	kazal-type proteinase inhibitor precursor	NP_001040250	protein	NaN	NaN					Nikola Krivokuca
+3/23/2015 8:17:04	Bombyx mori	kinesin heavy chain	NP_001116822	protein	ATP binding; microtubule motor activity	microtubule-based movement; metabolic process					Nikola Krivokuca
+3/14/2015 11:15:21	Bombyx mori	Kruppel homolog 1 (Kr-h1)	NM_001177861	mRNA	metal ion binding	NaN					Nikola Krivokuca
+3/17/2015 14:47:53	Bombyx mori	low molecular 30 kDa lipoprotein PBMHP-12 precursor	NP_001095196	protein	NaN	NaN	GO - Cellular component - extracellular spac				Nikola Krivokuca
+3/17/2015 14:51:29	Bombyx mori	low molecular 30 kDa lipoprotein PBMHP-6 precursor	NP_001037486 	protein	NaN	NaN	GO - Cellular component - extracellular spac				Nikola Krivokuca
+3/17/2015 14:49:31	Bombyx mori	low molecular 30 kDa lipoprotein PBMHPC-23 precursor	NP_001095198	protein	NaN	NaN	GO - Cellular component - extracellular region				Nikola Krivokuca
+3/23/2015 8:18:19	Bombyx mori	LRP16 protein	NP_001040417	protein	NaN	NaN					Nikola Krivokuca
+3/21/2015 11:26:00	Bombyx mori	lysosomal thiol reductase IP30 isoform 1 precursor	NP_001040197	protein	NaN	NaN					Nikola Krivokuca
+1/10/2015 9:30:25	Bombyx mori	MAP kinse-ERK kinase	NP_001036922	protein	ATP binding; protein serine/threonine kinase activity	NaN					Nikola Krivokuca
+3/29/2015 17:00:40	Bombyx mori	MAP kinse-ERK kinase	NP_001036922	protein	ATP binding; protein serine/threonine kinase activity	protein phosphorylation					
+3/29/2015 16:49:57	Bombyx mori	MEK mRNA for MAP kinse-ERK kinase	AB183870	mRNA	ATP binding; protein serine/threonine kinase activity	protein phosphorylation					
+3/14/2015 11:24:07	Bombyx mori	methyltransferase (LOC100101163), mRNA	NM_001099619	mRNA	methyltransferase activity; nucleic acid binding	NaN					Nikola Krivokuca
+3/21/2015 11:28:05	Bombyx mori	mitochondrial aldehyde dehydrogenase	NP_001040198	protein	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	oxidation-reduction process					Nikola Krivokuca
+3/21/2015 11:30:28	Bombyx mori	mitochondrial aldehyde dehydrogenase	NP_001040475	protein	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	oxidation-reduction process					Nikola Krivokuca
+3/23/2015 8:20:01	Bombyx mori	mitochondrial matrix protein p33	NP_001040258	protein	NaN	NaN	GO - Cellular component - mitochondrial matrix				Nikola Krivokuca
+3/21/2015 11:32:58	Bombyx mori	Mn superoxide dismutase	NP_001037299 	protein	metal ion binding; superoxide dismutase activity	removal of superoxide radicals; oxidation-reduction process					Nikola Krivokuca
+6/14/2015 9:59:31	Bombyx mori	mRNA for BmRelish1	AB298441	mRNA	sequence-specific DNA binding transcription factor activity	regulation of transcription, DNA-templated					
+1/5/2015 18:39:36	Bombyx mori	mRNA for Hsp40	AB206400	mRNA	protein folding	NaN					Nikola Krivokuca
+1/3/2015 13:20:50	Bombyx mori	mRNA for mammalian sorbitol dehydrogenase homolog	D13371	mRNA	L-iditol 2-dehydrogenase activity; zinc ion binding	NaN					Nikola Krivokuca
+1/5/2015 18:38:46	Bombyx mori	mRNA for trehalase	D13763	mRNA	alpha,alpha-trehalase activity	trehalose metabolic process					Nikola Krivokuca
+1/10/2015 9:31:58	Bombyx mori	neutral endopeptidase 24.11	NP_001036959	protein	metalloendopeptidase activity	NaN					Nikola Krivokuca
+3/23/2015 8:22:11	Bombyx mori	nuclear migration protein nudC	NP_001040262	protein	NaN	NaN					Nikola Krivokuca
+3/23/2015 8:23:26	Bombyx mori	nucleosome assembly protein isoform 2	NP_001040201	protein	NaN	nucleosome assembly					Nikola Krivokuca
+1/10/2015 9:33:01	Bombyx mori	olfactory receptor-like	NP_001116817	protein	G-protein coupled receptor activity; odorant binding; olfactory receptor activity	NaN					Nikola Krivokuca
+3/31/2015 9:55:44	Bombyx mori	osiris 20	NP_001129359	protein	NaN	NaN					
+1/7/2015 22:43:57	Bombyx mori	oxygen resistance gene 1 (oxr1) mRNA	NM_001145655	mRNA	NaN	NaN					Nikola Krivokuca
+3/29/2015 17:00:41	Bombyx mori	p38 map kinase	NP_001036996	protein	ATP binding; MAP kinase activity	MAPK cascade; protein phosphorylation					
+3/29/2015 16:51:14	Bombyx mori	p38 MAPK mRNA for p38 map kinase	AB208585	mRNA	ATP binding; MAP kinase activity	MAPK cascade; protein phosphorylation					
+1/12/2015 7:57:23	Bombyx mori	paralytic peptide binding protein 1	NP_001037394 	protein	NaN	NaN	GO - Cellular component - extracellular region				Nikola Krivokuca
+3/14/2015 10:48:35	Bombyx mori	paralytic peptide binding protein 2	NM_001134914	mRNA	NaN	NaN	GO - Cellular component - extracellular region				Nikola Krivokuca
+3/21/2015 11:34:40	Bombyx mori	peptidylprolyl isomerase B precursor	NP_001040479	protein	peptidyl-prolyl cis-trans isomerase activity	protein folding					Nikola Krivokuca
+3/23/2015 8:26:03	Bombyx mori	perilipin	NP_001040143	protein	NaN	NaN					Nikola Krivokuca
+6/14/2015 9:53:40	Bombyx mori	period mRNA	AY526605	mRNA	signal transducer activity	regulation of transcription, DNA-templated					
+1/9/2015 22:03:28	Bombyx mori	phenol UDP-glucosyltransferase (UGT40A1) mRNA	NM_001043575	mRNA	transferase activity, transferring hexosyl groups	NaN					Nikola Krivokuca
+3/21/2015 11:38:22	Bombyx mori	phenoloxidase subunit 1 precursor	NP_001037335 	protein	metal ion binding; monophenol monooxygenase activity	defense response; melanin biosynthetic process from tyrosine					Nikola Krivokuca
+1/5/2015 18:27:51	Bombyx mori	phosphofructo kinase	AK378322	mRNA	NaN	NaN					Nikola Krivokuca
+6/13/2015 17:33:54	Bombyx mori	phosphofructo kinase (PFK)	BP179383	EST	NaN	NaN		ovS302A08f	Silk Base		
+3/30/2015 15:25:57	Bombyx mori	poly A binding protein (Pabp) mRNA	NM_001098353	mRNA	nucleotide binding; RNA binding	NaN					
+3/23/2015 8:29:05	Bombyx mori	profilin	NP_001037108 	protein	actin binding	NaN	GO Cellular localization - cytoskeleton; cytoplasm				Nikola Krivokuca
+3/23/2015 8:30:12	Bombyx mori	prohibitin protein WPH	NP_001040289	protein	NaN	NaN	GO - Cellular component - membrane				Nikola Krivokuca
+3/21/2015 11:36:42	Bombyx mori	prophenoloxidase-2s	NP_001106218	protein	metal ion binding; oxidoreductase activity	oxidation-reduction process; metabolic process					Nikola Krivokuca
+3/23/2015 20:22:48	Bombyx mori	proteasome 25 kDa subunit	NP_001040344	protein	threonine-type endopeptidase activity	ubiquitin-dependent protein catabolic process					Nikola Krivokuca
+3/23/2015 20:24:02	Bombyx mori	proteasome 26S non-ATPase subunit 12	NP_001040208	protein	NaN	NaN	GO - Cellular component - proteasome comple				Nikola Krivokuca
+3/23/2015 20:25:22	Bombyx mori	proteasome alpha 3 subunit	NP_001040387	protein	threonine-type endopeptidase activity	ubiquitin-dependent protein catabolic process					Nikola Krivokuca
+3/23/2015 20:27:00	Bombyx mori	proteasome beta subunit	NP_001093092	protein	threonine-type endopeptidase activity	proteolysis involved in cellular protein catabolic process					Nikola Krivokuca
+1/12/2015 8:00:20	Bombyx mori	proteasome subunit alpha type 6-A	NP_001040459	protein	threonine-type endopeptidase activity	ubiquitin-dependent protein catabolic process					Nikola Krivokuca
+3/21/2015 11:39:50	Bombyx mori	protein disulfide isomerase precursor	NP_001037171 	protein	protein disulfide isomerase activity	cell redox homeostasis					Nikola Krivokuca
+3/21/2015 11:41:11	Bombyx mori	protein disulfide-isomerase like protein ERp57 precursor	NP_001036997	protein	protein disulfide isomerase activity	cell redox homeostasis					Nikola Krivokuca
+6/13/2015 19:48:55	Bombyx mori	putative paralytic peptide-binding protein mRNA	DQ306881	mRNA	NaN	NaN					
+3/23/2015 20:29:51	Bombyx mori	Rab7	NP_001040368	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/23/2015 20:28:30	Bombyx mori	ras small monomeric GTPase Rab6	NP_001040270	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/23/2015 20:31:55	Bombyx mori	ras-related GTP-binding protein Rab11	NP_001037618 	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/23/2015 20:31:58	Bombyx mori	ras-related GTP-binding protein Rab11	NP_001037618 	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/14/2015 11:21:22	Bombyx mori	relish (Rel), transcript variant 2, mRNA	NM_001105234	mRNA	sequence-specific DNA binding transcription factor activity	NaN	GO - Cellular component -  nucleus				Nikola Krivokuca
+3/18/2015 10:28:01	Bombyx mori	ribosomal protein L10A	NP_001037147 	protein	RNA binding; structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:29:10	Bombyx mori	ribosomal protein L11	NP_001037215 	protein	structural constituent of ribosome						Nikola Krivokuca
+1/25/2015 13:52:21	Bombyx mori	ribosomal protein L13	AY769282	mRNA	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:30:25	Bombyx mori	ribosomal protein L13	NP_001037153 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:31:27	Bombyx mori	ribosomal protein L13A	NP_001037156 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+1/4/2015 11:59:35	Bombyx mori	ribosomal protein L14 (RpL14) mRNA	AY769284	mRNA	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:32:24	Bombyx mori	ribosomal protein L15	NP_001037162 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+1/4/2015 11:51:19	Bombyx mori	ribosomal protein L18 (RpL18), mRNA	NM_001043752 	mRNA	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:35:22	Bombyx mori	ribosomal protein L19	NP_001037221 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:36:40	Bombyx mori	ribosomal protein L23A	NP_001037229 	protein	structural constituent of ribosome; nucleotide binding	translation					Nikola Krivokuca
+1/4/2015 11:53:19	Bombyx mori	ribosomal protein L27A (RpL27A), mRNA	NM_001044057	mRNA	structural constituent of ribosome	translation					Nikola Krivokuca
+1/4/2015 11:44:06	Bombyx mori	ribosomal protein L41 (RpL41), mRNA	NM_001042449	mRNA	structural constituent of ribosome	translation					Nikola Krivokuca
+3/17/2015 15:16:45	Bombyx mori	ribosomal protein L7	NP_001037135 	protein	NaN	NaN	GO - Cellular component - ribonucleoprotein complex; ribosome				Nikola Krivokuca
+3/17/2015 15:20:01	Bombyx mori	ribosomal protein L7A	NP_001037138 	protein	NaN	ribosome biogenesis	GO - Cellular component - ribonucleoprotein complex; ribosome				Nikola Krivokuca
+1/4/2015 11:47:47	Bombyx mori	ribosomal protein L8	NP_001037141	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/17/2015 16:04:55	Bombyx mori	ribosomal protein L9	NP_001037144	protein	rRNA binding; structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:47:00	Bombyx mori	ribosomal protein S15A	NP_001037570 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+1/12/2015 8:03:29	Bombyx mori	ribosomal protein S2	NP_001037564 	protein	RNA binding; structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:48:17	Bombyx mori	ribosomal protein S27	NP_001037277 	protein	structural constituent of ribosome; metal ion binding	translation					Nikola Krivokuca
+3/18/2015 10:39:09	Bombyx mori	ribosomal protein S3	NP_001037253 	protein	structural constituent of ribosome; RNA binding	translation					Nikola Krivokuca
+3/18/2015 10:50:40	Bombyx mori	ribosomal protein S30	NP_001037281 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:41:02	Bombyx mori	ribosomal protein S5	NP_001037259 	protein	structural constituent of ribosome; RNA binding	translation					Nikola Krivokuca
+3/18/2015 10:41:54	Bombyx mori	ribosomal protein S7	NP_001037261	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:42:53	Bombyx mori	ribosomal protein S8	NP_001037263 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+3/18/2015 10:44:06	Bombyx mori	ribosomal protein S9	NP_001037265 	protein	structural constituent of ribosome; rRNA binding	translation					Nikola Krivokuca
+3/15/2015 10:36:52	Bombyx mori	RNA helicase-like protein	AB252573	mRNA	ATP binding; helicase activity; nucleic acid binding	cell differentiation; gene silencing by RNA; meiotic cell cycle; multicellular organismal development; spermatogenesis					Nikola Krivokuca
+3/23/2015 8:21:00	Bombyx mori	roadblock domain-containing protein 3	NP_001040324	protein	NaN	NaN					Nikola Krivokuca
+3/21/2015 11:42:32	Bombyx mori	S-adenosyl-L-homocysteine hydrolase	NP_001093271	protein	adenosylhomocysteinase activity	one-carbon metabolic process					Nikola Krivokuca
+3/21/2015 11:43:41	Bombyx mori	salivary secreted ribonuclease	NP_001040347	protein	endoribonuclease activity	rRNA transcription; RNA phosphodiester bond hydrolysis, endonucleolytic					Nikola Krivokuca
+1/24/2015 23:21:12	Bombyx mori	Samui	BAB39763	protein	Hsp70 protein binding	multicellular organismal development					Nikola Krivokuca
+1/2/2015 22:59:49	Bombyx mori	Samui mRNA	AB032717	mRNA	Hsp70 protein binding	multicellular organismal development					Nikola Krivokuca
+3/23/2015 20:34:32	Bombyx mori	SCP-related protein precursor	NP_001037636 	protein	NaN	NaN	GO - Cellular component - extracellular region				Nikola Krivokuca
+3/23/2015 20:36:12	Bombyx mori	small GTP binding protein RAB5	NP_001037614 	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/22/2015 10:43:29	Bombyx mori	small GTP-binding protein	NP_001037010	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+3/23/2015 20:38:16	Bombyx mori	small GTP-binding protein Rab10	NP_001091822	protein	GTP binding	protein transport; small GTPase mediated signal transduction					Nikola Krivokuca
+1/26/2015 0:36:49	Bombyx mori	sorbitol dehydrogenase	DQ443393	mRNA	oxidoreductase activity; zinc ion binding	oxidation-reduction process					Nikola Krivokuca
+1/25/2015 0:21:30	Bombyx mori	sorbitol dehydrogenase-2b	AB604175	mRNA	L-iditol 2-dehydrogenase activity; zinc ion binding	oxidation-reduction process					Nikola Krivokuca
+1/12/2015 8:06:06	Bombyx mori	splicing factor arginine/serine-rich 6	NP_001037676	protein	nucleic acid binding; nucleotide binding	NaN					Nikola Krivokuca
+3/23/2015 20:39:49	Bombyx mori	sterol carrier protein x	NP_001037378 	protein	transferase activity, transferring acyl groups other than amino-acyl groups	metabolic process					Nikola Krivokuca
+3/21/2015 11:45:58	Bombyx mori	thiol peroxiredoxin	NP_001037083	protein	peroxiredoxin activity	oxidation-reduction process					Nikola Krivokuca
+3/21/2015 20:10:29	Bombyx mori	thioredoxin peroxidase	NP_001040464	protein	peroxidase activity; peroxiredoxin activity	oxidation-reduction process					Nikola Krivokuca
+3/23/2015 20:41:54	Bombyx mori	thymosin isoform 1	NP_001040486	protein	actin monomer binding	actin filament organization					Nikola Krivokuca
+1/7/2015 23:20:45	Bombyx mori	time interval measuring enzyme-esterase A4 (Time) mRNA	NM_001043893	mRNA	metal ion binding; superoxide dismutase activity	superoxide metabolic process; oxidation-reduction process					Nikola Krivokuca
+1/12/2015 8:08:35	Bombyx mori	titin1	NP_001108405	protein	NaN	NaN					Nikola Krivokuca
+1/12/2015 8:09:37	Bombyx mori	titin2 	NP_001091843	protein	NaN	NaN					Nikola Krivokuca
+1/7/2015 21:58:30	Bombyx mori	transcription factor Ets (Ets) mRNA	NM_001043437	mRNA	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity	NaN					Nikola Krivokuca
+3/23/2015 20:43:41	Bombyx mori	transferrin precursor	NP_001037014	protein	ferric iron binding	cellular iron ion homeostasis; iron ion transport					Nikola Krivokuca
+3/21/2015 20:13:00	Bombyx mori	transitional endoplasmic reticulum ATPase TER94	NP_001037003	protein	ATP binding; hydrolase activity	metabolic process					Nikola Krivokuca
+3/21/2015 20:11:36	Bombyx mori	transketolase	NP_001040158	protein	catalytic activity	metabolic process					Nikola Krivokuca
+3/23/2015 20:45:03	Bombyx mori	translationally-controlled tumor protein homolog	NP_001037572 	protein	NaN	NaN	GO - Cellular component - cytoplasm				Nikola Krivokuca
+1/8/2015 23:30:15	Bombyx mori	trehalose transporter BmTRET1 (Tret1) mRNA	NM_001114872	mRNA	trehalose transmembrane transporter activity	trehalose transport					Nikola Krivokuca
+3/21/2015 20:14:38	Bombyx mori	triosephosphate isomerase	NP_001119730	protein	triose-phosphate isomerase activity	gluconeogenesis; glycolytic process; pentose-phosphate shunt					Nikola Krivokuca
+1/12/2015 8:13:28	Bombyx mori	tropomyosin-2 isoform 3	NP_001103783	protein	NaN	NaN					Nikola Krivokuca
+3/23/2015 8:27:03	Bombyx mori	ubiquitin/ribosomal protein L40 fusion protein	NP_001037372 	protein	structural constituent of ribosome	translation					Nikola Krivokuca
+1/10/2015 9:26:03	Bombyx mori	uncharacterized protein LOC778506 precursor	NP_001091801	protein	NaN	NaN					Nikola Krivokuca
+3/21/2015 20:15:56	Bombyx mori	vacuolar ATP synthase catalytic subunit A	NP_001091829	protein	ATP binding; proton-transporting ATPase activity, rotational mechanism	ATP hydrolysis coupled proton transport; ATP metabolic process					Nikola Krivokuca
+3/21/2015 20:18:33	Bombyx mori	vacuolar ATP synthase subunit B	NP_001091828	protein	ATP binding; hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	ATP hydrolysis coupled proton transport; ATP metabolic process					Nikola Krivokuca
+3/21/2015 20:17:06	Bombyx mori	vacuolar ATP synthase subunit H	NP_001040488	protein	proton-transporting ATPase activity, rotational mechanism	ATP hydrolysis coupled proton transport					Nikola Krivokuca
+3/23/2015 20:46:13	Bombyx mori	vesicle amine transport protein	NP_001093281	protein	oxidoreductase activity; zinc ion binding	oxidation-reduction process					Nikola Krivokuca
+3/17/2015 14:55:22	Bombyx mori	vitellogenin precursor	NP_001037309 	protein	lipid transporter activity; nutrient reservoir activity	NaN					Nikola Krivokuca
+1/12/2015 8:19:41	Bombyx mori	yellow-f2 precursor	NP_001037432	protein	NaN	NaN					Nikola Krivokuca
+3/29/2015 19:18:44	Chilo suppressalis	CsSP1 mRNA for methionine-rich storage protein	AB248057	mRNA	NaN	NaN					
+3/29/2015 19:45:26	Chilo suppressalis	hsc70 mRNA for heat shock cognate protein 70	AB206478	mRNA	ATP binding	Stress response					
+3/29/2015 19:31:24	Chilo suppressalis	hsp19.7 mRNA for small heat shock protein 19.7	AB244517	mRNA	NaN	Stress response					
+3/29/2015 19:43:39	Chilo suppressalis	hsp90 mRNA for heat shock protein 90	AB206477	mRNA	ATP binding	protein folding; response to stress					
+5/4/2015 18:40:54	Choristoneura fumiferana	diapause associated protein 1	AAC35428	protein	NaN	NaN					
+5/4/2015 18:39:56	Choristoneura fumiferana	diapause associated protein 1 (DAP1) mRNA	AF007767	mRNA	NaN	NaN					
+5/4/2015 18:43:14	Choristoneura fumiferana	diapause associated protein 2	AAC35429	protein	NaN	NaN					
+5/4/2015 18:42:35	Choristoneura fumiferana	diapause associated protein 2 (DAP2) mRNA	AF007768	mRNA	NaN	NaN					
+6/11/2015 11:18:11	Culex pipiens	40S ribosomal protein S13, mRNA		mRNA	structural constituent of ribosome	translation	Primers designed from Culex quinquefasciatus, XM_001865100				
+6/11/2015 11:00:33	Culex pipiens	40S ribosomal protein S2, mRNA		mRNA	structural constituent of ribosome	translation	Primers designed from Culex quinquefasciatus, XM_001864733				
+1/10/2015 12:15:46	Culex pipiens	catalase mRNA	HQ239409	mRNA	catalase activity; heme binding	response to oxidative stress					
+1/10/2015 12:50:56	Culex pipiens	chymotrypsin-like mRNA	AY958427	mRNA	serine-type endopeptidase activity	proteolysis					
+4/24/2015 17:50:25	Culex pipiens	couch potato (cpo) mRNA	HQ603004	mRNA	nucleic acid binding; nucleotide binding	NaN					
+1/10/2015 16:14:54	Culex pipiens	cytochrome c oxidase subunit I mRNA	DQ360492	mRNA	cytochrome-c oxidase activity; heme binding; iron ion binding	aerobic respiration; oxidative phosphorylation					
+1/10/2015 16:13:56	Culex pipiens	cytochrome c oxidase subunit III mRNA	DQ360493	mRNA	cytochrome-c oxidase activity	aerobic electron transport chain					
+1/10/2015 12:53:00	Culex pipiens	fatty acid synthase mRNA	AY958428	mRNA	NaN	NaN					
+4/26/2015 16:45:55	Culex pipiens	FOXO	AEI86721	protein	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity	transcription, DNA-templated					
+4/26/2015 16:41:19	Culex pipiens	FOXO mRNA	JF979382	mRNA	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity	transcription, DNA-templated					
+1/10/2015 12:17:16	Culex pipiens	glutathione peroxidase mRNA	HQ239413	mRNA	glutathione peroxidase activity	response to oxidative stress					
+6/11/2015 11:13:24	Culex pipiens	heat shock protein, mRNA		mRNA	ATP binding; unfolded protein binding	protein folding; response to stress	Primers designed from Culex quinquefasciatus, XM_001861228				
+4/22/2015 17:20:45	Culex pipiens	prothoracicotropic hormone preproprotein mRNA	HM246665	mRNA	NaN	NaN					
+1/10/2015 12:00:27	Culex pipiens	superoxide dismutase-1 mRNA	HQ239410	mRNA	metal ion binding; superoxide dismutase activity	oxidation-reduction process					
+1/10/2015 12:10:21	Culex pipiens	superoxide dismutase-2 mRNA	HQ239411	mRNA	metal ion binding; superoxide dismutase activity	oxidation-reduction process					
+1/10/2015 12:11:50	Culex pipiens	superoxide dismutase-3 mRNA	HQ239412	mRNA	metal ion binding; superoxide dismutase activity	oxidation-reduction process					
+1/10/2015 12:46:18	Culex pipiens	trypsin mRNA	AY958426	mRNA	serine-type endopeptidase activity	proteolysis					
+4/24/2015 16:24:29	Culex pipiens pipiens	3-hydroxyacyl-CoA dehyrogenase (HCDH-1) mRNA	GQ232421	mRNA	3-hydroxyacyl-CoA dehydrogenase activity; coenzyme binding	fatty acid metabolic process					
+4/24/2015 16:27:35	Culex pipiens pipiens	3-hydroxyacyl-CoA dehyrogenase (HCDH-2) mRNA	GQ232422	mRNA	3-hydroxyacyl-CoA dehydrogenase activity; coenzyme binding	fatty acid metabolic process					
+4/24/2015 16:29:31	Culex pipiens pipiens	3-hydroxyacyl-CoA dehyrogenase (HCDH-3) mRNA	GQ232423	mRNA	3-hydroxyacyl-CoA dehydrogenase activity; coenzyme binding	fatty acid metabolic process					
+4/24/2015 16:31:47	Culex pipiens pipiens	3-hydroxyisobutyryl-CoA hydrolase-like (HCDH-4) mRNA	GQ232424	mRNA	NaN	NaN					
+4/22/2015 19:39:17	Culex pipiens pipiens	3,2-trans-enoyl-CoA isomerase (ECH-2) mRNA	GQ232426	mRNA	isomerase activity	metabolic process					
+4/22/2015 19:01:08	Culex pipiens pipiens	acetyl-CoA carboxylase (ACC) mRNA	GQ232408	mRNA	acetyl-CoA carboxylase activity; ATP binding	fatty acid biosynthetic process					
+4/22/2015 19:09:24	Culex pipiens pipiens	acetyl-CoA synthetase (ACS) mRNA	GQ232412	mRNA	catalytic activity	metabolic process					
+4/22/2015 19:29:40	Culex pipiens pipiens	acyl-CoA dehydrogenase (ACD-1) mRNA	GQ232416	mRNA	acyl-CoA dehydrogenase activity	metabolic process; oxidation-reduction process					
+4/22/2015 19:31:17	Culex pipiens pipiens	acyl-CoA dehydrogenase (ACD-2) mRNA	GQ232417	mRNA	oxidoreductase activity, acting on the CH-CH group of donors	oxidation-reduction process					
+4/22/2015 19:34:24	Culex pipiens pipiens	acyl-CoA dehydrogenase (ACD-4) mRNA	GQ232419	mRNA	oxidoreductase activity, acting on the CH-CH group of donors	metabolic process; oxidation-reduction process					
+4/24/2015 17:15:11	Culex pipiens pipiens	acyl-CoA delta (11)-desaturase-like (FAD-3) mRNA	GQ232435	mRNA	NaN	NaN					
+1/10/2015 20:02:38	Culex pipiens pipiens	beta-actin mRNA	DQ385449	mRNA	ATP binding	NaN	Postoji u 2 različita rada još jedna sekvenca pod imenom actin odnosno actin 2, DQ322244, uneta pod brojem 87.				
+4/24/2015 16:35:27	Culex pipiens pipiens	beta-ketoacyl-CoA thiolase (BK-1) mRNA	GQ232429	mRNA	transferase activity, transferring acyl groups other than amino-acyl groups	metabolic process					
+4/24/2015 16:48:50	Culex pipiens pipiens	beta-ketoacyl-CoA thiolase (BK-2) mRNA	GQ232430	mRNA	transferase activity, transferring acyl groups other than amino-acyl groups	metabolic process					
+4/22/2015 19:15:53	Culex pipiens pipiens	carnitine O-acetyltransferase (CPT-3) mRNA	GQ232415	mRNA	transferase activity, transferring acyl groups	metabolic process					
+4/22/2015 19:11:33	Culex pipiens pipiens	carnitine O-octanoyltransferase (CPT-1) mRNA	GQ232413	mRNA	transferase activity, transferring acyl groups	metabolic process					
+4/22/2015 19:13:59	Culex pipiens pipiens	carnitine O-palmitoyltransferase (CPT-2) mRNA	GQ232414	mRNA	transferase activity, transferring acyl groups	metabolic process					
+1/10/2015 18:21:14	Culex pipiens pipiens	clone CpiED-A01 putative diapause upregulated unknown mRNA	DQ401449	mRNA	NaN	NaN					
+1/10/2015 16:04:28	Culex pipiens pipiens	clone CpiED-A07 putative mitochondrial malate dehydrogenase mRNA	DQ401440	mRNA	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	carbohydrate metabolic process					
+1/10/2015 19:20:36	Culex pipiens pipiens	clone CpiED-A18 putative poly A binding protein mRNA	DQ401462	mRNA	RNA binding	NaN					
+1/10/2015 15:48:39	Culex pipiens pipiens	clone CpiED-A24 selenoprotein mRNA	DQ401437	mRNA	NaN	NaN					
+1/10/2015 19:24:39	Culex pipiens pipiens	clone CpiED-A29 ribosomal protein L40 mRNA	DQ401463	mRNA	structural constituent of ribosome	translation					
+1/10/2015 17:18:40	Culex pipiens pipiens	clone CpiED-A32 ribosomal protein L18 mRNA	DQ401442	mRNA	structural constituent of ribosome	translation					
+1/10/2015 13:40:13	Culex pipiens pipiens	clone CpiED-B03 putative transcription elongation factor B polypeptide 3 binding protein 1 mRNA	DQ401433	mRNA	translation elongation factor activity	translational elongation					
+1/10/2015 12:33:49	Culex pipiens pipiens	clone CpiED-B06 beta tubulin mRNA	DQ401465	mRNA	GTPase activity; GTP binding; structural constituent of cytoskeleton	microtubule-based process; protein polymerization					
+1/10/2015 18:28:00	Culex pipiens pipiens	clone CpiED-C09 putative diapause upregulated unknown mRNA	DQ401452	mRNA	NaN	NaN	Similarity: 46% Anopheles gambiae, EAL40389				
+1/10/2015 18:30:06	Culex pipiens pipiens	clone CpiED-D03 putative diapause upregulated unknown mRNA	DQ401453	mRNA	NaN	NaN	Similarity: 66% Anopheles gambiae, EAA10746				
+1/10/2015 17:20:48	Culex pipiens pipiens	clone CpiED-E08 ribosomal protein 27A mRNA	DQ401443	mRNA	NaN	NaN					
+1/10/2015 13:49:39	Culex pipiens pipiens	clone CpiED-M01 putative methoprene-tolerant protein mRNA	DQ401435	mRNA	NaN	NaN					
+1/10/2015 17:29:33	Culex pipiens pipiens	clone CpiLD-A01 large subunit ribosomal RNA, mitochondrial	DQ401444	rRNA	NaN	NaN					
+1/10/2015 15:54:03	Culex pipiens pipiens	clone CpiLD-A06 aldehyde oxidase-like mRNA sequence	DQ401438	mRNA	NaN	NaN					
+1/10/2015 19:34:28	Culex pipiens pipiens	clone CpiLD-A10 cecropin mRNA	DQ401464	mRNA	NaN	defense response to bacterium					
+1/10/2015 15:59:00	Culex pipiens pipiens	clone CpiLD-A11 small heat shock protein mRNA	DQ401439	mRNA	NaN	Stress response					
+1/10/2015 13:34:55	Culex pipiens pipiens	clone CpiLD-A38 ribosomal protein S3A mRNA	DQ401432	mRNA	structural constituent of ribosome	translation					
+1/10/2015 18:24:08	Culex pipiens pipiens	clone CpiLD-B02 late diapause upregulated unknown mRNA	DQ401450	mRNA	NaN	NaN	Similarity: 42% Plasmodium yoelii yoelii, XP_727512				
+1/10/2015 18:25:39	Culex pipiens pipiens	clone CpiLD-B11 late diapause upregulated unknown mRNA	DQ401451	mRNA	NaN	NaN					
+1/10/2015 13:53:16	Culex pipiens pipiens	clone CpiLD-C04 ribosomal protein S24 mRNA	DQ401436	mRNA	NaN	NaN	GO - Cellular component - ribonucleoprotein complex; ribosome				
+1/10/2015 18:08:08	Culex pipiens pipiens	clone CpiLD-D02 putative reverse transcriptase mRNA	DQ401447	mRNA	RNA-directed DNA polymerase activity	RNA-dependent DNA replication					
+1/10/2015 18:31:42	Culex pipiens pipiens	clone CpiLD-D06 late diapause upregulated unknown mRNA	DQ401454	mRNA	NaN	NaN					
+1/10/2015 18:10:41	Culex pipiens pipiens	clone CpiLD-D11 miniature inverted-repeat transposable element-like sequence	DQ401448	mRNA	NaN	NaN					
+1/10/2015 16:07:53	Culex pipiens pipiens	clone CpiLD-E09 putative methylmalonate-semialdehyde dehydrogenase mRNA	DQ401441	mRNA	methylmalonate-semialdehyde dehydrogenase (acylating) activity	oxidation-reduction process; metabolic process					
+1/10/2015 18:32:34	Culex pipiens pipiens	clone CpiLD-F01 late diapause upregulated unknown mRNA	DQ401455	mRNA	NaN	NaN					
+1/10/2015 18:35:43	Culex pipiens pipiens	clone CpiLD-F03 late diapause upregulated unknown mRNA	DQ401456	mRNA	NaN	NaN	Similarity: 65% Anopheles gambiae, XP_317882				
+1/10/2015 19:03:31	Culex pipiens pipiens	clone CpiLD-F07 late diapause upregulated unknown mRNA	DQ401457	mRNA	NaN	NaN					
+1/10/2015 19:05:36	Culex pipiens pipiens	clone CpiLD-G10 putative diapause upregulated unknown mRNA	DQ401458	mRNA	NaN	NaN	Similarity: 94% Aedes aegypti, AY432235				
+1/10/2015 19:06:45	Culex pipiens pipiens	clone CpiLD-H03 late diapause upregulated unknown mRNA	DQ401459	mRNA	NaN	NaN					
+1/10/2015 19:09:19	Culex pipiens pipiens	clone CpiLD-H05 putative diapause upregulated unknown mRNA	DQ401460	mRNA	NaN	NaN					
+1/10/2015 18:00:07	Culex pipiens pipiens	clone CpiLD-H09 28S large subunit ribosomal RNA	DQ401446	rRNA	NaN	NaN					
+1/10/2015 13:45:13	Culex pipiens pipiens	clone CpiLD-L01 putative ribosomal protein S6 mRNA	DQ401434	mRNA	NaN	NaN	GO - Cellular component - ribonucleoprotein complex; ribosome				
+1/10/2015 19:10:04	Culex pipiens pipiens	clone CpiLD-M43 putative diapause upregulated unknown mRNA sequence	DQ401461	mRNA	NaN	NaN					
+4/22/2015 19:32:47	Culex pipiens pipiens	crotonobetainyl-CoA dehydrogenase-like (ACD-3) mRNA	GQ232418	mRNA	NaN	NaN					
+4/22/2015 19:40:58	Culex pipiens pipiens	cyclohex-1-ene-1-carboxyl-CoA hydratase (ECH-3) mRNA	GQ232427	mRNA	catalytic activity	metabolic process					
+4/24/2015 17:12:12	Culex pipiens pipiens	delta (9)-desaturase (FAD-1) mRNA	GQ232433	mRNA	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	fatty acid biosynthetic process					
+4/24/2015 17:13:44	Culex pipiens pipiens	delta (9)-desaturase (FAD-2) mRNA	GQ232434	mRNA	NaN	NaN					
+4/22/2015 19:37:24	Culex pipiens pipiens	enoyl-CoA hydratase (ECH-1) mRNA	GQ232425	mRNA	catalytic activity	metabolic process					
+4/22/2015 19:42:27	Culex pipiens pipiens	enoyl-CoA hydratase (ECH-4) mRNA	GQ232428	mRNA	catalytic activity	metabolic process					
+4/24/2015 17:07:30	Culex pipiens pipiens	fatty acid binding protein (FABP) mRNA	GQ232431	mRNA	NaN	NaN					
+4/22/2015 19:03:37	Culex pipiens pipiens	fatty acid synthase S-acetyltransferase (FAS-1) mRNA	GQ232409	mRNA	transferase activity	metabolic process					
+4/22/2015 19:05:42	Culex pipiens pipiens	fatty acid synthase S-acetyltransferase (FAS-2) mRNA	GQ232410	mRNA	transferase activity	metabolic process					
+4/22/2015 19:07:26	Culex pipiens pipiens	fatty acid synthase S-acetyltransferase (FAS-3) mRNA	GQ232411	mRNA	transferase activity	metabolic process					
+4/26/2015 16:27:40	Culex pipiens pipiens	forkhead transcription factor mRNA	EU442283	mRNA	NaN	NaN					
+4/24/2015 17:09:47	Culex pipiens pipiens	hormone-sensitive lipase mRNA	GQ232432	mRNA	lipase activity	cholesterol metabolic process; lipid catabolic process					
+4/26/2015 16:29:55	Culex pipiens pipiens	insulin receptor mRNA	EU442282	mRNA	ATP binding; protein kinase activity	protein phosphorylation					
+1/10/2015 11:33:33	Culex pipiens pipiens	insulin-like peptide 1 mRNA	FJ266014	mRNA	hormone activity	NaN	GO - Cellular component - extracellular region				
+1/10/2015 11:36:58	Culex pipiens pipiens	insulin-like peptide 2 mRNA	FJ266015	mRNA	hormone activity	NaN	GO - Cellular component - extracellular region				
+1/10/2015 11:38:37	Culex pipiens pipiens	insulin-like peptide 5 mRNA	FJ266016	mRNA	hormone activity	NaN	GO - Cellular component - extracellular region				
+4/22/2015 19:36:00	Culex pipiens pipiens	isovaleryl-CoA dehydrogenase (ACD-5) mRNA	GQ232420	mRNA	acyl-CoA dehydrogenase activity	metabolic process; oxidation-reduction process					
+4/24/2015 17:17:42	Culex pipiens pipiens	nuclear hormone receptor 41 (NHR-41) mRNA	GQ232436	mRNA	sequence-specific DNA binding transcription factor activity; steroid hormone receptor activity	transcription, DNA-templated					
+4/24/2015 17:24:34	Culex pipiens pipiens	nuclear hormone receptor 48-like (NHR-48) mRNA	GQ232437	mRNA	NaN	NaN					
+4/24/2015 17:30:51	Culex pipiens pipiens	retinoid X receptor alpha (NHR-49) mRNA	GQ232438	mRNA	DNA binding; sequence-specific DNA binding transcription factor activity; steroid hormone receptor activity	transcription, DNA-templated					
+4/24/2015 17:37:03	Culex pipiens pipiens	ribosomal protein L19 mRNA	FJ266017	mRNA	structural constituent of ribosome	translation					
+1/10/2015 16:01:11	Culex pipiens pipiens	strain Buckeye actin mRNA	DQ322244	mRNA	NaN	NaN					
+5/4/2015 19:04:14	Delia antiqua	14-3-3 Zeta		mRNA	NaN	NaN	Primers designed from clone ID: 770-KU3-27, similar to ADD18606/Glossina morsitans morsitans (100%)				
+5/16/2015 15:33:37	Delia antiqua	20S proteasome regulatory subunit		mRNA	NaN	NaN	Primers designed from clone ID: 823-KU3-80, similar to ADD19848/Glossina morsitans morsitans (96%)				
+5/16/2015 15:57:26	Delia antiqua	Actin 1		mRNA	NaN	NaN	Primers designed from clone ID: 766-KU3-23, similar to AAL50652/Culicoides sonorensis (99%)				
+4/29/2015 19:28:19	Delia antiqua	Actin binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 860-KU6-10, similar to ADV15452/Drosophila melanogaster (100%)				
+5/16/2015 15:59:06	Delia antiqua	Activity-regulated cytoskeleton associated protein		mRNA	NaN	NaN	Primers designed from clone ID: 768-KU3-25, similar to ACN69123/Stomoxys calcitrans (90%)				
+4/29/2015 18:37:12	Delia antiqua	Adenosine monophosphate deaminase		mRNA	NaN	NaN	Primers designed from clone ID: 895-KU6-45, similar to ADD18530/Glossina morsitans morsitans (96%)				
+4/29/2015 18:45:36	Delia antiqua	ADP ribosylation factor		mRNA	NaN	NaN	Primers designed from clone ID: 858-KU6-3, similar to NP_524631/Drosophila melanogaster (98%)				
+4/29/2015 18:39:43	Delia antiqua	Alcohol dehydrogenase		mRNA	NaN	NaN	Primers designed from clone ID: KU6-contig6, similar to CAA26412/Sarcophaga peregrina (86%)				
+5/16/2015 15:14:12	Delia antiqua	Aldehyde dehydrogenase		mRNA	NaN	NaN	Primers designed from clone ID: 762-KU3-19, similar to EDW08154/Drosophila mojavensis (80%)				
+5/16/2015 15:18:35	Delia antiqua	Alkaline phosphatase		mRNA	NaN	NaN	Primers designed from clone ID: 752-KU3-9, similar to EDW16283/Drosophila mojavensis (75%)				
+5/4/2015 19:05:19	Delia antiqua	Alpha-crystallin domain		mRNA	NaN	NaN	Primers designed from clone ID: 830-KU3-35, similar to EDW02215/Drosophila grimshawi (46%)				
+5/4/2015 19:02:13	Delia antiqua	Alpha-crystallin Hsp23 like		mRNA	NaN	NaN	Primers designed from clone ID: 813-KU3-18, similar to ADD19092/Glossina morsitans morsitans (58%)				
+4/29/2015 19:07:35	Delia antiqua	AN1-type zinc finger protein 5		mRNA	NaN	NaN	Primers designed from clone ID: 929-KU6-79, similar to EDV42028/Drosophila ananassae (94%)				
+5/16/2015 15:42:13	Delia antiqua	Arylphorin		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig2, similar to AAB58985/Calliphora vicina (81%)				
+5/16/2015 15:43:16	Delia antiqua	Arylphorin		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig4, similar to AAB58984/Calliphora vicina (72%)				
+4/29/2015 19:16:52	Delia antiqua	Arylphorin receptor		mRNA	NaN	NaN	Primers designed from clone ID: KU6-contig5, similar to BAA06161/Sarcophaga peregrina				
+5/16/2015 15:44:07	Delia antiqua	Arylphorin receptor		mRNA	NaN	NaN	Primers designed from clone ID: 782-KU3-39, similar to CAA55707/Calliphora vicina (51%)				
+5/16/2015 15:48:22	Delia antiqua	Arylphorin subunit A4		mRNA	NaN	NaN	Primers designed from clone ID: 850-KU3-55, similar to CAA42034/Calliphora vicina (87%)				
+5/16/2015 16:02:35	Delia antiqua	Aspartyl-tRNA synthetase		mRNA	NaN	NaN	Primers designed from clone ID: 828-KU3-85, similar to EDV99300/Drosophila grimshawi (72%)				
+4/29/2015 19:01:32	Delia antiqua	Autophagy-specific 7		mRNA	NaN	NaN	Primers designed from clone ID: 905-KU6-55, similar to ADD19450/Glossina morsitans morsitans (69%)				
+5/4/2015 19:18:41	Delia antiqua	C-type lectin		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig7, similar to ADI87388/Lucilia sericata (37%)				
+4/29/2015 18:57:10	Delia antiqua	Calcium-independent protein kinase C		mRNA	NaN	NaN	Primers designed from clone ID: 893-KU6-38, similar to EDW58976/Drosophila virilis (70%)				
+4/29/2015 19:13:06	Delia antiqua	Calreticulin		mRNA	NaN	NaN	Primers designed from clone ID: 904-KU6-54, similar to EDW84006/Drosophila willistoni (94%)				
+4/29/2015 18:38:29	Delia antiqua	Carbon-nitrogen hydrolase		mRNA	NaN	NaN	Primers designed from clone ID: 902-KU6-52, similar to ADD19271/Glossina morsitans morsitans (72%)				
+5/16/2015 15:13:13	Delia antiqua	Carbonic anhydrase		mRNA	NaN	NaN	Primers designed from clone ID: 823-KU3-28, similar to EDV49664/Drosophila erecta (54%)				
+4/29/2015 18:26:47	Delia antiqua	Carboxylesterase P		mRNA	NaN	NaN	Primers designed from clone ID: 856-KU6-1, similar to AAA28520/Drosophila teissieri (50%)				
+4/29/2015 19:27:19	Delia antiqua	Centrosome-associated zinc finger protein		mRNA	NaN	NaN	Primers designed from clone ID: 917-KU6-67, similar to EDW97482/Drosophila yakuba (94%)				
+5/16/2015 15:17:35	Delia antiqua	Choline dehydrogenase		mRNA	NaN	NaN	Primers designed from clone ID: 755-KU3-12, similar to EAA06000/Anopheles gambiae str. PEST (68%)				
+3/23/2015 21:34:22	Delia antiqua	clip-domain serine proteinase mRNA	AY728056	mRNA	serine-type endopeptidase activity	NaN					
+4/28/2015 20:38:20	Delia antiqua	Cu2+/Zn2+ superoxide dismutase SOD		mRNA	NaN	NaN	Primers designed from clone ID: 855-KU6-5, similar to AAT85825/Glossina morsitans morsitans (79%)				
+4/29/2015 19:22:48	Delia antiqua	Cuticular protein		mRNA	NaN	NaN	Primers designed from clone ID: 877-KU6-27, similar to EDW09400/Drosophila mojavensis (62%)				
+5/16/2015 15:52:00	Delia antiqua	Cuticular protein		mRNA	NaN	NaN	Primers designed from clone ID: 847-KU3-104, similar to EDW69237/Drosophila virilis (61%)				
+4/29/2015 19:25:19	Delia antiqua	Cuticular protein tweedle motif 4		mRNA	NaN	NaN	Primers designed from clone ID: 934-KU6-84, similar to NP_609157/Drosophila melanogaster (95%)				
+5/16/2015 15:21:33	Delia antiqua	Cyclophilin A		mRNA	NaN	NaN	Primers designed from clone ID: 836-KU3-93, similar to EDW64197/Drosophila virilis (69%)				
+5/16/2015 15:12:06	Delia antiqua	Cytochrome oxidase subunit III (Cox III)		mRNA	NaN	NaN	Primers designed from clone ID: 773-KU3-30, similar to AAO21022/Drosophila nigromaculata (95%)				
+5/16/2015 15:23:19	Delia antiqua	Cytochrome P450 ( CYP6D3v2)		mRNA	NaN	NaN	Primers designed from clone ID: 801-KU3-6, similar to BAB41135/Musca domestica (63%)				
+4/29/2015 18:42:06	Delia antiqua	Cytochrome P450 (CYP6D1)		mRNA	NaN	NaN	Primers designed from clone ID: 853-KU6-3, similar to AAD32478/Musca domestica (74%)				
+1/27/2016 18:05:06	Delia antiqua	DaCCT2 mRNA for chaperonin beta subunit	AB430832	mRNA	ATP binding	protein folding				Miloš	
+1/27/2016 18:06:15	Delia antiqua	DaCCT3 mRNA for chaperonin gamma subunit	AB430833	mRNA	ATP binding	protein folding				Miloš	
+1/27/2016 18:07:17	Delia antiqua	DaCCT4 mRNA for chaperonin delta subunit	AB430834	mRNA	ATP binding	protein folding				Miloš	
+1/27/2016 18:08:08	Delia antiqua	DaCCT5 mRNA for chaperonin epsilon subunit	AB430835	mRNA	ATP binding	protein folding				Miloš	
+1/27/2016 18:09:04	Delia antiqua	DaCCT6 mRNA for chaperonin zeta subunit	AB430836	mRNA	ATP binding	protein folding				Miloš	
+1/27/2016 18:10:08	Delia antiqua	DaCCT7 mRNA for chaperonin eta subunit	AB430837d	mRNA	ATP binding	protein folding				Miloš	
+1/27/2016 18:11:18	Delia antiqua	DaCCT8 mRNA for chaperonin theta subunit	AB430838	mRNA	ATP binding	protein folding				Miloš	
+3/23/2015 21:18:32	Delia antiqua	DaTCP-1 mRNA for T-complex protein 1, alpha subunit(TCP-1-alpha)(CCT-alpha)	AB194475	mRNA	ATP binding	protein folding					
+4/29/2015 19:11:12	Delia antiqua	Diazepam-binding inhibitor		mRNA	NaN	NaN	Primers designed from clone ID: 920-KU6-70, similar to EDV31734/Drosophila ananassae (80%)				
+5/4/2015 19:07:15	Delia antiqua	DNA repair protein (Mre11)		mRNA	NaN	NaN	Primers designed from clone ID: 796-KU3-53, similar to EDW13312/Drosophila mojavensis (79%)				
+5/16/2015 15:37:08	Delia antiqua	DNA replication licensing factor		mRNA	NaN	NaN	Primers designed from clone ID: 779-KU3-36, similar to EDW13707/Drosophila mojavensis (86%)				
+4/28/2015 20:46:27	Delia antiqua	Dorsal isoform		mRNA	NaN	NaN	Primers designed from clone ID: 907-KU6-52, similar to EDV32982/Drosophila ananassae (34%)				
+4/28/2015 20:47:34	Delia antiqua	Dorsal protein		mRNA	NaN	NaN	Primers designed from clone ID: 950-KU6-100, similar to AAT94434/Drosophila melanogaster (78%)				
+4/28/2015 20:44:50	Delia antiqua	Dorsal-related immunity factor, isoform C		mRNA	NaN	NaN	Primers designed from clone ID: 905-KU6-50, similar to EDW04264/Drosophila grimshawi (53%)				
+5/16/2015 16:06:09	Delia antiqua	DUF 298 family		mRNA	NaN	NaN	Primers designed from clone ID: 757-KU3-14, similar to ADD20128/Glossina morsitans morsitans (80%)				
+5/16/2015 16:07:06	Delia antiqua	DUF1759 superfamily		mRNA	NaN	NaN	Primers designed from clone ID: 790-KU3-47, similar to EFA12768/Tribolium castaneum (30%)				
+5/16/2015 15:54:37	Delia antiqua	Ecdysoneless		mRNA	NaN	NaN	Primers designed from clone ID: 813-KU3-70, similar to EDW18321/Drosophila mojavensis (71%)				
+5/16/2015 15:26:54	Delia antiqua	Elongation factor 1 beta		mRNA	NaN	NaN	Primers designed from clone ID: 830-KU3-87, similar to EDW37753/Drosophila persimilis (76%)				
+4/29/2015 18:50:17	Delia antiqua	Elongation factor 2(eEF-2)		mRNA	NaN	NaN	Primers designed from clone ID: 874-KU6-19, similar to EDW63220/Drosophila virilis (98%)				
+5/16/2015 15:35:15	Delia antiqua	Engrailed nuclear homeoprotein		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig10, similar to ADD20361/Glossina morsitans morsitans (80%)				
+5/16/2015 15:25:57	Delia antiqua	Enlongation-factor c		mRNA	NaN	NaN	Primers designed from clone ID: 803-KU3-8, similar to EDW02901/Drosophila grimshawi (95%)				
+5/16/2015 15:09:49	Delia antiqua	F0F1 ATP synthase beta subunit		mRNA	NaN	NaN	Primers designed from clone ID: 824-KU3-81, similar to ADD20442/Glossina morsitans morsitans (91%)				
+4/29/2015 18:31:49	Delia antiqua	Fatty acyl-CoA elongase		mRNA	NaN	NaN	Primers designed from clone ID: 890-KU6-40, similar to EDW54836/Drosophila sechellia (85%)				
+5/16/2015 16:11:15	Delia antiqua	GA14484		mRNA	NaN	NaN	Primers designed from clone ID: 809-KU3-14, similar to EAL26924/Drosophila pseudoobscura pseudoobscura (95%)				
+4/29/2015 19:37:42	Delia antiqua	GF-II mRNA-binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 884-KU6-29, similar to EDW78470/Drosophila willistoni (96%)				
+4/29/2015 19:42:24	Delia antiqua	GF17745		mRNA	NaN	NaN	Primers designed from clone ID: 886-KU6-31, similar to EDV41978/Drosophila ananassae (91%)				
+5/16/2015 16:10:25	Delia antiqua	GF20765		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig9, similar to EDV34053/Drosophila ananassae (62%)				
+5/16/2015 16:09:38	Delia antiqua	GG22446		mRNA	NaN	NaN	Primers designed from clone ID: 787-KU3-44, similar to EDV56085/Drosophila erecta (60%)				
+4/29/2015 19:46:27	Delia antiqua	GH15908		mRNA	NaN	NaN	Primers designed from clone ID: 864-KU6-14, similar to EDV95809/Drosophila grimshawi (37%)				
+4/29/2015 19:41:31	Delia antiqua	GH17098		mRNA	NaN	NaN	Primers designed from clone ID: 877-KU6-22, similar to XP_001985507/Drosophila grimshawi (45%)				
+5/16/2015 15:50:13	Delia antiqua	GH18-chitinase-like		mRNA	NaN	NaN	Primers designed from clone ID: 769-KU3-26, similar to EDX05225/Drosophila simulans (57%)				
+5/16/2015 16:12:21	Delia antiqua	GJ15777		mRNA	NaN	NaN	Primers designed from clone ID: 843-KU3-48, similar to EDW66045/Drosophila virilis (80%)				
+5/16/2015 16:13:55	Delia antiqua	GK11417		mRNA	NaN	NaN	Primers designed from clone ID: 812-KU3-69, similar to EDW78905/Drosophila willistoni (90%)				
+4/29/2015 19:43:15	Delia antiqua	GK24774		mRNA	NaN	NaN	Primers designed from clone ID: 880-KU6-30, similar to EDW77987/Drosophila willistoni (49%)				
+4/29/2015 19:44:19	Delia antiqua	GL11745		mRNA	NaN	NaN	Primers designed from clone ID: CTC639-6-9, similar to EDW30938/Drosophila persimilis (55%)				
+5/16/2015 15:16:37	Delia antiqua	Glucose dehydrogenase		mRNA	NaN	NaN	Primers designed from clone ID: 758-KU3-15, similar to ADD19493/Glossina morsitans morsitans (70%)				
+5/16/2015 16:03:38	Delia antiqua	Glutamate-rich WD repeat protein		mRNA	NaN	NaN	Primers designed from clone ID: 852-KU3-57, similar to EDW08725/Drosophila mojavensis (76%)				
+5/16/2015 15:19:33	Delia antiqua	Glutamyl aminopeptidase		mRNA	NaN	NaN	Primers designed from clone ID: 744-KU3-1, similar to EDW14568/Drosophila mojavensis (67%)				
+5/4/2015 19:03:12	Delia antiqua	Glutathione S-transferase		mRNA	NaN	NaN	Primers designed from clone ID: 840-KU3-97, similar to ADD20585/Glossina morsitans morsitans (84%)				
+5/4/2015 19:17:37	Delia antiqua	Glutathione S-transferase		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig5, similar to P42860/Musca domestica (89%)				
+4/29/2015 19:45:20	Delia antiqua	GM26041		mRNA	NaN	NaN	Primers designed from clone ID: 857-KU6-7, similar to EDW42512/Drosophila sechellia (66%)				
+5/16/2015 15:40:23	Delia antiqua	Heat shock factor binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 821-KU3-26, similar to EDW64892/Drosophila virilis (94%)				
+4/28/2015 20:34:44	Delia antiqua	heat shock protein 23 mRNA	HQ392521	mRNA	NaN	Stress response					
+5/4/2015 19:01:05	Delia antiqua	Heat shock protein 70		mRNA	NaN	NaN	Primers designed from clone ID: 847-KU3-52, similar to ADB44080/Musca domestica (99%)				
+5/4/2015 18:59:36	Delia antiqua	Heat shock protein 70 BD		mRNA	NaN	NaN	Primers designed from clone ID: 804-KU3-9, similar to ADQ12986/Bactrocera dorsalis (96%)				
+3/1/2016 11:52:40	Delia antiqua	heat shock protein 70 mRNA	DQ017057	mRNA	ATP binding	NaN				Miloš	
+4/29/2015 19:21:13	Delia antiqua	Hemocyanin_C		mRNA	NaN	NaN	Primers designed from clone ID: CTC639-6-8, similar to EDV44319/ Drosophila persimilis (50%)				
+4/29/2015 18:59:19	Delia antiqua	Heterogeneous nuclear ribonucleoprotein		mRNA	NaN	NaN	Primers designed from clone ID: 856-KU6-6, similar to AAN13831/Drosophila melanogaster (90%)				
+5/16/2015 15:41:12	Delia antiqua	Hexamerin LSP-2		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig11, similar to AAC24157/Calliphora vicina (82%)				
+5/16/2015 15:45:00	Delia antiqua	Hexamerin LSP-2		mRNA	NaN	NaN	Primers designed from clone ID: 810-KU3-67, similar to AAC24157/Calliphora vicina (84%)				
+5/16/2015 15:46:43	Delia antiqua	Hexamerin LSP-2		mRNA	NaN	NaN	Primers designed from clone ID: 838-KU3-95, similar to AAC24157/Calliphora vicina (84%)				
+5/16/2015 15:47:36	Delia antiqua	Hexamerin LSP-2		mRNA	NaN	NaN	Primers designed from clone ID: 842-KU3-99, similar to AAC24157/Calliphora vicina (84%)				
+5/16/2015 15:31:25	Delia antiqua	Histone deacetylase 6 isoform C		mRNA	NaN	NaN	Primers designed from clone ID: CTC639-3-7, similar to EDX17965/Drosophila simulans (76%)				
+4/29/2015 18:58:13	Delia antiqua	Histone-fold protein CHRAC subunit		mRNA	NaN	NaN	Primers designed from clone ID: 931-KU6-81, similar to EDW06498/Drosophila mojavensis (55%)				
+5/16/2015 15:32:41	Delia antiqua	Histone-lysine N-methyltransferase		mRNA	NaN	NaN	Primers designed from clone ID: 820-KU3-77, similar to EFN76382/Harpegnathos saltator (69%)				
+4/28/2015 20:29:10	Delia antiqua	Hsp70-interacting protein		mRNA	NaN	NaN	Primers designed from clone ID: 868-KU6-18, similar to ADD18533/Glossina morsitans morsitans (78%)				
+5/16/2015 16:13:08	Delia antiqua	Hypothetical conserved protein		mRNA	NaN	NaN	Primers designed from clone ID: 753-KU3-10, similar to EDW45913/Glossina morsitans morsitans (85%)				
+5/16/2015 16:07:57	Delia antiqua	Hypothetical protein		mRNA	NaN	NaN	Primers designed from clone ID: 789-KU3-46, similar to EFR26677/Anopheles darlingi (98%)				
+4/29/2015 19:39:36	Delia antiqua	Hypothetical protein Bm1_11025		mRNA	NaN	NaN	Primers designed from clone ID: 868-KU6-13, similar to EDP37487/ Brugia malayi (87%)				
+5/16/2015 16:08:48	Delia antiqua	Hypothetical protein EAI		mRNA	NaN	NaN	Primers designed from clone ID: 844-KU3-101, similar to EFN76762/Harpegnathos saltator (40%)				
+5/16/2015 15:15:33	Delia antiqua	Insect alcohol dehydrogenase		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig6, similar to CAA26412/Sarcophaga peregrina (87%)				
+4/29/2015 19:12:12	Delia antiqua	Insulin-like growth factor-binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 865-KU6-15, similar to EDW69413/Drosophila virilis (40%)				
+4/29/2015 19:30:18	Delia antiqua	Kinesin-associated protein		mRNA	NaN	NaN	Primers designed from clone ID: 869-KU6-19, similar to EDW00288/ Drosophila grimshawi (76%)				
+5/16/2015 15:59:52	Delia antiqua	Kinesin-like protein		mRNA	NaN	NaN	Primers designed from clone ID: 795-KU3-52, similar to EDW12322/Drosophila mojavensis (49%)				
+5/16/2015 15:45:52	Delia antiqua	Larval hexamerin Hex-L		mRNA	NaN	NaN	Primers designed from clone ID: 805-KU3-62, similar to AAN84514/Musca domestica (80%)				
+5/16/2015 16:05:20	Delia antiqua	Leucine-rich repeat		mRNA	NaN	NaN	Primers designed from clone ID: 825-KU3-82, similar to EDW25472/Drosophila persimilis (60%)				
+5/16/2015 16:04:28	Delia antiqua	Leucine-rich repeat-containing protein		mRNA	NaN	NaN	Primers designed from clone ID: 815-KU3-72, similar to EDW32258/Drosophila persimilis (85%)				
+5/16/2015 15:49:10	Delia antiqua	Lipid storage droplet-1 ( Perilipin)		mRNA	NaN	NaN	Primers designed from clone ID: 839-KU3-44, similar to EDV94987/Drosophila grimshawi (86%)				
+4/29/2015 18:33:02	Delia antiqua	Low density lipoprotein-related protein		mRNA	NaN	NaN	Primers designed from clone ID: 912-KU6-62, similar to EDW07829/Drosophila mojavensis (83%)				
+5/16/2015 15:51:05	Delia antiqua	Matrix metalloproteinase-14		mRNA	NaN	NaN	Primers designed from clone ID: 751-KU3-8, similar to EDW35535/Drosophila persimilis (71%)				
+4/28/2015 20:43:08	Delia antiqua	Microsomal glutathione S-transferase-like		mRNA	NaN	NaN	Primers designed from clone ID: 873-KU6-23, similar to EDW27125/Drosophila persimilis (77%)				
+5/16/2015 15:20:40	Delia antiqua	Midophosphoribosyltransferase		mRNA	NaN	NaN	Primers designed from clone ID: 788-KU3-45, similar to EDW69191/Drosophila virilis (82%)				
+5/16/2015 15:10:59	Delia antiqua	Mitochondrial ATP-dependent protease		mRNA	NaN	NaN	Primers designed from clone ID: 845-KU3-102, similar to ADD19101/Glossina morsitans morsitans (98%)				
+4/29/2015 19:35:43	Delia antiqua	Mitochondrial Ribosomal protein L17		mRNA	NaN	NaN	Primers designed from clone ID: 851-KU6-1, similar to EDW17654/Drosophila mojavensis (85%)				
+4/29/2015 19:36:46	Delia antiqua	Mitochondrial ribosomal protein S2		mRNA	NaN	NaN	Primers designed from clone ID: 938-KU6-88, similar to ADD19681/Glossina morsitans morsitans (91%)				
+4/28/2015 20:36:47	Delia antiqua	Molecular chaperone prefolding subunit		mRNA	NaN	NaN	Primers designed from clone ID: 953-KU6-103, similar to EAL31166/Drosophila pseudoobscura pseudoobscura (76%)				
+5/16/2015 15:53:46	Delia antiqua	Molting defective, isoform		mRNA	NaN	NaN	Primers designed from clone ID: 837-KU3-94, similar to AAN14004/Drosophila melanogaster (44%)				
+4/29/2015 18:30:09	Delia antiqua	mRNA for delta9-acyl-CoA desaturase	AB300221	mRNA	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	fatty acid biosynthetic process					
+3/23/2015 22:07:23	Delia antiqua	mRNA for Hsp90 protein	AJ890081	mRNA	ATP binding	protein folding					
+4/28/2015 20:40:29	Delia antiqua	Multifunction chaperon/14-3-3zeta		mRNA	NaN	NaN	Primers designed from clone ID: 876-KU6-21, similar to AAR09679/Drosophila melanogaster (100%)				
+4/29/2015 19:29:12	Delia antiqua	Myosin-9		mRNA	NaN	NaN	Primers designed from clone ID: 866-KU6-16, similar to ABV53633/Drosophila melanogaster (88%)				
+5/16/2015 15:30:33	Delia antiqua	Nucleolar complex protein 2-like protein		mRNA	NaN	NaN	Primers designed from clone ID: CTC639-3-1, similar to EDW80267/Drosophila willistoni (85%)				
+4/29/2015 19:14:53	Delia antiqua	Nucleolar protein 6		mRNA	NaN	NaN	Primers designed from clone ID: 878-KU6-23, similar to B4LWT7/Drosophila virilis (50%)				
+5/16/2015 15:34:24	Delia antiqua	Nucleosome assembly protein 1		mRNA	NaN	NaN	Primers designed from clone ID: 821-KU3-78, similar to ADD18689/Glossina morsitans morsitans (78%)				
+5/16/2015 15:37:56	Delia antiqua	Odorant-binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 772-KU3-29, similar to EDW39104/Drosophila persimilis (52%)				
+4/29/2015 19:26:15	Delia antiqua	Pebble, isoform D		mRNA	NaN	NaN	Primers designed from clone ID: 887-KU6-37, similar to AAN12030/Drosophila melanogaster (74%)				
+4/29/2015 19:00:29	Delia antiqua	Peptidyl-prolyl cis-trans isomerase B 		mRNA	NaN	NaN	Primers designed from clone ID: 924-KU6-74, similar to EDW01661/Drosophila grimshawi (82%)				
+4/29/2015 18:55:11	Delia antiqua	Phosphatidylinositol 3-kinase catalytic subunit		mRNA	NaN	NaN	Primers designed from clone ID: 918-KU6-68, similar to EAA13932/Anopheles gambiae str. PEST (97%)				
+4/29/2015 18:40:51	Delia antiqua	Phosphatidylinositol transfer protein SEC14		mRNA	NaN	NaN	Primers designed from clone ID: 933-KU6-83, similar to EDW11584/Drosophila mojavensis (72%)				
+4/29/2015 18:56:09	Delia antiqua	Probable G-protein coupled receptor 158		mRNA	NaN	NaN	Primers designed from clone ID: 892-KU6-37, similar to EDW16557/Drosophila mojavensis (97%)				
+5/4/2015 19:19:50	Delia antiqua	Putative virus-induced protein		mRNA	NaN	NaN	Primers designed from clone ID: KU3-contig8, similar to EDW45913/Drosophila sechellia (56%)				
+4/29/2015 19:38:41	Delia antiqua	Retroviral protease		mRNA	NaN	NaN	Primers designed from clone ID: 870-KU6-20, similar to EDY70976/Drosophila pseudoobscura pseudoobscura (40%)				
+5/16/2015 15:28:40	Delia antiqua	Reverse transcriptase		mRNA	NaN	NaN	Primers designed from clone ID: 819-KU3-24, similar to AAB92393/Drosophila subobscura (34%)				
+4/29/2015 18:46:51	Delia antiqua	Rho-GTPase activating protein p190		mRNA	NaN	NaN	Primers designed from clone ID: 885-KU6-35, similar to EDW66401/Drosophila virilis (92%)				
+4/29/2015 19:32:03	Delia antiqua	Ribosomal protein L8		mRNA	NaN	NaN	Primers designed from clone ID: 951-KU6-101, similar to NP_524726/Drosophila melanogaster (96%)				
+5/16/2015 16:00:46	Delia antiqua	Ribosomal protein S17		mRNA	NaN	NaN	Primers designed from clone ID: 841-KU3-98, similar to EDW30193/Drosophila persimilis (97%)				
+4/29/2015 19:33:21	Delia antiqua	Ribosomal protein S7		mRNA	NaN	NaN	Primers designed from clone ID: 879-KU6-24, similar to ADD20152/Glossina morsitans morsitans (98%)				
+5/16/2015 16:01:44	Delia antiqua	Ribosomal S6 kinase (S6kII)		mRNA	NaN	NaN	Primers designed from clone ID: 792-KU3-49, similar to EDX03136/Drosophila yakuba (97%)				
+5/16/2015 15:36:18	Delia antiqua	RNA binding motif protein		mRNA	NaN	NaN	Primers designed from clone ID: 793-KU3-50, similar to EDW00109/Drosophila grimshawi (80%)				
+5/16/2015 15:39:35	Delia antiqua	Sarcoplasmic calcium-binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 749-KU3-6, similar to EDV59982/Drosophila erecta (85%)				
+4/29/2015 19:40:31	Delia antiqua	Seminal fluid protein		mRNA	NaN	NaN	Primers designed from clone ID: KU6-contig2, similar to EDV97855/Drosophila grimshawi (45%)				
+4/29/2015 18:43:15	Delia antiqua	Serine protease inhibitor		mRNA	NaN	NaN	Primers designed from clone ID: 881-KU6-31, similar to EDV30479/Drosophila ananassae (66%)				
+4/29/2015 18:44:20	Delia antiqua	Serine protease inhibitor		mRNA	NaN	NaN	Primers designed from clone ID: 880-KU6-25, similar to ABC25072/Glossina morsitans morsitans (61%)				
+5/16/2015 15:24:11	Delia antiqua	Serine protease inhibitor 1		mRNA	NaN	NaN	Primers designed from clone ID: 794-KU3-51, similar to ABC25072/Glossina morsitans morsitans (70%)				
+4/29/2015 18:48:04	Delia antiqua	Serine/Threonine protein kinases		mRNA	NaN	NaN	Primers designed from clone ID: 866-KU6-11, similar to XP_001984114/Drosophila grimshawi (32%)				
+4/29/2015 19:34:35	Delia antiqua	Small subunit ribosomal protein S17e		mRNA	NaN	NaN	Primers designed from clone ID: 874-KU6-24, similar to EDW30193/Drosophila persimilis (77%)				
+5/16/2015 15:52:52	Delia antiqua	Sphingosine kinase		mRNA	NaN	NaN	Primers designed from clone ID: 814-KU3-19, similar to EAA04298/Anopheles gambiae str. PEST (82%)				
+5/16/2015 15:38:45	Delia antiqua	Storage protein-binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 846-KU3-51, similar to BAA06161/Sarcophaga peregrina (55%)				
+5/16/2015 15:22:20	Delia antiqua	Sulfatase modifying factor 1		mRNA	NaN	NaN	Primers designed from clone ID: 746-KU3-3, similar to EDW17182/Drosophila mojavensis (45%)				
+5/16/2015 15:29:34	Delia antiqua	Topoisomerase		mRNA	NaN	NaN	Primers designed from clone ID: 844-KU3-49, similar to EDW37383/Drosophila persimilis (46%)				
+4/29/2015 18:49:07	Delia antiqua	Translation elongation factors-1A		mRNA	NaN	NaN	Primers designed from clone ID: 869-KU6-14, similar to EDW01519/Drosophila grimshawi (97%)				
+5/16/2015 15:27:49	Delia antiqua	Translocation protein		mRNA	NaN	NaN	Primers designed from clone ID: 806-KU3-11, similar to EDW65004/Drosophila virilis (72%)				
+4/29/2015 18:36:03	Delia antiqua	Trehalose-6-phosphate synthase 1		mRNA	NaN	NaN	Primers designed from clone ID: KU6-contig4, similar to EDV57723/Drosophila erecta (88%)				
+5/16/2015 15:58:13	Delia antiqua	Tropomyosin 1		mRNA	NaN	NaN	Primers designed from clone ID: 835-KU3-92, similar to ADD19492/Glossina morsitans morsitans (95%)				
+5/16/2015 15:25:02	Delia antiqua	Trypsin		mRNA	NaN	NaN	Primers designed from clone ID: 763-KU3-20, similar to ADD18617/Glossina morsitans morsitans (69%)				
+5/16/2015 15:56:34	Delia antiqua	Tubulin beta chain		mRNA	NaN	NaN	Primers designed from clone ID: 781-KU3-38, similar to EAT43522/Aedes aegypti (100%)				
+5/16/2015 15:55:31	Delia antiqua	Tubulin-FtsZ superfamily		mRNA	NaN	NaN	Primers designed from clone ID: 800-KU3-5, similar to EDW7713/Drosophila willistoni (98%)				
+4/29/2015 18:34:41	Delia antiqua	UDP-glucose-glycoprotein glucosyltransferase		mRNA	NaN	NaN	Primers designed from clone ID: 862-KU6-7, similar to AAL13582/Drosophila melanogaster (61%)				
+4/29/2015 19:20:16	Delia antiqua	Vitellogenin		mRNA	NaN	NaN	Primers designed from clone ID: 862-KU6-12, similar to EAL29248/Drosophila pseudoobscura pseudoobscura (67%)				
+4/29/2015 19:14:02	Delia antiqua	WW domain binding protein		mRNA	NaN	NaN	Primers designed from clone ID: 884-KU6-34, similar to EDV41129/Drosophila ananassae (92%)				
+4/29/2015 19:09:59	Delia antiqua	Zinc finger protein		mRNA	NaN	NaN	Primers designed from clone ID: 949-KU6-99, similar to EDW75036/Drosophila willistoni (61%)				
+4/29/2015 19:08:33	Delia antiqua	Zinc finger protein 142		mRNA	NaN	NaN	Primers designed from clone ID: 915-KU6-65, similar to EDW48058/Drosophila sechellia (46%)				
+4/29/2015 19:06:05	Delia antiqua	Zinc-finger double-stranded RNA-binding		mRNA	NaN	NaN	Primers designed from clone ID: 883-KU6-28, similar to EDV31062/Drosophila ananassae (44%)				
+4/30/2015 23:56:22	Drosophila montana	cacophony (cac)		DNA	calcium ion binding; high voltage-gated calcium channel activity; voltage-gated calcium channel activity	adult locomotory behavior; calcium ion import; calcium ion transport; multicellular organismal development; neurotransmitter secretion; phototransduction; positive regulation of synaptic growth at neuromuscular junction; regulation of heart rate; regulation of neurotransmitter secretion; visual behavior	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG43368	FlyBase		
+5/1/2015 0:11:03	Drosophila montana	casein kinase II alpha (CkIIalpha)		DNA	ATP binding; protein kinase activity; protein serine/threonine kinase activity	axon guidance; cellular response to starvation; chaeta development; circadian rhythm; compound eye development; intracellular mRNA localization involved in pattern specification process; lateral inhibition; locomotor rhythm; mitotic nuclear division; negative regulation of protein ubiquitination; oocyte dorsal/ventral axis specification; positive regulation of hh target transcription factor activity; positive regulation of smoothened signaling pathway;positive regulation of Wnt signaling pathway; protein phosphorylation; regulation of protein stability; Wnt signaling pathway	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG17520	FlyBase		
+5/2/2015 15:44:53	Drosophila montana	CG6227 (Prp5)		DNA	ATP binding; ATP-dependent RNA helicase activity; nucleic acid binding; nucleotidyltransferase activity; RNA helicase activity 	mRNA splicing, via spliceosome;  regulation of alternative mRNA splicing, via spliceosome 	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG6227	FlyBase		
+5/1/2015 1:11:48	Drosophila montana	couch potato (cpo)		DNA	mRNA binding; nucleotide binding	dormancy process; multicellular organismal development; olfactory behavior; regulation of hemocyte proliferation; synaptic transmission 	Comparison between diapausing and young females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG43738	FlyBase		
+5/2/2015 15:51:05	Drosophila montana	Cyclin-dependent kinase 9 (Cdk9)		DNA	ATP binding; cyclin-dependent protein serine/threonine kinase activity; protein serine/threonine kinase activity; RNA polymerase II carboxy-terminal domain kinase activity; translation elongation factor activity 	cell adhesion; mitotic cell cycle; neurogenesis; protein phosphorylation regulation of cell cycle; regulation of cell shape; response to heat; transcription, DNA-templated; transcription elongation from RNA polymerase II promoter 	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG5179	FlyBase		
+5/1/2015 0:23:29	Drosophila montana	discs overgrown (dco)		DNA	ATP binding; kinase activity; protein kinase activity; protein serine/threonine kinase activity	behavioral response to cocaine; cell communication; circadian rhythm; eclosion rhythm; endocytosis; establishment of imaginal disc-derived wing hair orientation; establishment of ommatidial planar polarity; imaginal disc growth; locomotor rhythm; negative regulation of apoptotic process; peptidyl-serine phosphorylation; phosphorylation; positive regulation of cell division; positive regulation of cell growth; positive regulation of proteasomal ubiquitin-dependent protein catabolic process; positive regulation of protein catabolic process; protein autophosphorylation; protein phosphorylation; regulation of cell shape; regulation of circadian rhythm; regulation of protein import into nucleus; rhythmic behavior; sleep	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG2048	FlyBase		
+5/1/2015 0:50:08	Drosophila montana	Dopa decarboxylase (Ddc)		DNA	aromatic-L-amino-acid decarboxylase activity; pyridoxal phosphate binding	adult chitin-containing cuticle pigmentation; anesthesia-resistant memory; courtship behavior; developmental pigmentation; dopamine biosynthetic process from tyrosine; eclosion rhythm; growth learning or memory; long-term memory; regulation of adult chitin-containing cuticle pigmentation; response to wounding; serotonin biosynthetic process from tryptophan; thermosensory behavior; thermotaxis; wing disc development 	Comparison between diapausing and young females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG10697	FlyBase		
+5/1/2015 0:57:20	Drosophila montana	ebony (e)		DNA	beta-alanyl-dopamine synthase activity	amino acid adenylylation by nonribosomal peptide synthase; chitin-based cuticle sclerotization; circadian rhythm; cuticle pigmentation; developmental pigmentation; dopamine metabolic process histamine metabolic process locomotor rhythm melanin biosynthetic process from tyrosine; negative regulation of melanin biosynthetic process; pigment metabolic process; regulation of adult chitin-containing cuticle pigmentation 	Comparison between diapausing and young females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG3331	FlyBase		
+5/1/2015 1:35:55	Drosophila montana	FK506-binding protein FKBP59		DNA	FK506 binding; peptidyl-prolyl cis-trans isomerase activity	chaperone-mediated protein folding; detection of light stimulus involved in visual perception; peripheral nervous system development; protein peptidyl-prolyl isomerization; regulation of calcium ion transport	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG4535	FlyBase		
+5/2/2015 15:28:23	Drosophila montana	Fmr1		DNA	identical protein binding; protein self-association; RNA binding; translation regulator activity 	axonal fasciculation; axon guidance; axonogenesis; brain development; cellularization; circadian rhythm; circadian sleep/wake cycle, sleep dendrite morphogenesis detection of mechanical stimulus involved in sensory perception of touch; gene silencing by RNA; germarium-derived oocyte fate determination; germ cell development; germ-line cyst formation; habituation; heterochromatin assembly; larval locomotory behavior; locomotion; locomotor rhythm; long-term memory; male courtship behavior; mitotic cell cycle, embryonic; mRNA transport; mushroom body development ;negative regulation of dendrite morphogenesis; negative regulation of imaginal disc growth; negative regulation of insulin receptor signaling pathway; negative regulation of synapse assembly; negative regulation of synaptic growth at neuromuscular junction; negative regulation of neuromuscular junction development; neuron projection morphogenesis; olfactory learning; oocyte dorsal/ventral axis specification pole cell formation positive regulation of neuroblast proliferation regulation of cell proliferation; regulation of dendrite morphogenesis; regulation of mitotic cell cycle, embryonic; regulation of neuromuscular synaptic transmission; regulation of olfactory learning; regulation of synapse organization; regulation of synapse structural plasticity; regulation of translation; short-term memory; sperm axoneme assembly; synapse assembly; synapse organization; synaptic vesicle budding; synaptic vesicle clustering; visual perception 	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG6203	FlyBase		
+5/1/2015 0:30:51	Drosophila montana	Heat shock 70-kDa protein cognate 3 (Hsc-70-3)		DNA	ATP binding	centrosome duplication; RNA interference; sleep	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG4147	FlyBase		
+5/1/2015 0:38:32	Drosophila montana	Heat shock protein 83 (Hsp83)		DNA	ATP binding; unfolded protein binding	actin filament organization; anterior/posterior axis specification, embryo; centrosome cycle; cold acclimation; mitotic spindle organization; negative regulation of cell proliferation; negative regulation of transposition; oogenesis; pole plasm mRNA localization; proteasome assembly; protein folding; R7 cell fate commitment; regulation of cell shape; regulation of circadian sleep/wake cycle, sleep; response to heat; signaling pathway;	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG1242	FlyBase		
+5/1/2015 0:27:24	Drosophila montana	Hsp70/Hsp90 organizing protein homolog (Hop)		DNA	NaN	NaN	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG2720	FlyBase		
+5/1/2015 0:03:12	Drosophila montana	no on or off transient A (nonA)		DNA	mRNA binding; nucleotide binding	male courtship behavior, veined wing generated song production; mRNA splicing, via spliceosome; phototaxis; visual behavior; visual perception	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG4211	FlyBase		
+5/1/2015 1:31:34	Drosophila montana	Phosducin-like protein		DNA	NaN	NaN	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG7650	FlyBase		
+5/2/2015 16:31:14	Drosophila montana	regucalcin		DNA	NaN	multicellular organism reproduction	Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG1803	FlyBase		
+4/30/2015 23:49:37	Drosophila montana	Senescence marker protein-30 (smp-30); Drosophila cold acclimation gene (Dca)		DNA	calcium ion binding	cold acclimation; regulation of cell proliferation involved in imaginal disc-derived wing morphogenesis; negative regulation of imaginal disc-derived wing size	Primers designed from Drosophila melanogaster sequence. GO derived from D. melanogaster sequence.	CG7390	FlyBase		
+5/1/2015 0:43:47	Drosophila montana	shaking B (shakB)		DNA	gap junction channel activity; photoreceptor activity	cell communication by electrical coupling; gap junction assembly intercellular transport; ion transport; jump response; phototransduction; regulation of membrane depolarization; response to light stimulus; transport 	Comparison between diapausing and young females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG34358	FlyBase		
+5/1/2015 1:07:37	Drosophila montana	sine oculis (so)		DNA	RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity; sequence-specific DNA binding; sequence-specific DNA binding; transcription factor activity; transcription factor binding	Bolwig's organ morphogenesis; circadian rhythm; compound eye development; compound eye morphogenesis; entrainment of circadian clock; eye-antennal disc morphogenesis; glial cell migration; optic lobe placode formation; positive regulation of transcription from RNA polymerase II promoter; ring gland development; spermatogenesis; transcription from RNA polymerase II promoter 	Comparison between diapausing and young females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG11121	FlyBase		
+5/1/2015 1:02:30	Drosophila montana	slowpoke (slo)		DNA	calcium-activated potassium channel activity; large conductance calcium-activated potassium channel activity; voltage-gated potassium channel activity	circadian behavior; circadian rhythm; male courtship behavior; veined wing generated song production; negative regulation of neuromuscular synaptic transmission; potassium ion transmembrane transport; potassium ion transport; regulation of synaptic growth at neuromuscular junction; response to drug	Comparison between diapausing and young females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG10693	FlyBase		
+5/2/2015 15:37:24	Drosophila montana	supernumerary limbs (slmb)		DNA	ligase activity; phosphoprotein binding	border follicle cell migration; chorion-containing eggshell formation; circadian rhythm; dorsal appendage formation; establishment of epithelial cell polarity; germarium-derived egg chamber formation; germarium-derived female germ-line cyst encapsulation; germarium-derived female germ-line cyst formation; learning or memory; locomotor rhythm; negative regulation of apoptotic process; negative regulation of glial cell proliferation; negative regulation of insulin receptor signaling pathway; negative regulation of nurse cell apoptotic process; negative regulation of smoothened signaling pathway; negative regulation of TOR signaling; negative regulation of transforming growth factor beta receptor signaling pathway; negative regulation of Wnt signaling pathway; neuron remodeling; olfactory learning; oocyte axis specification; oocyte localization involved in germarium-derived egg chamber formation; ovarian follicle cell developmen; ovarian follicle cell stalk formation; pole plasm oskar mRNA localization; protein ubiquitination proteolysis; regulation of centriole replication; regulation of chromosome condensation; regulation of mitotic nuclear division; regulation of proteolysis; regulation of smoothened signaling pathway; regulation of Wnt signaling pathway; release of cytoplasmic sequestered NF-kappaB; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG3412	FlyBase		
+5/2/2015 15:07:42	Drosophila montana	touch insensitive larva B (tilB)		DNA	NaN	axoneme assembly; cilium-dependent cell motility; male courtship behavior, veined wing generated song production; sensory perception of sound; temperature compensation of the circadian clock 	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG14620	FlyBase		
+5/2/2015 15:16:53	Drosophila montana	twins (tws)		DNA	protein phosphatase type 2A regulator activity; protein serine/threonine phosphatase activity	centriole replication; centrosome organization; embryonic development via the syncytial blastoderm; imaginal disc pattern formation; maintenance of neuroblast polarity; mitotic cell cycle; negative regulation of neuroblast proliferation; protein dephosphorylation; protein stabilization; regulation of mitotic metaphase/anaphase transition; regulation of mitotic nuclear division; regulation of protein phosphatase type 2A activity; sensory organ development; Wnt signaling pathway 	Comparison between diapausing and reproducing females; Primers designed from Drosophila melanogaster sequence; GO derived from D. melanogaster sequence	CG6235	FlyBase		
+3/29/2015 17:32:17	Drosophila triauraria	Drsl-A mRNA for drosomycin-like A	AB059624	mRNA	NaN	defense response	clone:c1; sličnost- 100% clone:c3 AB059626, 99% clone:c4 AB059627, 95% mRNA drosomycin-like B AB059625				
+3/29/2015 17:41:19	Drosophila triauraria	Drsl-A mRNA for drosomycin-like A	AB059626	mRNA	NaN	defense response	clone:c3; sličnost- 100% clone:c1 AB059624, 99% clone:c4 AB059627, 95% mRNA drosomycin-like B AB059625				
+3/29/2015 17:45:06	Drosophila triauraria	Drsl-A mRNA for drosomycin-like A	AB059627	mRNA	NaN	defense response	clone:c4; sličnost- 99% clone:c1 AB059624, 99% clone:c3 AB059626, 95% mRNA drosomycin-like B AB059625				
+3/29/2015 17:48:00	Drosophila triauraria	Drsl-B mRNA for drosomycin-like B	AB059625	mRNA	NaN	defense response	Sličnost - 95% Drsl-A mRNA for drosomycin-like A				
+3/26/2015 18:28:48	Drosophila triauraria	Hsp23 mRNA for heat shock protein 23	AB111906	mRNA	NaN	NaN					
+3/26/2015 18:26:51	Drosophila triauraria	Hsp26 mRNA for heat shock protein 26	AB111907	mRNA	NaN	NaN					
+3/24/2015 20:04:27	Drosophila triauraria	Hsp70 mRNA for heat shock protein 70	AB110076	mRNA	ATP binding	Stress response					
+3/26/2015 18:23:58	Drosophila triauraria	Hsp83 mRNA for heat shock protein 83	AB111908	mRNA	ATP binding	protein folding					
+5/13/2015 22:36:20	Epiblema scudderiana	12S rRNA		rRNA	NaN	NaN					
+5/13/2015 23:35:37	Epiblema scudderiana	isolate ELSSg8 cytochrome oxidase subunit I (COI) gene	DQ241953	DNA	cytochrome-c oxidase activity; heme binding; iron ion binding	aerobic respiration; oxidative phosphorylation					
+5/13/2015 22:36:50	Eurosta solidaginis	12S rRNA		rRNA	NaN	NaN					
+5/13/2015 22:41:29	Eurosta solidaginis	isolate W2_1_alt cytochrome oxidase subunit I (COI) gene	DQ358984	DNA	cytochrome-c oxidase activity; heme binding; iron ion binding	aerobic respiration; oxidative phosphorylation					
+3/13/2015 12:18:16	Eurygaster maura	lipid storage droplet binding protein 1 (LSD1) mRNA	KF542903	mRNA	NaN	NaN					
+3/13/2015 12:19:48	Eurygaster maura	lipid storage droplet binding protein 2 (LSD2) mRNA	KF542904	mRNA	NaN	NaN					
+5/9/2015 23:21:52	Galleria mellonella	arylphorin gene (larval hemolymph protein 76)	M73793	DNA	NaN	NaN					
+5/9/2015 23:19:54	Galleria mellonella	hexamerin (Lhp82) mRNA	L21997	mRNA	NaN	NaN					
+1/6/2015 16:54:24	Gastrophysa atrocyanea	active phase-associated protein I	BAE94320	protein	cellulase activity	cellulose catabolic process					
+3/13/2015 12:24:55	Gastrophysa atrocyanea	apap1 mRNA for active phase-associated protein I	AB241611	mRNA	cellulase activity	cellulose catabolic process					
+1/6/2015 17:22:36	Gastrophysa atrocyanea	diapausin	BAB88222	protein	calcium channel inhibitor activity	antifungal humoral response					
+3/13/2015 12:33:07	Gastrophysa atrocyanea	mRNA for Diapausin	AB070558	mRNA	calcium channel inhibitor activity	antifungal humoral response					
+5/4/2015 23:42:36	Habrobracon hebetor	heat shock protein 70I(B4) mRNA	JQ839279	mRNA	ATP binding	NaN					
+5/4/2015 23:43:43	Habrobracon hebetor	heat shock protein 70II(B6) mRNA	JQ839280	mRNA	ATP binding	NaN					
+5/4/2015 23:44:51	Habrobracon hebetor	heat shock protein 70III(A6) mRNA	JQ839281	mRNA	ATP binding	NaN					
+11/22/2015 22:48:39	Helicoverpa armigera	cytochrome oxidase subunit I	ADM72856	protein	cytochrome-c oxidase activity; heme binding; iron ion binding	aerobic respiration; oxidative phosphorylation					
+11/22/2015 22:47:20	Helicoverpa armigera	cytochrome oxidase subunit I (COI) mRNA	HQ132369	mRNA	cytochrome-c oxidase activity; heme binding; iron ion binding	aerobic respiration; oxidative phosphorylation					
+7/12/2015 16:26:12	Helicoverpa armigera	diapause hormone-pheromone biosynthesis-activating neuropeptide	AAL05596	protein	neuropeptide hormone activity	neuropeptide signaling pathway; pheromone biosynthetic process					
+7/12/2015 16:24:21	Helicoverpa armigera	diapause hormone-pheromone biosynthesis-activating neuropeptide (DH-PBAN) mRNA	AY043222	mRNA	neuropeptide hormone activity	neuropeptide signaling pathway; pheromone biosynthetic process					
+7/12/2015 16:13:29	Helicoverpa armigera	diazepam-binding inhibitor (dbi) mRNA	AY489291	mRNA	fatty-acyl-CoA binding	NaN					
+12/2/2015 14:28:26	Helicoverpa armigera	fork head domain transcription factor	AAW56613	protein	sequence-specific DNA binding; transcription factor activity	  regulation of transcription, DNA-templated					
+11/22/2015 22:57:16	Helicoverpa armigera	POU-domain transcription factor mRNA	AY513764	mRNA	sequence-specific DNA binding; transcription factor activity	transcription, DNA-templated					
+11/22/2015 22:52:34	Helicoverpa armigera	protein phosphatase 2 regulatory subunit A alpha isoform	AEB77782	protein	protein phosphatase type 2A regulator activity	protein complex assembly					
+11/22/2015 22:51:30	Helicoverpa armigera	protein phosphatase 2 regulatory subunit A alpha isoform mRNA	JF460008	mRNA	protein phosphatase type 2A regulator activity	protein complex assembly					
+11/29/2015 14:10:02	Helicoverpa armigera	prothoracicotropic hormone mRNA	AY286543	mRNA	NaN	NaN					
+11/27/2015 16:43:59	Helicoverpa armigera	transcription factor AP-4	ABB02533	protein	NaN	NaN					
+11/27/2015 16:44:24	Helicoverpa armigera	transcription factor AP-4 mRNA	DQ224406	mRNA	NaN	NaN					
+11/27/2015 16:33:47	Helicoverpa armigera	trehalose 6-phosphate synthase isoform I mRNA	EU878265	mRNA	catalytic activity	trehalose biosynthetic process					
+5/10/2015 16:14:35	Helicoverpa assulta	pheromone biosynthesis neuropeptide precursor	AAL13079	protein	NaN	neuropeptide signaling pathway; pheromone biosynthetic process; response to pheromone					
+5/10/2015 16:12:16	Helicoverpa assulta	pheromone biosynthesis neuropeptide precursor, mRNA	AY052417	mRNA	NaN	neuropeptide signaling pathway; pheromone biosynthetic process; response to pheromone					
+4/12/2015 1:21:53	Helicoverpa zea	diapause hormone receptor 1a mRNA	KF813037	mRNA	Receptor	NaN					
+4/12/2015 1:20:15	Helicoverpa zea	diapause hormone receptor 1b mRNA	KF813038	mRNA	Receptor	NaN					
+4/11/2015 20:11:42	Helicoverpa zea	heat shock protein 70 cognate mRNA	GQ389712	mRNA	ATP binding	Stress response					
+4/11/2015 20:14:39	Helicoverpa zea	heat shock protein 70 mRNA	GQ389711	mRNA	ATP binding	Stress response					
+4/11/2015 20:19:25	Helicoverpa zea	heat shock protein 90 mRNA	GQ389710	mRNA	ATP binding	protein folding; response to stress					
+5/10/2015 16:38:27	Heliotis virescens	pheromone biosynthesis-activating neuropeptide mRNA	AY173075	mRNA	NaN	neuropeptide signaling pathway; pheromone biosynthetic process					
+5/10/2015 16:39:55	Heliotis virescens	prothoracicotropic hormone PTTH mRNA	AY172671	mRNA	NaN	negative regulation of cell differentiation					
+5/14/2015 21:55:26	Hyles euphorbiae	40S ribosomal protein S1		protein	NaN	translation	Similar to Manduca sexta, UniProt identifier: P48155				
+5/14/2015 21:53:40	Hyles euphorbiae	Actin		protein	NaN	NaN	Similar to Artemia spec., UniProt identifier: P18600				
+5/13/2015 23:42:59	Hyles euphorbiae	Aldehyde dehydrogenase		protein	NaN	oxidation reduction process; metabolic process	Similar to Bombyx mori, Ectropis obliqua; UniProt identifiers: B0FBK1, Q1HPM7				
+5/14/2015 22:00:37	Hyles euphorbiae	Apolipophorin I, II		protein	NaN	lipid transport, transport	Similar to Manduca sexta, UniProt Identifier: Q25490				
+5/13/2015 23:40:38	Hyles euphorbiae	Catalase		protein	NaN	oxidation reduction process; response to oxidative stress; hydrogen  peroxide catabolic process	Similar to Bombyx mori, UniProt identifier: Q68AP5				
+5/14/2015 22:08:02	Hyles euphorbiae	Citrate synthase		protein	NaN	NaN	Similar to Tribolium castaneum, UniProt identifier: D6WMM4				
+5/14/2015 22:09:56	Hyles euphorbiae	Cuticular protein		protein	NaN	NaN	Similar to Bombyx mori				
+5/14/2015 22:06:22	Hyles euphorbiae	F0F1-type ATP synthase beta subunit		protein	NaN	proton transport, ATP metabolic process, ion transport, ATP biosynthetic process, ATP hydrolysis coupled proton transport	Similar to Aedes aegypti, UniProt identifier: Q1HR61				
+5/13/2015 23:46:53	Hyles euphorbiae	Glutathione S-transferase omega 1		protein	NaN	metabolic process	Similar to Bombyx mori, Uniprot identifier: Q2F689				
+5/14/2015 21:58:22	Hyles euphorbiae	Methionine rich storage protein 1 and 2		protein	NaN	oxygen transport	Similar to Manduca sexta, Seamia nonagrioides, Plutella xylosstella; UniProt identifiers: Q25516, Q4ZJ78, A2A138				
+5/14/2015 21:51:33	Hyles euphorbiae	Myosin heavy chain		protein	NaN	skeletal muscle myosin thick filament assembly	Similar to Drosophila melanogaster, UniProt identifier: PO5661				
+5/13/2015 23:45:18	Hyles euphorbiae	Prophenoloxidase		protein	NaN	oxidation reduction process; metabolic process	Similar to Helicoverpa armigera, Spodoptera litura, UniProt identifiers: Q2VIY6, A7L8D1				
+1/15/2015 20:33:25	Leptinotarsa decemlineata	16S ribosomal RNA	FG591173	EST	NaN	NaN	Sličnost - 4e60, 89%, Paraleptusa ripicola, EF989015				
+1/15/2015 20:27:22	Leptinotarsa decemlineata	Adenine nucleotide translocase	FG591144	EST	NaN	NaN	Sličnost - 3e10, 89%, Monochamus alternatus, ABU68467				
+3/20/2015 16:37:42	Leptinotarsa decemlineata	allatostatin-B precursor	AIW62335	protein	NaN	NaN					
+3/20/2015 16:38:08	Leptinotarsa decemlineata	allatostatin-B precursor, mRNA	KJ939427	mRNA	NaN	NaN					
+3/20/2015 16:36:32	Leptinotarsa decemlineata	allatostatin-C precursor	AIW62334	protein	NaN	NaN					
+3/20/2015 16:34:53	Leptinotarsa decemlineata	allatostatin-C precursor, mRNA	KJ939426	mRNA	NaN	NaN					
+1/15/2015 20:28:49	Leptinotarsa decemlineata	ATP synthase F0 subunit 6	FG591174	EST	NaN	NaN	Sličnost - 7e14, 75%, Culicoides oxystoma, BAF80214				
+1/15/2015 20:15:57	Leptinotarsa decemlineata	C-type lectin, mannose-binding	FG591145	EST	NaN	NaN	Sličnost - 8e14, 38%, Anopheles gambiae, XP001688639				
+1/15/2015 20:19:27	Leptinotarsa decemlineata	Chitin-binding peritrophin-A domain	FG591160	EST	NaN	NaN	Sličnost - 6e16, 28%, A. gambiae, XP_001237083				
+5/19/2015 20:48:09	Leptinotarsa decemlineata	clone IntE-2 digestive cysteine protease intestain mRNA	EF154432	mRNA	cysteine-type peptidase activity	proteolysis					
+1/8/2015 15:58:46	Leptinotarsa decemlineata	Diapause protein 1	CAA53691	protein	NaN	NaN					
+3/20/2015 16:51:39	Leptinotarsa decemlineata	diapause-associated transcript 1 mRNA	AF532862	mRNA	NaN	NaN					
+1/15/2015 20:08:00	Leptinotarsa decemlineata	Diapause-associated transcript-2	FG591177	EST	NaN	NaN	Sličnost - 4e48, 76%, L. decemlineata, AAN05630				
+3/20/2015 16:53:53	Leptinotarsa decemlineata	diapause-associated transcript-2 mRNA	AF532863	mRNA	NaN	NaN					
+3/20/2015 16:55:07	Leptinotarsa decemlineata	diapause-associated transcript-3 mRNA	AF532864	mRNA	NaN	NaN					
+1/15/2015 20:23:35	Leptinotarsa decemlineata	Digestive cysteine proteinase	FG591157	EST	NaN	NaN	Sličnost - 8e116, 98%, L. decemlineata, AAS20589				
+3/12/2015 17:42:39	Leptinotarsa decemlineata	Dp19 mRNA for diapause protein 1	X76080	mRNA	NaN	NaN					
+1/15/2015 20:22:27	Leptinotarsa decemlineata	Endo-polygalacturonase	FG591141	EST	NaN	NaN	Sličnost - 4e13, 50%, Colletotrichum gloeosporioides, CAC14022				
+1/15/2015 20:16:45	Leptinotarsa decemlineata	Gamma interferon inducible lysosomal thiol reductase	FG591151	EST	NaN	NaN	Sličnost - 2e07, 29%, Tribolium castaneum, XP_975539				
+1/15/2015 20:17:54	Leptinotarsa decemlineata	Glycine-rich protein - Clone 3612	FG591147	EST	NaN	NaN	Sličnost - 8e31, 87%, L. decemlineata, ABF60889				
+1/15/2015 20:18:40	Leptinotarsa decemlineata	Glycine-rich protein - Clone 4831	FG591159	EST	NaN	NaN	Sličnost - 3e49, 94%, L. decemlineata, ABF60889				
+1/15/2015 20:20:20	Leptinotarsa decemlineata	Glycine-rich protein - Clone 5012	FG591163	EST	NaN	NaN	Sličnost - 7e06, 100%, L. decemlineata, DQ515965				
+1/15/2015 20:21:34	Leptinotarsa decemlineata	Glycine-rich protein - Clone 7811	FG591186	EST	NaN	NaN	Sličnost - 1e14, 84%, L. decemlineata, ABF60888				
+1/15/2015 20:32:05	Leptinotarsa decemlineata	Heat shock cognate 70	FG591155	EST	NaN	NaN	Sličnost - 1e75, 85%, T. castaneum, XP_966611				
+1/8/2015 18:12:38	Leptinotarsa decemlineata	inducible heat shock 70 kDa protein A mRNA	AF288978	mRNA	ATP binding	Stress response					
+1/8/2015 18:11:48	Leptinotarsa decemlineata	inducible heat shock 70 kDa protein B mRNA	AF322911	mRNA	ATP binding	Stress response					
+3/22/2015 19:58:16	Leptinotarsa decemlineata	Kruppel-like protein 1 (Kr-h1) mRNA	KF137655	mRNA	metal ion binding; nucleic acid binding	NaN					
+1/8/2015 16:37:46	Leptinotarsa decemlineata	putative juvenile hormone esterase (JHE) mRNA	AF035423	mRNA	carboxylic ester hydrolase activity	pathogenesis					
+1/15/2015 20:29:46	Leptinotarsa decemlineata	Ribosomal protein L13e	FG591137	EST	NaN	NaN	Sličnost - 4e13, 50%, Tribolium castaneum, XP_967899				
+1/15/2015 20:34:03	Leptinotarsa decemlineata	Ribosomal protein L22e	FG591192	EST	NaN	NaN	Sličnost - 1e39, 83%, T. castaneum, XP_973501				
+1/15/2015 20:31:23	Leptinotarsa decemlineata	Ribosomal protein L29e	FG591149	EST	NaN	NaN	Sličnost - 1e27, 86%, Timarcha balearica, CAJ17407				
+1/15/2015 20:30:31	Leptinotarsa decemlineata	Ribosomal protein S15e	FG591143	EST	NaN	NaN	Sličnost - 5e60, 96%, T. castaneum, XP_973139				
+3/22/2015 19:53:58	Leptinotarsa decemlineata	S-adenosyl- L-homocysteine hydrolase	AGU16824	protein	adenosylhomocysteinase activity	one-carbon metabolic process					
+3/22/2015 19:53:09	Leptinotarsa decemlineata	S-adenosyl- L-homocysteine hydrolase mRNA	KC579453	mRNA	adenosylhomocysteinase activity	one-carbon metabolic process					
+5/19/2015 20:38:26	Leptinotarsa decemlineata	serine protease S1A-1 mRNA	JN603582	mRNA	serine-type endopeptidase activity	proteolysis					
+1/15/2015 20:26:32	Leptinotarsa decemlineata	Tubulin alpha-1 chain	FG591140	EST	NaN	NaN	Sličnost - 4e106, 100%, Culex pipiens quinquefasciatus, XP_001849099				
+1/15/2015 20:24:38	Leptinotarsa decemlineata	Unknown - Clone 4141	FG591152	EST	NaN	NaN					
+1/15/2015 20:05:03	Leptinotarsa decemlineata	Unknown - Clone 4941	FG591161	EST	NaN	NaN					
+1/15/2015 20:24:59	Leptinotarsa decemlineata	Unknown - Clone 5411	FG591166	EST	NaN	NaN					
+1/15/2015 20:05:51	Leptinotarsa decemlineata	Unknown - Clone 5513	FG591167	EST	NaN	NaN					
+1/15/2015 20:06:38	Leptinotarsa decemlineata	Unknown - Clone 5611	FG591168	EST	NaN	NaN					
+1/15/2015 20:25:20	Leptinotarsa decemlineata	Unknown - Clone 5641	FG591170	EST	NaN	NaN					
+1/15/2015 20:14:40	Leptinotarsa decemlineata	Unknown - Clone 6922	FG591182	EST	NaN	NaN					
+1/15/2015 20:25:39	Leptinotarsa decemlineata	Unknown - Clone 8212	FG591190	EST	NaN	NaN					
+6/16/2015 2:45:53	Lucilia sericata	Hsp23 mRNA for heat shock protein 23	AB118968	mRNA	NaN	NaN					
+6/16/2015 2:47:18	Lucilia sericata	Hsp70 mRNA for heat shock protein 70	AB118969	mRNA	NaN	NaN					
+6/16/2015 2:43:57	Lucilia sericata	Hsp90 mRNA for heat shock protein 90	AB118970	mRNA	ATP binding	protein folding; response to stress					
+4/6/2015 18:55:47	Lymantria dispar	actin	AAD54427	protein	ATP binding	NaN					
+4/6/2015 18:52:52	Lymantria dispar	actin mRNA	AF182715	mRNA	ATP binding	NaN					
+3/3/2016 14:18:11	Lymantria dispar	heat shock protein 22		protein	NaN	NaN				Miloš	
+3/3/2016 14:17:37	Lymantria dispar	heat shock protein 29		protein	NaN	NaN				Miloš	
+3/3/2016 14:13:20	Lymantria dispar	heat shock protein 42		protein	NaN	NaN				Miloš	
+3/3/2016 14:12:42	Lymantria dispar	heat shock protein 60		protein	NaN	NaN				Miloš	
+3/3/2016 14:10:59	Lymantria dispar	heat shock protein 73		protein	NaN	NaN				Miloš	
+3/3/2016 14:10:12	Lymantria dispar	heat shock protein 75		protein	NaN	NaN				Miloš	
+3/3/2016 14:07:44	Lymantria dispar	heat shock protein 90		protein	NaN	NaN				Miloš	
+4/6/2015 18:57:16	Lymantria dispar	hemolin mRNA	AF453868	mRNA	NaN	NaN					
+4/5/2015 13:15:34	Manduca sexta	pheromone biosynthesis activating neuropeptide PBAN mRNA	AY172672	mRNA	NaN	neuropeptide signaling pathway					
+6/11/2015 21:24:15	Megachile rotundata	70 kDa heat shock cognate protein (HSC70) mRNA	AY550116	mRNA	ATP binding	NaN					
+6/11/2015 21:25:51	Megachile rotundata	70 kDa heat shock protein (HSP70) mRNA	AY550115	mRNA	ATP binding	NaN					
+6/11/2015 21:22:39	Megachile rotundata	90 kDa heat shock protein (HSP90) mRNA	AY550117	mRNA	ATP binding	protein folding; response to stress					
+6/11/2015 21:20:46	Megachile rotundata	actin mRNA	AY550118	mRNA	NaN	NaN					
+10/12/2015 22:03:28	Milnesium tardigradum	gene for hsp70 protein, isoform 1	AJ579531	DNA	NaN	NaN					
+10/12/2015 22:10:55	Milnesium tardigradum	gene for hsp70 protein, isoform 2	AJ579532	DNA	ATP binding	NaN					
+10/12/2015 22:12:57	Milnesium tardigradum	hsp70 protein, isoform 3	AJ579533	DNA	ATP binding	NaN					
+4/27/2015 19:38:08	Omphisa fuscidentalis	cytochrome c oxidase subunit I (cox1) gene	DQ523228	DNA	cytochrome-c oxidase activity; heme binding; iron ion binding	aerobic respiration; oxidative phosphorylation					
+4/27/2015 20:38:25	Omphisa fuscidentalis	ecdysone receptor A isoform (EcR-A) mRNA	EF667890	mRNA	ecdysteroid hormone receptor activity; sequence-specific DNA binding; steroid binding; zinc ion binding	NaN					
+4/27/2015 20:40:51	Omphisa fuscidentalis	ecdysone receptor B1 isoform (EcR-B1) mRNA	EF667891	mRNA	ecdysteroid hormone receptor activity; sequence-specific DNA binding; steroid binding; zinc ion binding	NaN					
+4/27/2015 19:51:03	Omphisa fuscidentalis	juvenile hormone binding protein (JHBP)	JQ658990	mRNA	NaN	NaN					
+4/27/2015 20:24:42	Omphisa fuscidentalis	storage protein 1	ABO27097	protein	NaN	NaN					
+4/27/2015 20:20:10	Omphisa fuscidentalis	storage protein 1 (SP1) mRNA	EF429084	mRNA	NaN	NaN					
+4/27/2015 20:27:06	Omphisa fuscidentalis	storage protein 2	ABO27098	protein	NaN	NaN					
+4/27/2015 20:26:25	Omphisa fuscidentalis	storage protein 2 (SP2) mRNA	EF429085	mRNA	NaN	NaN					
+3/24/2016 3:08:56	Omphisa fuscidentalis	trehalase-1 (treh-1) mRNA	EF426724	mRNA	alpha,alpha-trehalase activity	trehalose metabolic process				Boris	
+3/24/2016 3:12:52	Omphisa fuscidentalis	trehalase-2 (treh-2) mRNA	EF426723	mRNA	alpha,alpha-trehalase activity	trehalose metabolic process				Boris	
+4/3/2015 18:17:16	Ostrinia nubilalis	ommochrome binding protein (obp2) gene, obp2-B4 allele	AY862870	DNA	NaN	NaN					
+4/3/2015 18:39:19	Ostrinia nubilalis	ommochrome binding protein 1 (obp1) gene, obp1-A1 allele	AY819651	DNA	NaN	NaN					
+4/3/2015 18:37:47	Ostrinia nubilalis	ommochrome binding protein 1 (obp1) gene, obp1-A2 allele	AY819652	DNA	NaN	NaN					
+4/3/2015 18:36:16	Ostrinia nubilalis	ommochrome binding protein 2 (obp2) gene, obp2-B1 allele	AY819653	DNA	NaN	NaN					
+4/3/2015 18:21:15	Ostrinia nubilalis	ommochrome binding protein 2 (obp2) gene, obp2-B2 allele	AY819654	DNA	NaN	NaN					
+4/3/2015 18:19:18	Ostrinia nubilalis	ommochrome binding protein 2 (obp2) gene, obp2-B3 allele	AY819655	DNA	NaN	NaN					
+5/28/2015 11:24:25	Paratlanticus ussuriensis	heat shock protein 70 (hsp70) mRNA	JF966356	mRNA	ATP binding	NaN					
+5/28/2015 11:25:45	Paratlanticus ussuriensis	heat shock protein 70b mRNA	KC206085	mRNA	ATP binding	NaN					
+5/28/2015 11:26:48	Paratlanticus ussuriensis	heat shock protein 70c mRNA	JX112893	mRNA	ATP binding	NaN					
+5/28/2015 11:28:18	Paratlanticus ussuriensis	heat shock protein 90 mRNA	JX112894	mRNA	ATP binding	protein folding; response to stress					
+5/28/2015 11:23:08	Paratlanticus ussuriensis	small heat shock protein mRNA	JX112892	mRNA	NaN	NaN					
+5/28/2015 15:47:12	Praon volucre	Actin related protein 1		protein	Cytoskeleton structure	NaN	Similar to Nasonia vitripennis, UniProt identifier: NP_001157191				
+5/28/2015 15:37:19	Praon volucre	Aldehyde dehydrogenase isoform B		protein	Oxidoreductase, cellular aldehyde metabolic process	NaN	Similar to Lysiphlebus testaceipes, UniProt identifier: AAY63975				
+5/28/2015 15:42:10	Praon volucre	apolipoprotein D-like isoform 2		protein	Lipid metabolic process, lipid binding, transporter activity	NaN	Similar to Apis mellifera, UniProt identifier: XP_623787				
+5/28/2015 15:49:19	Praon volucre	Cathepsin-L [cysteine peptidase, CP]		protein	Proteolysis, cysteine-type endopeptidase activity	NaN	Similar to Blattella germanica, UniProt identifier: CAR94536				
+5/28/2015 17:18:10	Praon volucre	Cuticular protein RR-2 family member 14		protein	Component of the rigid cuticle	NaN	Similar to Nasonia vitripennis, UniProt identifier: NP_001166276				
+5/28/2015 15:39:12	Praon volucre	Elongation factor 1-alpha		protein	Protein biosynthesis	NaN	Similar to Nasonia vitripennis, UniProt identifier: ADN32040				
+5/28/2015 15:51:49	Praon volucre	Fibroinase [cysteine peptidase, CP]		protein	Proteolysis, cysteine-type endopeptidase activity	NaN	Similar to Bombyx mori, UniProt identifier: NP_001037464				
+5/28/2015 17:22:02	Praon volucre	GD10219 [Glyceraldehyde 3-phosphate dehydrogenase]		protein	Glycolysis, gluconeogenesis	NaN	Similar to Drosophila simulans, UniProt identifier: XP_002814658				
+5/28/2015 15:16:09	Praon volucre	heat shock 70 kDa protein 4L-like isoform1		protein	Stress response	NaN	Similar to Nasonia vitripennis, UniProt identifier: XP_001607146				
+5/28/2015 17:15:59	Praon volucre	Hypothetical protein SINV_09509 [cuticular protein]		protein	Component of the rigid cuticle	NaN	Similar to Solenopsis invicta, UniProt identifier: EFZ21640				
+5/28/2015 15:24:55	Praon volucre	similar to ankyrin repeat protein		protein	Cytoskeletal adaptor activity, protein binding	NaN	Similar to Nasonia vitripennis, UniProt identifier: XP_001606897				
+5/28/2015 15:54:15	Praon volucre	similar to arginine kinase-like protein		protein	ATP binding, phosphorylation, phosphagen	NaN	Similar to Nasonia vitripennis, UniProt identifier: XP_001607122				
+5/28/2015 15:33:15	Praon volucre	similar to GA17549-PA [vanin-like protein]		protein	Nitrogen compound metabolic process, hydrolase	NaN	Similar to Nasonia vitripennis, UniProt identifier: XP_001602482				
+5/28/2015 17:19:57	Praon volucre	similar to putative muscular protein 20		protein	Actin binding, muscle protein, regulation of cell shape	NaN	Similar to Nasonia vitripennis, UniProt identifier: XP_001607748				
+5/28/2015 15:21:30	Praon volucre	transitional endoplasmic reticulum ATPase TER94-like		protein	ATP binding, nucleoside-triphosphatase activity	NaN	Similar to Nasonia vitripennis, UniProt identifier: XP_001605497				
+5/28/2015 15:29:15	Praon volucre	Vesicle amine transport protein		protein	Oxidoreductase activity	NaN	Similar to Bombyx mori; UniProt identifier: NP_001093281				
+4/15/2015 1:42:58	Pyrrhocoris apterus	aldose reductase mRNA	EU076387	mRNA	alditol:NADP+ 1-oxidoreductase activity	NaN					
+4/15/2015 1:47:08	Pyrrhocoris apterus	citrate synthase mRNA	EU076385	mRNA	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer	cellular carbohydrate metabolic process; tricarboxylic acid cycle					
+4/15/2015 23:48:50	Pyrrhocoris apterus	CLOCK protein mRNA	AY256442	mRNA	sequence-specific DNA binding transcription factor activity; signal transducer activity	NaN					
+3/2/2016 20:49:28	Pyrrhocoris apterus	cryptochrome 2 mRNA	JX560423	mRNA	NaN	NaN				Dunja	
+4/15/2015 1:44:23	Pyrrhocoris apterus	cytochrome c oxidase subunit Va mRNA	EU076386	mRNA	cytochrome-c oxidase activity	NaN					
+4/15/2015 1:37:57	Pyrrhocoris apterus	ecdysone receptor mRNA	EU076389	mRNA	ecdysteroid hormone receptor activity; sequence-specific DNA binding; steroid binding; zinc ion binding	Transcription, Transcription regulation					
+4/15/2015 23:46:33	Pyrrhocoris apterus	period clock protein (per) mRNA	AY247968	mRNA	signal transducer activity	NaN					
+4/15/2015 1:41:01	Pyrrhocoris apterus	sorbitol dehydrogenase mRNA	EU076388	mRNA	L-iditol 2-dehydrogenase activity; zinc ion binding	NaN					
+4/15/2015 1:20:31	Pyrrhocoris apterus	ultraspiracle mRNA	EU076390	mRNA	sequence-specific DNA binding; sequence-specific DNA binding transcription factor activity; steroid hormone receptor activity; zinc ion binding	transcription, DNA-templated					
+5/9/2015 23:35:55	Rhagoletis pomonella	heat shock protein 70 mRNA	EF103584	mRNA	ATP binding	NaN					
+5/9/2015 23:37:05	Rhagoletis pomonella	heat shock protein 90 mRNA	EF397426	mRNA	ATP binding	protein folding					
+5/9/2015 23:49:17	Riptortus pedestris	cry-m mRNA for cryptochrome-m	AB379863	mRNA	DNA photolyase activity	DNA repair					
+5/9/2015 23:47:57	Riptortus pedestris	cyc mRNA for cycle	AB379864	mRNA	sequence-specific DNA binding transcription factor activity; signal transducer activity	NaN					
+5/9/2015 23:50:49	Riptortus pedestris	per mRNA for period	AB379862	mRNA	signal transducer activity	regulation of transcription, DNA-templated					
+5/9/2015 23:44:57	Riptortus pedestris	vri mRNA for vrille	AB379865	mRNA	sequence-specific DNA binding	NaN					
+1/18/2016 20:20:23	Sarcophaga crassipalpis	23kDa heat shock protein ScHSP23 mRNA	U96099	mRNA	NaN	Stress response				Iva Gorše	
+5/11/2015 19:59:11	Sarcophaga crassipalpis	60S acidic ribosomal protein P0 mRNA	AF220939	mRNA	Ribonucleoprotein, Ribosomal protein	ribosome biogenesis					
+3/17/2015 1:48:15	Sarcophaga crassipalpis	70 kDa heat shock protein ScHSP70 (HSP70) mRNA	AF107338	mRNA	ATP binding	Stress response					
+5/12/2015 2:40:55	Sarcophaga crassipalpis	cDNA similar to 16s ribosomal RNA	FL483278	EST	NaN	NaN					
+5/11/2015 20:41:29	Sarcophaga crassipalpis	cDNA similar to actin related protein 1	FL483261	EST	NaN	NaN					
+5/12/2015 2:17:10	Sarcophaga crassipalpis	cDNA similar to adenosine monophosphate deaminase 2	FL483266	EST	NaN	NaN					
+5/11/2015 21:23:13	Sarcophaga crassipalpis	cDNA similar to broad complex protein	FL483258	EST	NaN	NaN					
+5/12/2015 1:47:12	Sarcophaga crassipalpis	cDNA similar to cytochrome oxidase C	FL483275	EST	NaN	NaN					
+5/12/2015 2:03:58	Sarcophaga crassipalpis	cDNA similar to D-ras-2	FL483265	EST	NaN	NaN					
+5/12/2015 2:26:45	Sarcophaga crassipalpis	cDNA similar to elongation factor alpha	FL483263	EST	NaN	NaN					
+5/11/2015 20:11:53	Sarcophaga crassipalpis	cDNA similar to failed axon connections protein	FL483277	EST	NaN	NaN					
+5/11/2015 21:43:07	Sarcophaga crassipalpis	cDNA similar to fatty acid desaturase	FL483259	EST	NaN	NaN					
+5/11/2015 19:54:11	Sarcophaga crassipalpis	cDNA similar to ferritin	FL483260	EST	NaN	NaN					
+5/11/2015 21:35:50	Sarcophaga crassipalpis	cDNA similar to MAP kinase 3	FL483270	EST	NaN	NaN					
+5/11/2015 19:56:38	Sarcophaga crassipalpis	cDNA similar to metallothionein D	FL483282	EST	NaN	NaN					
+5/11/2015 20:03:24	Sarcophaga crassipalpis	cDNA similar to neuropeptide precursor 4	FL483273	EST	NaN	NaN					
+5/12/2015 1:28:01	Sarcophaga crassipalpis	cDNA similar to ribosomal protein L9	FL483280	EST	NaN	NaN					
+5/11/2015 20:48:03	Sarcophaga crassipalpis	cDNA similar to RNA helicase	FL483264	EST	NaN	NaN					
+5/12/2015 0:10:59	Sarcophaga crassipalpis	clone 5B11 heat shock protein 70 mRNA	EF103580	mRNA	ATP binding	protein folding					
+5/11/2015 23:55:19	Sarcophaga crassipalpis	clone 6A1 TCP-1 containing chaperonin mRNA	EF103581	mRNA	NAN	Stress response					
+5/11/2015 22:01:47	Sarcophaga crassipalpis	clone 7H10 small heat shock protein mRNA	EF103579	 mRNA	NaN	Stress response		1			
+5/11/2015 22:40:10	Sarcophaga crassipalpis	clone 7H7 25 kDa small heat shock protein mRNA	EF103577	mRNA	NaN	Stress response					
+5/11/2015 22:18:41	Sarcophaga crassipalpis	clone 9D11 18 kDa small heat shock protein mRNA	EF103578	mRNA	NaN	Stress response					
+3/17/2015 2:10:05	Sarcophaga crassipalpis	cognate 70 kDa heat shock protein scHSC70 (HSC70) gene	AF107339	DNA	NaN	Stress response					
+4/21/2015 12:58:26	Sarcophaga crassipalpis	heat shock protein 90 gene	AF261773	DNA	ATP binding	protein folding, response to stress					
+3/6/2016 17:04:33	Sarcophaga crassipalpis	Inositol-3-phosphate synthase		protein	inositol-3-phosphate synthase activity	inositol biosynthetic process; phospholipid biosynthetic process 	Similar to Drosophila melanogaster, UniProt identifier: NP_477405			Iva G.	
+5/19/2015 12:01:06	Sarcophaga crassipalpis	methuselah-like 8, isoform A		protein	G-protein coupled receptor activity	response to stress	Identification of the protein was performed based on the similarity with D. melanogaster, NP_611998				
+1/18/2016 19:54:53	Sarcophaga crassipalpis	neuropeptide-like precursor 4 (NPLP4) mRNA	EU526381	mRNA	Neuropeptide	neuropeptide signaling pathway				Iva Gorše	
+3/21/2015 17:16:06	Sarcophaga crassipalpis	proliferating cell nuclear antigen (PCNA) gene	AF020427	EST	NaN	NaN					
+4/21/2015 12:49:56	Sarcophaga crassipalpis	Scys-B mRNA for sarcocystatin B	AB074536	mRNA	cysteine-type endopeptidase inhibitor activity	NaN					
+5/12/2015 2:46:40	Sarcophaga crassipalpis	Unknown - ScMD-3D10	FL483262	EST	NaN	NaN					
+5/12/2015 2:51:53	Sarcophaga crassipalpis	Unknown - ScMD-5G10	FL483267	EST	NaN	NaN					
+5/12/2015 3:19:20	Sarcophaga crassipalpis	Unknown - ScMD-6D2	FL483268	EST	NaN	NaN					
+5/12/2015 0:39:29	Sarcophaga crassipalpis	Unknown - ScMD-6G4	FL483269	EST	NaN	NaN					
+5/12/2015 0:56:44	Sarcophaga crassipalpis	Unknown - ScMD-7H11	FL483271	EST	NaN	NaN					
+5/12/2015 3:15:35	Sarcophaga crassipalpis	Unknown - ScMD-8B1	FL483272	EST	NaN	NaN					
+5/12/2015 1:08:53	Sarcophaga crassipalpis	Unknown - ScMD-8E6	FL483274	EST	NaN	NaN					
+5/12/2015 3:03:40	Sarcophaga crassipalpis	Unknown - ScMD-8G3	FL483276	EST	NaN	NaN					
+5/12/2015 2:58:13	Sarcophaga crassipalpis	Unknown - ScMD-9E12	FL483279	EST	NaN	NaN					
+5/12/2015 3:08:12	Sarcophaga crassipalpis	Unknown - ScMD-9H7	FL483281	EST	NaN	NaN					
+3/10/2016 18:47:14	Sarcophaga crassipalpis	fatty acid binding protein		protein	Liipid-binding	Transport	Similar to Schistocerca gregaria, UniProt identifier: AAA19622 				
+3/10/2016 18:53:04	Sarcophaga crassipalpis	CG2331-PA		protein	ATP binding;hydrolase activity;nucleotide binding	metabolic process	Similar to Drosophila erecta, UniProt identifier:AAO01004				
+3/10/2016 18:59:11	Sarcophaga crassipalpis	Similar to Drosophila melanogaster tsr		protein	actin binding	actin filament depolymerization	Similar to Drosophila yakuba, UniProt identifier: AAR09835				
+3/10/2016 19:05:53	Sarcophaga crassipalpis	Catalase		protein	antioxidant activity;catalase activity;heme binding;metal ion binding	aging;cellular oxidant detoxification;determination of adult lifespan;heart morphogenesis;hydrogen peroxide catabolic process;paracrine signaling;reactive oxygen species metabolic process;regulation of hemocyte proliferation;response to ethanol;response to hydrogen peroxide	Similar to Drosophila melanogaster, UniProt identifier:NP_536731				
+3/10/2016 19:09:15	Sarcophaga crassipalpis	unnamed protein product		protein	DNA binding;  protein heterodimerization activity	NaN	Similar to Drosophila hydei, UniProt identifier: CAA34922  				
+3/10/2016 19:12:19	Sarcophaga crassipalpis	histone 2B		protein	DNA binding;protein heterodimerization activity	NaN	Similar to Drosophila yakuba, UniProt identifier: BAC54557  				
+3/10/2016 19:21:41	Sarcophaga crassipalpis	ribosomal protein L17A		protein	large ribosomal subunit rRNA binding;myosin binding;structural constituent of ribosome;myosin binding;structural constituent of ribosome	mitotic spindle eloslationngation;mitotic spindle organization;neurogenesis;translation;mitotic spindle organization	Similar to Drosophila melanogaster, UniProt identifier: AAA28867  				
+3/10/2016 19:43:43	Sarcophaga crassipalpis	RpL32 mRNA for ribosomal protein L32	AB074534	mRNA	structural constituent of ribosome	translation					
+3/10/2016 19:46:21	Sarcophaga crassipalpis	Scys-A mRNA for sarcocystatin A	AB074535	mRNA	cysteine-type endopeptidase inhibitor activity	negative regulation of endopeptidase activity					
+3/10/2016 20:20:44	Sarcophaga crassipalpis	cyclin E		mRNA	transferase activity	metabolic process	Similar to Drosophila melanogaster, UniProt identifier: NM_165124 				
+3/10/2016 20:27:13	Sarcophaga crassipalpis	 p21=cyclin kinase inhibitor		mRNA	cyclin-dependent protein kinase activating kinase activity;cyclin-dependent protein serine/threonine kinase inhibitor activity;metal ion binding;ubiquitin protein ligase binding	Cell cycle	Similar to Homo sapiens (Human), UniProt Identifier: S67388    				
+3/10/2016 20:30:02	Sarcophaga crassipalpis	Homo sapiens mRNA for P53		mRNA	Activator, Repressor	Cell cycle	Similar to Homo sapiens (Human), UniProt Identifier: AB082923 				
+3/10/2016 20:37:21	Sarcophaga crassipalpis	Sarcophaga crassipalpis proliferating cell nuclear antigen (PCNA) gene	AF020427	DNA	DNA binding; DNA polymerase processivity factor activity	DNA replication; regulation of DNA replication					
+3/12/2015 20:13:24	Sesamia nonagrioides	90 kDa heat shock protein 83 (hsp83) mRNA	DQ198859	mRNA	ATP binding	protein folding					
+3/12/2015 11:11:50	Sesamia nonagrioides	heat shock cognate 70 protein mRNA	DQ004584	mRNA	ATP binding	Stress response					
+3/12/2015 19:54:04	Sesamia nonagrioides	heat shock protein 19.5 (hsp19.5) mRNA	EU668902	mRNA	NaN	Stress response					
+3/12/2015 19:32:32	Sesamia nonagrioides	heat shock protein 70 (Hsp70) mRNA	EU430480	mRNA	ATP binding	Stress response					
+3/12/2015 19:56:38	Sesamia nonagrioides	heat shock protein hsp20.8 (Sno20.8) mRNA	DQ336356	mRNA	NaN	Stress response					
+3/12/2015 20:21:47	Sesamia nonagrioides	methionine-rich storage protein (SP2) mRNA	DQ147770	mRNA	NaN	NaN					
+3/12/2015 20:05:59	Sesamia nonagrioides	moderately methionine rich storage protein (SP1) mRNA	DQ004585	mRNA	NaN	NaN					
+6/16/2015 3:21:42	Sitodiplosis mosellana	CL66.Contig1_S_mosellanaA transcribed RNA sequence	GBRL01010117	mRNA	NaN	NaN					
+6/16/2015 3:08:36	Sitodiplosis mosellana	Unigene17374_S_mosellanaA transcribed RNA sequence	GAKJ01009152	mRNA	NaN	NaN					
+6/16/2015 3:23:16	Sitodiplosis mosellana	Unigene38983_S_mosellanaA transcribed RNA sequence	GBRL01007283	mRNA	NaN	NaN					
+6/16/2015 3:30:19	Sitodiplosis mosellana	Unigene6351_S_mosellanaA transcribed RNA sequence	GAKJ01002970	mRNA	NaN	NaN					
+6/16/2015 3:31:55	Sitodiplosis mosellana	Unigene7576_S_mosellanaA transcribed RNA sequence	GAKJ01003972	mRNA	NaN	NaN					
+6/16/2015 3:19:10	Sitodiplosis mosellana	Unigene8309_S_mosellanaA transcribed RNA sequence	GAKJ01004569	mRNA	NaN	NaN					
+6/16/2015 3:25:39	Sitodiplosis mosellana	Unigene8661_S_mosellanaA transcribed RNA sequence	GAKJ01004852	mRNA	NaN	NaN					
+6/16/2015 3:27:12	Sitodiplosis mosellana	Unigene8830_S_mosellanaA transcribed RNA sequence	GAKJ01004979	mRNA	NaN	NaN					
+6/16/2015 3:28:46	Sitodiplosis mosellana	Unigene8831_S_mosellanaA transcribed RNA sequence	GAKJ01004980	mRNA	NaN	NaN					
+2/29/2016 12:28:27	Tetanops myopaeformis	D20A2b Differential display screening of dormant Tetanops myopaeformis Tetanops myopaeformis cDNA similar to Fat body protein 2	EV413920	EST	NaN	NaN				Miloš	
+1/10/2015 17:41:21	Wolbachia endosymbiont of Culex pipiens pipiens	clone CpiLD-C02 23S ribosomal RNA	DQ401445	rRNA	NaN	NaN					
+6/13/2015 15:48:26	Wyeomyia smithii	Adult cuticle protein 1	GW420657	EST	NaN	NaN		FBgn0014454	FlyBase		
+6/13/2015 15:50:50	Wyeomyia smithii	Adult cuticle protein 65A	GW420658	EST	NaN	NaN		FBgn0020765	FlyBase		
+6/13/2015 15:29:25	Wyeomyia smithii	Cuticular protein 49ab	GW420660	EST	NaN	NaN		FBgn0050042	FlyBase		
+6/13/2015 15:42:43	Wyeomyia smithii	Cuticular protein 65av	GW420661	EST	NaN	NaN		FBgn0052405	FlyBase		
+6/13/2015 15:32:26	Wyeomyia smithii	Cuticular protein 65az	GW420662	EST	NaN	NaN		FBgn0035686	FlyBase		
+6/13/2015 15:45:03	Wyeomyia smithii	Cuticular protein 84ad	GW420659	EST	NaN	NaN		FBgn0004780	FlyBase		
+6/13/2015 12:24:08	Wyeomyia smithii	Ejaculatory bulb protein III	GW420667	EST	NaN	NaN		FBgn0011695	FlyBase		
+6/13/2015 15:31:30	Wyeomyia smithii	Larval cuticle protein 65ac	GW420663	EST	NaN	NaN		FBgn0020642	FlyBase		
+6/13/2015 15:51:51	Wyeomyia smithii	Myosin binding subunit	GW420664	EST	NaN	NaN		FBgn0002690	FlyBase		
+6/13/2015 15:47:16	Wyeomyia smithii	Non protein coding gene	GW420656	EST	NaN	NaN		FBgn0085743	FlyBase		
+6/13/2015 12:26:21	Wyeomyia smithii	Overgrown hematopoietic organs at 23B	GW420665	EST	NaN	NaN		FBgn0015521	FlyBase		
+6/13/2015 15:28:13	Wyeomyia smithii	Paxillan	GW420666	EST	NaN	NaN		FBgn0041789	FlyBase		
+6/13/2015 15:41:34	Wyeomyia smithii	Phosphoenolpyrovate carboxylkinase	GW420668	EST	NaN	NaN		FBgn0003067	FlyBase		
+6/13/2015 15:16:12	Wyeomyia smithii	Photoperiodic response gene 1 (retininC containing CG13043-like protein (ppdrg1) mRNA)	GU320742	mRNA	NaN	NaN		FBgn0036600	FlyBase		
+6/13/2015 15:39:35	Wyeomyia smithii	Ribosomal protein S 23	GW420669	EST	NaN	NaN		FBgn0033912	FlyBase		
+6/13/2015 15:54:48	Wyeomyia smithii	Ribosomal protein S 25	GW420670	EST	NaN	NaN		FBgn0086472	FlyBase		
+6/13/2015 12:22:44	Wyeomyia smithii	Sorbitol dehydrogenase 1	GW420671	EST	NaN	NaN		FBgn0024289	FlyBase		
+6/13/2015 12:25:22	Wyeomyia smithii	Sorbitol dehydrogenase 2	GW420672	EST	NaN	NaN		FBgn0022359	FlyBase		
+6/13/2015 15:49:30	Wyeomyia smithii	String of Pearls	GW420673	EST	NaN	NaN		FBgn0004867	FlyBase		
+6/13/2015 15:52:44	Wyeomyia smithii	Ws Unknown 1	GW420674	EST	NaN	NaN					
+6/13/2015 12:27:08	Wyeomyia smithii	Ws Unknown 10	GW420675	EST	NaN	NaN					
+6/13/2015 15:12:37	Wyeomyia smithii	Ws Unknown 2	GW420676	EST	NaN	NaN					
+6/13/2015 15:38:34	Wyeomyia smithii	Ws Unknown 3	GW420677	EST	NaN	NaN					
+6/13/2015 15:43:33	Wyeomyia smithii	Ws Unknown 4	GW420678	EST	NaN	NaN					
+6/13/2015 15:53:42	Wyeomyia smithii	Ws Unknown 5	GW420679	EST	NaN	NaN					
+6/13/2015 15:40:39	Wyeomyia smithii	Ws Unknown 7	GW420681	EST	NaN	NaN					
+6/13/2015 15:30:21	Wyeomyia smithii	Ws Unknown 8	GW420682	EST	NaN	NaN					
+6/13/2015 15:17:21	Wyeomyia smithii	Ws Unknown 9	GW420683	EST	NaN	NaN					
+6/13/2015 15:45:55	Wyeomyia smithii	Ws17127	GW420655	EST	NaN	NaN		FBgn0032299	FlyBase		

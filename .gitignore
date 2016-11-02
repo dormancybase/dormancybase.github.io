@@ -1,3 +1,16 @@
+### dormancybase.github.io ###
+template/node_modules/
+*/*-cache/
+dist/
+template/jspm_packages/
+scripts/temp_data/
+DormancyBase/static/data/
+DormancyBase/content/protein/
+DormancyBase/public/
+template/src/data/
+dist/
+database/dist/
+database/download/
 
 # Created by https://www.gitignore.io/api/python,pycharm,linux
 
@@ -142,7 +155,7 @@ fabric.properties
 
 # *.iml
 # modules.xml
-# .idea/misc.xml 
+# .idea/misc.xml
 # *.ipr
 
 
