@@ -35,7 +35,7 @@ ns.add_task(dist_clone)
 def copy_deploy(ctx):
     os.chdir(ROOT_PATH)
     ctx.run("cp -r DormancyBase/public/* %s" % dist_path)
-    ctx.run("echo \"salmonet.org\" > %s/CNAME" % dist_path)
+    #ctx.run("echo \"dormancybase.org\" > %s/CNAME" % dist_path)
 ns.add_task(copy_deploy)
 
 @task()
