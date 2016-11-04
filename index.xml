@@ -6,24 +6,141 @@
     <description>Recent content on DORMANCYbase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2016 15:08:35 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dormancybase.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Browse</title>
-      <link>https://dormancybase.github.io/browse.html</link>
-      <pubDate>Fri, 01 Jul 2016 15:08:35 +0100</pubDate>
+      <title> p21=cyclin kinase inhibitor</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000845.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dormancybase.github.io/browse.html</guid>
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000845.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Download</title>
-      <link>https://dormancybase.github.io/download.html</link>
-      <pubDate>Fri, 01 Jul 2016 15:08:35 +0100</pubDate>
+      <title>12s rrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000645.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dormancybase.github.io/download.html</guid>
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000645.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14-3-3 zeta</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000468.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000468.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>16s ribosomal rna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000690.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000690.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>19g1 gene for 30k protein</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000144.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000144.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20s proteasome regulatory subunit</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000469.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000469.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>23kda heat shock protein schsp23 mrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000797.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000797.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3,2-trans-enoyl-coa isomerase</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000001.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000001.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3,2-trans-enoyl-coa isomerase (ech-2) mrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000400.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000400.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-hydroxyacyl-coa dehyrogenase (hcdh-1) mrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000396.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000396.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-hydroxyacyl-coa dehyrogenase (hcdh-2) mrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000397.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000397.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-hydroxyacyl-coa dehyrogenase (hcdh-3) mrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000398.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000398.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-hydroxyisobutyryl-coa hydrolase-like (hcdh-4) mrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000399.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000399.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>40s ribosomal protein s1</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000680.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000680.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>60s acidic ribosomal protein p0 mrna</title>
+      <link>https://dormancybase.github.io/sequence/DB_SEQ000798.html</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dormancybase.github.io/sequence/DB_SEQ000798.html</guid>
       <description></description>
     </item>
     
