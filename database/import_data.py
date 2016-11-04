@@ -111,6 +111,7 @@ def process_sources(
             continue
         DB["species"][Ssp]["sequences"][SID] = {
         #DB["sequences"][SID] = {
+            "innerID": SID,
             "species": Ssp,
             "name": seq["name"],
             "ncbi": seq["ncbi"],
