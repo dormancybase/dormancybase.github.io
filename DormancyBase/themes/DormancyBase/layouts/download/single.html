@@ -1,0 +1,58 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+    <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-medium-1-1">
+            <div class="uk-panel uk-panel-box uk-text-center">
+                <h1>Download</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="uk-grid">
+        <div class="uk-width-medium-1-5">
+        </div>
+        <div class="uk-width-medium-3-5">
+            <div id="downloadform"></div>
+            <script>
+    //
+    function downloadfn(){
+        var url = "/download/"+downloadform.getValues().strain+"_"+downloadform.getValues().layer+"."+downloadform.getValues().format;
+//        webix.message("download: "+url);
+        document.getElementById('downloadframe').src = url;
+    }
+    downloadform = new webix.ui({
+        container: "downloadform",
+        id: "downloadform",
+        view: "form",
+        scroll: false,
+        width: "100%",
+        elements: [
+            { view:"select", label:"Strain", name: "strain", options:[
+                    {id:"Consensus", value:"Consensus" }
+            ] },
+            { view:"select", label:"Layer", name: "layer", options:[
+                    {id:"allnetworks", value:"All" }
+            ] },
+            { view:"select", label:"Format", name: "format", options:[
+                    {id:"csv", value:"CSV" }
+            ] },
+            { view:"button", value:"Download", name: "download_button", width:200, align:"center", click:downloadfn},
+            {view: "label", label: "<a href='/download/homolog_groups.csv' class='download_link'>Download ortholog groups details</a>"}
+        ]
+    });
+
+    //
+            </script>
+        </div>
+        <div class="uk-width-medium-1-5">
+        </div>
+    </div>
+</div>
+<iframe id="downloadframe" style="display:none"></iframe>
+{{ partial "offcanvas.html" . }}
+
+{{ partial "analytics.html" . }}
+</body>
+</html>

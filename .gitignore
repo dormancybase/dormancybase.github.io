@@ -11,6 +11,7 @@ template/src/data/
 dist/
 database/dist/
 database/download/
+database/hugo_files/
 
 # Created by https://www.gitignore.io/api/python,pycharm,linux
 

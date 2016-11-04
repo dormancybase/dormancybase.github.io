@@ -92,7 +92,8 @@ def process_sources(
             "has_whole_genome": sp["has_whole_genome"],
             "dormancy_type": sp["dormancy_type"],
             "ordo": sp["ordo"],
-            "sequences": {}
+            "sequences": {},
+            "life_stage": "",
         }
         DB["relations"]["spname2taxid"][sp["name"]] = sp["taxID"]
 
@@ -120,6 +121,7 @@ def process_sources(
             "other_id": seq["other_id"],
             "other_id_type": seq["other_id_type"],
             "expressions" : [],
+            "life_stage": "",
         }
         DB["relations"]["seqname2id"][seq["name"]] = SID
         DB["relations"]["seqid2name"][SID] = seq["name"]
@@ -146,7 +148,7 @@ def process_sources(
             "ID": EID,
             "species": Esp,
             "dormancy_type": exp["dormancy_type"],
-            "life_stage": exp["life_stage"],
+            "life_stage": exp["life_stage"] if exp["life_stage"] != "" else None,
             "tissue": exp["tissue"],
             "expression_level": exp["expression_level"],
             "FC": exp["FC"],
@@ -168,6 +170,29 @@ def process_sources(
     for sp in del_seq:
         for seq in del_seq[sp]:
             del(DB["species"][sp]["sequences"][seq])
+
+    # filter life stage for sequences
+    for sp in DB["species"]:
+        for seq in DB["species"][sp]["sequences"]:
+            ls = list(set([ e["life_stage"] for e in DB["species"][sp]["sequences"][seq]["expressions"] if e["life_stage"]]))
+            if len(ls) > 1:
+                print("Warning: there aren't many life_stage for sequence: %s, %s" % (DB["species"][sp]["sequences"][seq]["name"], ls), file=sys.stderr)
+                DB["species"][sp]["sequences"][seq]["life_stage"] = " / ".join(ls)
+            elif len(ls) == 0:
+                DB["species"][sp]["sequences"][seq]["life_stage"] = ""
+            else:
+                DB["species"][sp]["sequences"][seq]["life_stage"] = ls[0]
+
+    # filter life stage for species
+    for sp in DB["species"]:
+        ls = list(set([ DB["species"][sp]["sequences"][e]["life_stage"] for e in DB["species"][sp]["sequences"] if DB["species"][sp]["sequences"][e]["life_stage"]]))
+        if len(ls) > 1:
+            print("Warning: there aren't many life_stage for species: %s, %s" % (DB["species"][sp]["name"], ls), file=sys.stderr)
+            DB["species"][sp]["life_stage"] = " / ".join(ls)
+        elif len(ls) == 0:
+            DB["species"][sp]["life_stage"] = ""
+        else:
+            DB["species"][sp]["life_stage"] = ls[0]
 
     # return with the database
     return DB

@@ -14,9 +14,28 @@ def cd(ctx):
     os.chdir(ROOT_PATH)
 
 @task()
+def mkdirs(ctx):
+    dirs = ["dist", "download", "hugo_files"]
+    for cdir in dirs:
+        if not os.path.exists(os.path.join(ROOT_PATH, cdir)):
+            os.makedirs(os.path.join(ROOT_PATH, cdir))
+
+@task()
 def mklog(ctx):
     open(LOG_FILE,"w")
 
-@task(cd, mklog)
+@task(cd, mklog, mkdirs)
 def sources(ctx):
     ctx.run("python import_data.py 2> %s" % LOG_FILE)
+
+@task(cd, mklog, mkdirs)
+def export_hugo(ctx):
+    ctx.run("python export_hugo.py 2> %s" % LOG_FILE)
+
+@task(export_hugo)
+def copy_brows(ctx):
+    ctx.run("cp hugo_files/brows.csv ../DormancyBase/static/data/brows.csv")
+
+@task(copy_brows)
+def deploy(ctx):
+    print(" template - DONE")
