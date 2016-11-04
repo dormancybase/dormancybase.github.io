@@ -26,11 +26,11 @@ def mklog(ctx):
 
 @task(cd, mklog, mkdirs)
 def sources(ctx):
-    ctx.run("python import_data.py 2> %s" % LOG_FILE)
+    ctx.run("python import_data.py 2>> %s" % LOG_FILE)
 
 @task(cd, mklog, mkdirs)
 def export_hugo(ctx):
-    ctx.run("python export_hugo.py 2> %s" % LOG_FILE)
+    ctx.run("python export_hugo.py 2>> %s" % LOG_FILE)
 
 @task(export_hugo)
 def copy_brows(ctx):

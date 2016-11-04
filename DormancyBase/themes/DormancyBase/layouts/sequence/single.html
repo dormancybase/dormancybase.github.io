@@ -6,7 +6,7 @@
     <div class="uk-grid" data-uk-grid-margin>
         <div class="uk-width-medium-1-1">
             <div class="uk-panel uk-panel-box uk-text-center">
-                <h1>{{ .Params.genename }}</h1>
+                <h1>{{ .Params.sequence_name }}</h1>
             </div>
         </div>
     </div>
@@ -15,15 +15,16 @@
 
     <div class="uk-grid" data-uk-grid-margin>
         <div class="uk-width-medium-1-2">
+            <h2>Sequence</h2>
             <dl class="uk-description-list-horizontal">
                 <dt>Name</dt>
-                <dd>{{ .Params.genename }}</dd>
-                <dt>Locus</dt>
-                <dd>{{ .Params.locus }}</dd>
-                <dt>Uniprot Accession</dt>
-                <dd>{{ .Params.uniprot }}</dd>
-                <dt>Strain</dt>
-                <dd><i>Salmonella enterica {{ .Params.strain }}</i></dd>
+                <dd>{{ .Params.sequence_name }}</dd>
+                <dt>Sequence type</dt>
+                <dd>{{ .Params.sequence_type }}</dd>
+                <dt>NCBI</dt>
+                <dd>{{ .Params.sequence_ncbi }}</dd>
+                <dt>{{ .Params.sequence_other_id_type }}</dt>
+                <dd>{{ .Params.sequence_other_id }}</dd>
             </dl>
         </div>
         <div class="uk-width-medium-1-2">
@@ -31,62 +32,75 @@
         </div>
     </div>
 
+    <hr class="uk-grid-divider">
+
+    <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-medium-1-2">
+            <h2>Species</h2>
+            <dl class="uk-description-list-horizontal">
+                <dt>Name</dt>
+                <dd><i>{{ .Params.species_name }}</i></dd>
+                <dt>Ordo</dt>
+                <dd>{{ .Params.species_ordo }}</dd>
+                <dt>NCBI Taxonomy ID</dt>
+                <dd><a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={{ .Params.species_taxid }}" target="_blank">{{ .Params.species_taxid }}</a></dd>
+            </dl>
+        </div>
+        <div class="uk-width-medium-1-2">
+
+        </div>
+    </div>
 
     <hr class="uk-grid-divider">
 
     <div class="uk-grid" data-uk-grid-margin>
         <div class="uk-width-medium-1-1">
-            <h2>Interactions</h2>
-            <div id="interactiontable"></div>
+            <h2>Expression levels</h2>
+            <div id="exptable"></div>
             <script>
-                interactiontable = webix.ui({
-                    container: "interactiontable",
+                exptable = webix.ui({
+                    container: "exptable",
                     view: "datatable",
                     css: "dormancybase_table",
                     columns: [
-                        {id: "data0", header: ["Interactor", {content: "textFilter"}], css: "rank", width: 120},
-                        {id: "data1", header: ["Interactor", {content: "textFilter"}], width: 120},
-                        {id: "data2", header: "Source <a style='color: #1F2421 !important;' href='#legend' class='uk-icon-justify uk-icon-question-circle'></a>", width: 200},
-                        {id: "data3", header: ["Layer", {content: "selectFilter"}], width: 200}
+                        {id: "expression_level", map: "#data1#", header: ["Expression"], css: "rank", width: 100},
+                        {id: "FC", map: "#data2#", header: ["Fold change"], width: 120},
+                        {id: "methode", map: "#data3#", header: ["Method"], width: 250},
+                        {id: "tissue", map: "#data4#", header: ["Tissue"], width: 250},
+                        {id: "gender", map: "#data5#", header: ["Gender"], width: 75},
+                        {id: "ref", map: "#data6#", hidden:true},
+                        {id: "note", map: "#data8#", hidden:true},
+                        {id: "ref_note", header: [""], width: 50, template:
+                            "<a href='#ref#' class='uk-icon-external-link' target=\"_blank\"></a>&nbsp;<i class=\"uk-icon-commenting-o\" data-uk-tooltip=\"pos:'top-left'\" title=\"#note#\"></i>"
+                        }
                     ],
                     autoheight: true,
                     autowidth: true,
 
                     datatype: "csv",
-                    data: '{{ .Params.interactioncsv | safeHTML }}'
+                    data: '{{ .Params.expressioncsv | safeHTML }}'
                 });
                 $(window).resize(function() {
                     if ($(window).width() < 850){
-                        interactiontable.hideColumn("data2");
-                        interactiontable.setColumnWidth("data0", 80);
-                        interactiontable.setColumnWidth("data1", 80);
-                        interactiontable.setColumnWidth("data3", 150);
+                        exptable.hideColumn("data2");
+                        exptable.setColumnWidth("data0", 80);
+                        exptable.setColumnWidth("data1", 80);
+                        exptable.setColumnWidth("data3", 150);
                     }
                     if ($(window).width() >= 850){
-                        interactiontable.showColumn("data2");
-                        interactiontable.setColumnWidth("data0", 120);
-                        interactiontable.setColumnWidth("data1", 120);
-                        interactiontable.setColumnWidth("data3", 200);
+                        exptable.showColumn("data2");
+                        exptable.setColumnWidth("data0", 120);
+                        exptable.setColumnWidth("data1", 120);
+                        exptable.setColumnWidth("data3", 200);
                     }
                 });
                 if ($(window).width() < 850){
-                    interactiontable.hideColumn("data2");
-                    interactiontable.setColumnWidth("data0", 80);
-                    interactiontable.setColumnWidth("data1", 80);
+                    exptable.hideColumn("data2");
+                    exptable.setColumnWidth("data0", 80);
+                    exptable.setColumnWidth("data1", 80);
                 }
+                // <a style='color: #1F2421 !important;' href='#legend' class='uk-icon-justify uk-icon-question-circle'></a>
             </script>
-        </div>
-    </div>
-    <hr class="uk-grid-divider">
-    <div class="uk-grid" data-uk-grid-margin>
-        <div class="uk-width-medium-1-2">
-            <h2>Orthologs of {{ .Params.genename }}</h2>
-            <dl class="uk-description-list-horizontal">
-                {{ range $ortholog := .Params.orthologs }}
-                <dt><a href="/protein/{{ $ortholog.uniprot }}.html">{{ $ortholog.uniprot }}</a></dt>
-                <dd><i>Salmonella enterica {{ $ortholog.stain }}</i></dd>
-                {{ end }}
-            </dl>
         </div>
     </div>
 
@@ -94,116 +108,7 @@
     <div class="uk-grid" data-uk-grid-margin>
         <div class="uk-width-medium-1-1">
             <a name="legend"></a>
-            <h2>Legend for interactions table</h2>
-            <h3>Metabolic layer</h3>
-            <dl class="uk-description-list-horizontal">
-                <dt>Nodes</dt>
-                <dd>Enzymes of the metabolic reaction</dd>
-                <dt>Links</dt>
-                <dd>Two nodes are linked if the rections they catalyse have a common substrate and/or product.</dd>
-                <dt>Source</dt>
-                <dd>
-                    <table class="uk-table">
-                        <tbody>
-                        <tr>
-                            <td>BioModels</td>
-                            <td>The links were obtained from the EC numbers of https://www.ebi.ac.uk/biomodels-main/
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>STM</td>
-                            <td>Orthologous enzymes from a validated mathematical model of S. Typhymurium LT2
-                                (PMID:21244678)
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </dd>
-            </dl>
-            <h3>Regulatory layer</h3>
-            <dl class="uk-description-list-horizontal">
-                <dt>Nodes</dt>
-                <dd>TF (Transcription Factors)<br>TG (Target genes)</dd>
-                <dt>Links</dt>
-                <dd>Regulatory links represent binding of transcription factors to gene promoters (undirected links)
-                </dd>
-                <dt>Source</dt>
-                <dd>
-                    <table class="uk-table">
-                        <tbody>
-                        <tr>
-                            <td>Ecoli</td>
-                            <td>The links were obtained by alignement of the promoter regions to binding sites of
-                                orthologous genes from E. coli as described in <a href="http://regulondb.ccg.unam.mx/" target="_blank">RegulonDB</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Salm</td>
-                            <td>The links were obtained using Position Specific Scoring Matrices (PSSMs) from binding
-                                sites
-                                of Salmonellae found in the literature
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Exp(LT)</td>
-                            <td>The links were determined experimentally by low-throughput experiments (PMID indicates
-                                the
-                                pubmed reference)
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>EXP(HT)</td>
-                            <td>The links were determined experimentally by high-throughput experiments (PMID indicates
-                                the
-                                pubmed reference)
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </dd>
-            </dl>
-
-            <h3>PPI layer</h3>
-            <dl class="uk-description-list-horizontal">
-                <dt>Nodes</dt>
-                <dd>Proteins</dd>
-                <dt>Links</dt>
-                <dd>Orthologous proteins of E. coli which bind together</dd>
-                <dt>Source</dt>
-                <dd>
-                    <table class="uk-table">
-                        <tbody>
-                        <tr>
-                            <td>Lit_Ecoli</td>
-                            <td>The links were derived from a <a href="https://www.ncbi.nlm.nih.gov/pubmed/24561554" target="_blank">publication (PMID:24561554)</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>IntAct</td>
-                            <td>The links were derived from the <a href="http://www.ebi.ac.uk/intact/" target="_blank">Intact</a> database
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Biogrid</td>
-                            <td>The links were derived from the <a href="http://thebiogrid.org/" target="_blank">Biogrid</a> database
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Interactome3d</td>
-                            <td>The links were derived from the <a href="http://interactome3d.irbbarcelona.org/)" target="_blank">Interactome3D</a> database
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Exp</td>
-                            <td>The binding interactions were determined experimentally (PMID indicates the pubmed
-                                reference)
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </dd>
-            </dl>
-        </div>
+            <h2>Legend</h2>
 
     </div>
 </div>

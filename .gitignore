@@ -12,6 +12,7 @@ dist/
 database/dist/
 database/download/
 database/hugo_files/
+DormancyBase/content/sequence/
 
 # Created by https://www.gitignore.io/api/python,pycharm,linux
 

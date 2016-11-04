@@ -86,9 +86,12 @@ def process_expressions(in_file):
         f.readline()
         for line in f:
             cells = line.strip().split("\t")
-            if len(cells) < 11:
-                print("ERROR: colnum error!!! %s:%s: %s" % (in_file, line_num, line), file=sys.stderr)
-                continue
+            if len(cells) <= 12:
+                if len(cells) >= 10:
+                    cells.extend(["","","",])
+                else:
+                    print("ERROR: colnum error!!! %s:%s: %s" % (in_file, line_num, line), file=sys.stderr)
+                    continue
             expressions.append({
                 "species": cells[1].split("---")[0],
                 "name": cells[1].split("---")[1].lower(),
@@ -101,6 +104,7 @@ def process_expressions(in_file):
                 "DOI": cells[8],
                 "paper": cells[9],
                 "note": cells[10],
+                "gender": cells[12],
             })
             line_num +=1
     return expressions
@@ -180,6 +184,7 @@ def process_sources(SEQ_ID_file, species_list, sequence_list, expression_list):
             "DOI": exp["DOI"],
             "paper": exp["paper"],
             "note": exp["note"],
+            "gender": exp["gender"],
         })
 
     # check expression for sequnces:
