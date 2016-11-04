@@ -1,6 +1,39 @@
 import json
 import sys
 
+def update_seq_id(SEQ_ID_file, in_file):
+    try:
+        SEQ_ID = json.load(open(SEQ_ID_file))
+    except FileNotFoundError:
+        SEQ_ID = {"ID":{}, "name2ID": {}, "ncbi2ID": {}, "other2ID": {}, "nextID": 0}
+    with open(in_file) as f:
+        f.readline()
+        for line in f:
+            cells = line.strip().split("\t")
+            if len(cells) < 10:
+                if len(cells) >= 5:
+                    cells.extend(["","","","","","","",])
+                else:
+                    print("ERROR: colnum error!!! %s:%s: %s" % (in_file, line_num, line), file=sys.stderr)
+                    continue
+            if cells[2].lower() not in SEQ_ID["name2ID"]:
+                SID = 'DB_SEQ{:06d}'.format(SEQ_ID["nextID"])
+                SEQ_ID["nextID"] += 1
+                SEQ_ID["ID"][SID] = {
+                    "species": cells[1],
+                    "name": cells[2].lower(),
+                    "ncbi": cells[3].lower(),
+                    "other_id": cells[8].lower(),
+                    "other_id_type": cells[9].lower(),
+                }
+                SEQ_ID["name2ID"][cells[2].lower()] = SID
+                if cells[3] != "":
+                    SEQ_ID["ncbi2ID"][cells[3].lower()] = SID
+                if cells[8] != "":
+                    SEQ_ID["other2ID"][cells[8].lower()] = SID
+    with open(SEQ_ID_file, "w") as f:
+        json.dump(SEQ_ID, f, indent=4)
+
 def process_species(in_file):
     species = []
     line_num = 1
@@ -72,11 +105,9 @@ def process_expressions(in_file):
             line_num +=1
     return expressions
 
-def process_sources(
-    species_list="source/1_species_list.tsv",
-    sequence_list="source/2_sequence_list.tsv",
-    expression_list="source/3_expression_list.tsv",
-    ):
+def process_sources(SEQ_ID_file, species_list, sequence_list, expression_list):
+
+    SEQ_ID = json.load(open(SEQ_ID_file))
     DB = {
         "species": {},
         "sequences": {},
@@ -98,12 +129,10 @@ def process_sources(
         DB["relations"]["spname2taxid"][sp["name"]] = sp["taxID"]
 
     # process sequences
-    DB["relations"]["seqid2name"] = {}
     DB["relations"]["seqid2sp"] = {}
-    DB["relations"]["seqname2id"] = {}
     Snum = 0
     for seq in process_sequences(sequence_list):
-        SID = 'DB_M_{:06d}'.format(Snum)
+        SID = SEQ_ID["name2ID"][seq["name"]]
         Snum += 1
         try:
             Ssp = DB["relations"]["spname2taxid"][seq["species"]]
@@ -111,7 +140,6 @@ def process_sources(
             print("ERROR: unknown species!!! %s %s" % (seq["name"], seq["species"]), file=sys.stderr)
             continue
         DB["species"][Ssp]["sequences"][SID] = {
-        #DB["sequences"][SID] = {
             "innerID": SID,
             "species": Ssp,
             "name": seq["name"],
@@ -123,8 +151,6 @@ def process_sources(
             "expressions" : [],
             "life_stage": "",
         }
-        DB["relations"]["seqname2id"][seq["name"]] = SID
-        DB["relations"]["seqid2name"][SID] = seq["name"]
         DB["relations"]["seqid2sp"][SID] = Ssp
 
     # process expressions
@@ -133,18 +159,16 @@ def process_sources(
         EID = 'DB_E_{:06d}'.format(Enum)
         Enum += 1
         try:
-            Eseq = DB["relations"]["seqname2id"][exp["name"]]
+            Eseq = SEQ_ID["name2ID"][exp["name"]]
         except KeyError:
             print("ERROR: unknown sequence in expression list!!! %s" % (exp["name"]), file=sys.stderr)
             continue
         try:
             Esp = DB["relations"]["seqid2sp"][Eseq]
-            #Esp = DB["relations"]["spname2taxid"][exp["species"]]
         except KeyError:
             print("ERROR: unknown species in expression list!!! %s %s" % (exp["name"], exp["species"]), file=sys.stderr)
             continue
         DB["species"][Esp]["sequences"][Eseq]["expressions"].append({
-        #DB["sequences"][Eseq]["expressions"].append({
             "ID": EID,
             "species": Esp,
             "dormancy_type": exp["dormancy_type"],
@@ -198,5 +222,15 @@ def process_sources(
     return DB
 
 if __name__ == "__main__":
+    SEQ_ID_file = "DormancyBaseID.json"
+    source_species_file = "source/1_species_list.tsv"
+    source_sequence_file = "source/2_sequence_list.tsv"
+    source_expression_file = "source/3_expression_list.tsv"
+    update_seq_id(SEQ_ID_file, source_sequence_file)
+    DB = process_sources(
+        SEQ_ID_file,
+        source_species_file,
+        source_sequence_file,
+        source_expression_file)
     with open("dist/sources.json", "w") as f:
-        json.dump(process_sources(), f, indent=4)
+        json.dump(DB, f, indent=4)
