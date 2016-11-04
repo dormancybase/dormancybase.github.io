@@ -9,8 +9,8 @@ import os
 ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
 dist_path = "dist"
 git_url = "git@github.com:dormancybase/dormancybase.github.io"
-main_branch = "master"
-deploy_branch = "gh-pages"
+main_branch = "src"
+deploy_branch = "master"
 
 ns = Collection()
 @task()
