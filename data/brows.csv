@@ -1,0 +1,578 @@
+0,"Bombus terrestris","heat shock protein cognate 70 (hsc70) mrna",adult,adult/imago,4,DB_SEQ000140
+1,"Bombus terrestris","small heat shock protein (shsp) mrna",adult,adult/imago,4,DB_SEQ000141
+2,"Bombus terrestris","heat shock protein 90 (hsp90) mrna",adult,adult/imago,4,DB_SEQ000139
+3,"Lucilia sericata","hsp90 mrna for heat shock protein 90",larva,larva / adult/imago / larva,6,DB_SEQ000374
+4,"Lucilia sericata","hsp70 mrna for heat shock protein 70",larva,larva / adult/imago / larva,5,DB_SEQ000643
+5,"Lucilia sericata","hsp23 mrna for heat shock protein 23",larva,larva / adult/imago / larva,4,DB_SEQ000641
+6,"Choristoneura fumiferana","diapause associated protein 1 (dap1) mrna",,larva,1,DB_SEQ000376
+7,"Choristoneura fumiferana","diapause associated protein 2 (dap2) mrna",,larva,1,DB_SEQ000378
+8,"Choristoneura fumiferana","diapause associated protein 2",,larva,1,DB_SEQ000377
+9,"Choristoneura fumiferana","diapause associated protein 1",,larva,1,DB_SEQ000375
+10,"Chilo suppressalis","cssp1 mrna for methionine-rich storage protein",larva,larva,2,DB_SEQ000371
+11,"Chilo suppressalis","hsp19.7 mrna for small heat shock protein 19.7",larva,larva,1,DB_SEQ000373
+12,"Chilo suppressalis","hsc70 mrna for heat shock cognate protein 70",larva,larva,2,DB_SEQ000372
+13,"Gastrophysa atrocyanea","diapausin",,adult/imago,1,DB_SEQ000654
+14,"Gastrophysa atrocyanea","mrna for diapausin",,adult/imago,1,DB_SEQ000655
+15,"Gastrophysa atrocyanea","active phase-associated protein i",,adult/imago,1,DB_SEQ000652
+16,"Gastrophysa atrocyanea","apap1 mrna for active phase-associated protein i",,adult/imago,1,DB_SEQ000653
+17,"Sesamia nonagrioides","heat shock protein 19.5 (hsp19.5) mrna",,larva / larva / embryo/egg,3,DB_SEQ000850
+18,"Sesamia nonagrioides","heat shock protein 70 (hsp70) mrna",,larva / larva / embryo/egg,3,DB_SEQ000765
+19,"Sesamia nonagrioides","90 kda heat shock protein 83 (hsp83) mrna",,larva / larva / embryo/egg,1,DB_SEQ000848
+20,"Sesamia nonagrioides","heat shock protein hsp20.8 (sno20.8) mrna",,larva / larva / embryo/egg,3,DB_SEQ000851
+21,"Sesamia nonagrioides","heat shock cognate 70 protein mrna",,larva / larva / embryo/egg,2,DB_SEQ000849
+22,"Drosophila montana","regucalcin",,adult/imago,1,DB_SEQ000631
+23,"Pyrrhocoris apterus","cryptochrome 2 mrna",,adult/imago,1,DB_SEQ000787
+24,"Pyrrhocoris apterus","ultraspiracle mrna",,adult/imago,1,DB_SEQ000792
+25,"Pyrrhocoris apterus","clock protein mrna",,adult/imago,3,DB_SEQ000786
+26,"Pyrrhocoris apterus","ecdysone receptor mrna",,adult/imago,1,DB_SEQ000789
+27,"Pyrrhocoris apterus","citrate synthase mrna",,adult/imago,1,DB_SEQ000785
+28,"Pyrrhocoris apterus","sorbitol dehydrogenase mrna",,adult/imago,1,DB_SEQ000791
+29,"Pyrrhocoris apterus","period clock protein (per) mrna",,adult/imago,4,DB_SEQ000790
+30,"Pyrrhocoris apterus","cytochrome c oxidase subunit va mrna",,adult/imago,1,DB_SEQ000788
+31,"Pyrrhocoris apterus","aldose reductase mrna",,adult/imago,1,DB_SEQ000784
+32,"Wolbachia endosymbiont of Culex pipiens pipiens","clone cpild-c02 23s ribosomal rna",,adult/imago,1,DB_SEQ000864
+33,"Riptortus pedestris","per mrna for period",adult,adult/imago,1,DB_SEQ000795
+34,"Riptortus pedestris","cyc mrna for cycle",adult,adult/imago,1,DB_SEQ000794
+35,"Riptortus pedestris","cry-m mrna for cryptochrome-m",adult,adult/imago,1,DB_SEQ000793
+36,"Riptortus pedestris","vri mrna for vrille",adult,adult/imago,1,DB_SEQ000796
+37,"Drosophila triauraria","hsp83 mrna for heat shock protein 83",,adult/imago,1,DB_SEQ000644
+38,"Drosophila triauraria","drsl-a mrna for drosomycin-like a",,adult/imago,3,DB_SEQ000639
+39,"Drosophila triauraria","drsl-b mrna for drosomycin-like b",,adult/imago,1,DB_SEQ000640
+40,"Antheraea pernyi","diapause hormone-phermone biosynthesis activating neuropeptide",pupa,pupae,4,DB_SEQ000116
+41,"Antheraea pernyi","diapause hormone-phermone biosynthesis activating neuropeptide mrna",pupa,pupae,3,DB_SEQ000117
+42,"Leptinotarsa decemlineata","atp synthase f0 subunit 6",adult,adult/imago / larva,2,DB_SEQ000696
+43,"Leptinotarsa decemlineata","unknown - clone 5641",adult,adult/imago / larva,2,DB_SEQ000731
+44,"Leptinotarsa decemlineata","ribosomal protein s15e",adult,adult/imago / larva,2,DB_SEQ000721
+45,"Leptinotarsa decemlineata","unknown - clone 5513",adult,adult/imago / larva,2,DB_SEQ000729
+46,"Leptinotarsa decemlineata","clone inte-2 digestive cysteine protease intestain mrna",adult,adult/imago / larva,1,DB_SEQ000699
+47,"Leptinotarsa decemlineata","chitin-binding peritrophin-a domain",adult,adult/imago / larva,2,DB_SEQ000698
+48,"Leptinotarsa decemlineata","unknown - clone 4141",adult,adult/imago / larva,2,DB_SEQ000726
+49,"Leptinotarsa decemlineata","diapause-associated transcript 1 mrna",adult,adult/imago / larva,1,DB_SEQ000701
+50,"Leptinotarsa decemlineata","adenine nucleotide translocase",adult,adult/imago / larva,2,DB_SEQ000691
+51,"Leptinotarsa decemlineata","endo-polygalacturonase",adult,adult/imago / larva,2,DB_SEQ000707
+52,"Leptinotarsa decemlineata","digestive cysteine proteinase",adult,adult/imago / larva,2,DB_SEQ000705
+53,"Leptinotarsa decemlineata","ribosomal protein l29e",adult,adult/imago / larva,2,DB_SEQ000720
+54,"Leptinotarsa decemlineata","putative juvenile hormone esterase (jhe) mrna",adult,adult/imago / larva,1,DB_SEQ000717
+55,"Leptinotarsa decemlineata","serine protease s1a-1 mrna",adult,adult/imago / larva,1,DB_SEQ000724
+56,"Leptinotarsa decemlineata","glycine-rich protein - clone 3612",adult,adult/imago / larva,2,DB_SEQ000709
+57,"Leptinotarsa decemlineata","diapause-associated transcript-3 mrna",adult,adult/imago / larva,2,DB_SEQ000704
+58,"Leptinotarsa decemlineata","c-type lectin&#44; mannose-binding",adult,adult/imago / larva,2,DB_SEQ000697
+59,"Leptinotarsa decemlineata","diapause-associated transcript-2",adult,adult/imago / larva,2,DB_SEQ000702
+60,"Leptinotarsa decemlineata","unknown - clone 8212",adult,adult/imago / larva,2,DB_SEQ000733
+61,"Leptinotarsa decemlineata","unknown - clone 5411",adult,adult/imago / larva,2,DB_SEQ000728
+62,"Leptinotarsa decemlineata","diapause-associated transcript-2 mrna",adult,adult/imago / larva,2,DB_SEQ000703
+63,"Leptinotarsa decemlineata","16s ribosomal rna",adult,adult/imago / larva,2,DB_SEQ000690
+64,"Leptinotarsa decemlineata","inducible heat shock 70 kda protein b mrna",adult,adult/imago / larva,2,DB_SEQ000715
+65,"Leptinotarsa decemlineata","unknown - clone 6922",adult,adult/imago / larva,2,DB_SEQ000732
+66,"Leptinotarsa decemlineata","glycine-rich protein - clone 5012",adult,adult/imago / larva,2,DB_SEQ000711
+67,"Leptinotarsa decemlineata","tubulin alpha-1 chain",adult,adult/imago / larva,2,DB_SEQ000725
+68,"Leptinotarsa decemlineata","unknown - clone 4941",adult,adult/imago / larva,2,DB_SEQ000727
+69,"Leptinotarsa decemlineata","ribosomal protein l13e",adult,adult/imago / larva,2,DB_SEQ000718
+70,"Leptinotarsa decemlineata","dp19 mrna for diapause protein 1",adult,adult/imago / larva,3,DB_SEQ000706
+71,"Leptinotarsa decemlineata","inducible heat shock 70 kda protein a mrna",adult,adult/imago / larva,2,DB_SEQ000714
+72,"Leptinotarsa decemlineata","glycine-rich protein - clone 4831",adult,adult/imago / larva,2,DB_SEQ000710
+73,"Leptinotarsa decemlineata","gamma interferon inducible lysosomal thiol reductase",adult,adult/imago / larva,2,DB_SEQ000708
+74,"Leptinotarsa decemlineata","ribosomal protein l22e",adult,adult/imago / larva,2,DB_SEQ000719
+75,"Leptinotarsa decemlineata","unknown - clone 5611",adult,adult/imago / larva,2,DB_SEQ000730
+76,"Leptinotarsa decemlineata","heat shock cognate 70",adult,adult/imago / larva,2,DB_SEQ000713
+77,"Leptinotarsa decemlineata","glycine-rich protein - clone 7811",adult,adult/imago / larva,2,DB_SEQ000712
+78,"Agrius convolvuli","mitochondrial cox1 gene for cytochrome c oxidase subunit 1",,pupae,1,DB_SEQ000082
+79,"Wyeomyia smithii","ws unknown 1",,larva,1,DB_SEQ000884
+80,"Wyeomyia smithii","adult cuticle protein 1",,larva,1,DB_SEQ000865
+81,"Wyeomyia smithii","cuticular protein 84ad",,larva,1,DB_SEQ000870
+82,"Wyeomyia smithii","sorbitol dehydrogenase 2",,larva,1,DB_SEQ000882
+83,"Wyeomyia smithii","overgrown hematopoietic organs at 23b",,larva,1,DB_SEQ000875
+84,"Wyeomyia smithii","ws17127",,larva,1,DB_SEQ000893
+85,"Wyeomyia smithii","ribosomal protein s 25",,larva,1,DB_SEQ000880
+86,"Wyeomyia smithii","ws unknown 10",,larva,1,DB_SEQ000885
+87,"Wyeomyia smithii","cuticular protein 65av",,larva,1,DB_SEQ000868
+88,"Wyeomyia smithii","non protein coding gene",,larva,1,DB_SEQ000874
+89,"Wyeomyia smithii","ws unknown 2",,larva,1,DB_SEQ000886
+90,"Wyeomyia smithii","string of pearls",,larva,1,DB_SEQ000883
+91,"Wyeomyia smithii","cuticular protein 49ab",,larva,1,DB_SEQ000867
+92,"Wyeomyia smithii","cuticular protein 65az",,larva,1,DB_SEQ000869
+93,"Wyeomyia smithii","ws unknown 8",,larva,1,DB_SEQ000891
+94,"Wyeomyia smithii","ejaculatory bulb protein iii",,larva,1,DB_SEQ000871
+95,"Wyeomyia smithii","phosphoenolpyrovate carboxylkinase",,larva,1,DB_SEQ000877
+96,"Wyeomyia smithii","ribosomal protein s 23",,larva,1,DB_SEQ000879
+97,"Wyeomyia smithii","photoperiodic response gene 1 (retininc containing cg13043-like protein (ppdrg1) mrna)",,larva,1,DB_SEQ000878
+98,"Wyeomyia smithii","ws unknown 9",,larva,1,DB_SEQ000892
+99,"Wyeomyia smithii","myosin binding subunit",,larva,1,DB_SEQ000873
+100,"Wyeomyia smithii","ws unknown 4",,larva,1,DB_SEQ000888
+101,"Wyeomyia smithii","sorbitol dehydrogenase 1",,larva,1,DB_SEQ000881
+102,"Wyeomyia smithii","larval cuticle protein 65ac",,larva,1,DB_SEQ000872
+103,"Wyeomyia smithii","adult cuticle protein 65a",,larva,1,DB_SEQ000866
+104,"Wyeomyia smithii","ws unknown 5",,larva,1,DB_SEQ000889
+105,"Wyeomyia smithii","paxillan",,larva,1,DB_SEQ000876
+106,"Wyeomyia smithii","ws unknown 7",,larva,1,DB_SEQ000890
+107,"Wyeomyia smithii","ws unknown 3",,larva,1,DB_SEQ000887
+108,"Bactrocera minax","hsp90 mrna",pupa,pupae,1,DB_SEQ000127
+109,"Bactrocera minax","hsp23 mrna",pupa,pupae,1,DB_SEQ000125
+110,"Bactrocera minax","unigene21913 transcribed rna sequence",pupa,pupae,1,DB_SEQ000133
+111,"Bactrocera minax","cl3214.contig1 transcribed rna sequence",pupa,pupae,1,DB_SEQ000121
+112,"Bactrocera minax","cl3305.contig1 transcribed rna sequence",pupa,pupae,1,DB_SEQ000122
+113,"Bactrocera minax","hsp70 mrna",pupa,pupae,1,DB_SEQ000126
+114,"Bactrocera minax","unigene15293 transcribed rna sequence",pupa,pupae,1,DB_SEQ000129
+115,"Bactrocera minax","cl493.contig2 transcribed rna sequence",pupa,pupae,1,DB_SEQ000123
+116,"Bactrocera minax","unigene14891 transcribed rna sequence",pupa,pupae,1,DB_SEQ000128
+117,"Lymantria dispar","heat shock protein 73",larva,pupae / larva / larva / larva / embryo/egg,1,DB_SEQ000739
+118,"Lymantria dispar","heat shock protein 42",larva,pupae / larva / larva / larva / embryo/egg,1,DB_SEQ000737
+119,"Lymantria dispar","heat shock protein 75",larva,pupae / larva / larva / larva / embryo/egg,3,DB_SEQ000740
+120,"Lymantria dispar","heat shock protein 29",larva,pupae / larva / larva / larva / embryo/egg,2,DB_SEQ000736
+121,"Lymantria dispar","actin",larva,pupae / larva / larva / larva / embryo/egg,2,DB_SEQ000681
+122,"Lymantria dispar","heat shock protein 60",larva,pupae / larva / larva / larva / embryo/egg,1,DB_SEQ000738
+123,"Lymantria dispar","heat shock protein 90",larva,pupae / larva / larva / larva / embryo/egg,3,DB_SEQ000099
+124,"Lymantria dispar","heat shock protein 22",larva,pupae / larva / larva / larva / embryo/egg,1,DB_SEQ000735
+125,"Lymantria dispar","hemolin mrna",larva,pupae / larva / larva / larva / embryo/egg,1,DB_SEQ000741
+126,"Allonemobius socius","pyrroline 5-carboyxlate reductase",,embryo/egg,1,DB_SEQ000109
+127,"Allonemobius socius","histone2a",,embryo/egg,1,DB_SEQ000100
+128,"Allonemobius socius","male sterility protein (acyl-coa reductase)",,embryo/egg,1,DB_SEQ000104
+129,"Allonemobius socius","heat shock 70 family member",,embryo/egg,1,DB_SEQ000098
+130,"Allonemobius socius","spaghetti squash (myosin regulatory light chain)",,embryo/egg,1,DB_SEQ000113
+131,"Allonemobius socius","cytochrome p450",,embryo/egg,1,DB_SEQ000092
+132,"Allonemobius socius","bax-inhibitor 1-like protein",,embryo/egg,1,DB_SEQ000086
+133,"Allonemobius socius","interferon developmental regulator",,embryo/egg,1,DB_SEQ000102
+134,"Allonemobius socius","translation elongation factor 1 gamma",,embryo/egg,1,DB_SEQ000115
+135,"Allonemobius socius","transcription factor dp2 (e2f dimerization partner)",,embryo/egg,1,DB_SEQ000114
+136,"Allonemobius socius","eukaryotic translation initiation factor 4 gamma",,embryo/egg,1,DB_SEQ000095
+137,"Allonemobius socius","atp citrate lyase",,embryo/egg,1,DB_SEQ000085
+138,"Allonemobius socius","nedd8",,embryo/egg,1,DB_SEQ000107
+139,"Allonemobius socius","rubv-like 2 (reptin/tbp interacting protein)",,embryo/egg,1,DB_SEQ000112
+140,"Allonemobius socius","hsp 20.7",,embryo/egg,1,DB_SEQ000101
+141,"Allonemobius socius","dna dependent rna polymerase iii",,embryo/egg,1,DB_SEQ000093
+142,"Allonemobius socius","glyoxalase cg1532-pa",,embryo/egg,1,DB_SEQ000097
+143,"Allonemobius socius","cytochrome c oxidase subunit ii",,embryo/egg,1,DB_SEQ000089
+144,"Allonemobius socius","fatty acid desaturase",,embryo/egg,1,DB_SEQ000096
+145,"Allonemobius socius","rack1",,embryo/egg,1,DB_SEQ000110
+146,"Allonemobius socius","ribosomal protein l35ae",,embryo/egg,1,DB_SEQ000111
+147,"Allonemobius socius","lipid storage protein cg32645-pb",,embryo/egg,1,DB_SEQ000103
+148,"Allonemobius socius","cytochrome c oxidase viic",,embryo/egg,1,DB_SEQ000091
+149,"Allonemobius socius","neimann-pick type c-like",,embryo/egg,1,DB_SEQ000108
+150,"Allonemobius socius","aldo-keto reductase family member",,embryo/egg,1,DB_SEQ000083
+151,"Allonemobius socius","endoplasmin (hsp90 family member)",,embryo/egg,1,DB_SEQ000094
+152,"Allonemobius socius","chord containing protein",,embryo/egg,1,DB_SEQ000088
+153,"Allonemobius socius","mitochondrial ribosomal protein l45 (timm 44)",,embryo/egg,1,DB_SEQ000106
+154,"Allonemobius socius","cytochrome c oxidase subunit iv",,embryo/egg,1,DB_SEQ000090
+155,"Allonemobius socius","mitochondrial processing peptidase",,embryo/egg,1,DB_SEQ000105
+156,"Allonemobius socius","cathepsin b-like protease",,embryo/egg,1,DB_SEQ000087
+157,"Milnesium tardigradum","gene for hsp70 protein&#44; isoform 2",,adult/imago,2,DB_SEQ000747
+158,"Milnesium tardigradum","hsp70 protein&#44; isoform 3",,adult/imago,2,DB_SEQ000748
+159,"Sarcophaga crassipalpis","unknown - scmd-5g10",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000828
+160,"Sarcophaga crassipalpis","cyclin e",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000844
+161,"Sarcophaga crassipalpis","unknown - scmd-9e12",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000835
+162,"Sarcophaga crassipalpis","cg2331-pa",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000837
+163,"Sarcophaga crassipalpis","catalase",pupa,pupae / pupae / embryo/egg / adult/imago,2,DB_SEQ000683
+164,"Sarcophaga crassipalpis","unknown - scmd-6d2",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000829
+165,"Sarcophaga crassipalpis","unknown - scmd-8b1",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000832
+166,"Sarcophaga crassipalpis","clone 7h7 25 kda small heat shock protein mrna",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000818
+167,"Sarcophaga crassipalpis","60s acidic ribosomal protein p0 mrna",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000798
+168,"Sarcophaga crassipalpis","unknown - scmd-6g4",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000830
+169,"Sarcophaga crassipalpis","cdna similar to ferritin",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000809
+170,"Sarcophaga crassipalpis","clone 6a1 tcp-1 containing chaperonin mrna",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000816
+171,"Sarcophaga crassipalpis","inositol-3-phosphate synthase",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000822
+172,"Sarcophaga crassipalpis","unknown - scmd-8e6",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000833
+173,"Sarcophaga crassipalpis","cdna similar to metallothionein d",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000811
+174,"Sarcophaga crassipalpis","cdna similar to cytochrome oxidase c",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000804
+175,"Sarcophaga crassipalpis"," p21=cyclin kinase inhibitor",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000845
+176,"Sarcophaga crassipalpis","cdna similar to 16s ribosomal rna",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000800
+177,"Sarcophaga crassipalpis","similar to drosophila melanogaster tsr",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000838
+178,"Sarcophaga crassipalpis","cognate 70 kda heat shock protein schsc70 (hsc70) gene",pupa,pupae / pupae / embryo/egg / adult/imago,2,DB_SEQ000820
+179,"Sarcophaga crassipalpis","proliferating cell nuclear antigen (pcna) gene",pupa,pupae / pupae / embryo/egg / adult/imago,2,DB_SEQ000825
+180,"Sarcophaga crassipalpis","cdna similar to map kinase 3",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000810
+181,"Sarcophaga crassipalpis","unknown - scmd-9h7",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000836
+182,"Sarcophaga crassipalpis","cdna similar to actin related protein 1",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000801
+183,"Sarcophaga crassipalpis","histone 2b",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000840
+184,"Sarcophaga crassipalpis","unknown - scmd-7h11",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000831
+185,"Sarcophaga crassipalpis","fatty acid binding protein",pupa,pupae / pupae / embryo/egg / adult/imago,2,DB_SEQ000035
+186,"Sarcophaga crassipalpis","70 kda heat shock protein schsp70 (hsp70) mrna",pupa,pupae / pupae / embryo/egg / adult/imago,2,DB_SEQ000799
+187,"Sarcophaga crassipalpis","unknown - scmd-3d10",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000827
+188,"Sarcophaga crassipalpis","cdna similar to neuropeptide precursor 4",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000812
+189,"Sarcophaga crassipalpis","neuropeptide-like precursor 4 (nplp4) mrna",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000824
+190,"Sarcophaga crassipalpis","clone 7h10 small heat shock protein mrna",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000817
+191,"Sarcophaga crassipalpis","cdna similar to adenosine monophosphate deaminase 2",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000802
+192,"Sarcophaga crassipalpis","cdna similar to ribosomal protein l9",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000813
+193,"Sarcophaga crassipalpis","23kda heat shock protein schsp23 mrna",pupa,pupae / pupae / embryo/egg / adult/imago,3,DB_SEQ000797
+194,"Sarcophaga crassipalpis","cdna similar to rna helicase",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000814
+195,"Sarcophaga crassipalpis","cdna similar to failed axon connections protein",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000807
+196,"Sarcophaga crassipalpis","clone 9d11 18 kda small heat shock protein mrna",pupa,pupae / pupae / embryo/egg / adult/imago,2,DB_SEQ000819
+197,"Sarcophaga crassipalpis","cdna similar to broad complex protein",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000803
+198,"Sarcophaga crassipalpis","scys-a mrna for sarcocystatin a",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000843
+199,"Sarcophaga crassipalpis","heat shock protein 90 gene",pupa,pupae / pupae / embryo/egg / adult/imago,2,DB_SEQ000821
+200,"Sarcophaga crassipalpis","ribosomal protein l17a",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000841
+201,"Sarcophaga crassipalpis","cdna similar to fatty acid desaturase",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000808
+202,"Sarcophaga crassipalpis","rpl32 mrna for ribosomal protein l32",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000842
+203,"Sarcophaga crassipalpis","scys-b mrna for sarcocystatin b",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000826
+204,"Sarcophaga crassipalpis","unnamed protein product",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000839
+205,"Sarcophaga crassipalpis","unknown - scmd-8g3",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000834
+206,"Sarcophaga crassipalpis","homo sapiens mrna for p53",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000846
+207,"Sarcophaga crassipalpis","cdna similar to elongation factor alpha",pupa,pupae / pupae / embryo/egg / adult/imago,1,DB_SEQ000806
+208,"Culex pipiens pipiens","nuclear hormone receptor 48-like (nhr-48) mrna",adult,adult/imago,3,DB_SEQ000464
+209,"Culex pipiens pipiens","clone cpied-a18 putative poly a binding protein mrna",adult,adult/imago,1,DB_SEQ000415
+210,"Culex pipiens pipiens","3-hydroxyisobutyryl-coa hydrolase-like (hcdh-4) mrna",adult,adult/imago,3,DB_SEQ000399
+211,"Culex pipiens pipiens","cyclohex-1-ene-1-carboxyl-coa hydratase (ech-3) mrna",adult,adult/imago,3,DB_SEQ000447
+212,"Culex pipiens pipiens","fatty acid synthase s-acetyltransferase (fas-1) mrna",adult,adult/imago,3,DB_SEQ000453
+213,"Culex pipiens pipiens","3&#44;2-trans-enoyl-coa isomerase (ech-2) mrna",adult,adult/imago,3,DB_SEQ000400
+214,"Culex pipiens pipiens","fatty acid synthase s-acetyltransferase (fas-3) mrna",adult,adult/imago,3,DB_SEQ000455
+215,"Culex pipiens pipiens","clone cpild-f03 late diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000438
+216,"Culex pipiens pipiens","clone cpild-a11 small heat shock protein mrna",adult,adult/imago,1,DB_SEQ000428
+217,"Culex pipiens pipiens","clone cpied-a29 ribosomal protein l40 mrna",adult,adult/imago,1,DB_SEQ000417
+218,"Culex pipiens pipiens","insulin-like peptide 1 mrna",adult,adult/imago,1,DB_SEQ000459
+219,"Culex pipiens pipiens","clone cpied-a01 putative diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000413
+220,"Culex pipiens pipiens","acetyl-coa synthetase (acs) mrna",adult,adult/imago,3,DB_SEQ000402
+221,"Culex pipiens pipiens","strain buckeye actin mrna",adult,adult/imago,2,DB_SEQ000467
+222,"Culex pipiens pipiens","beta-ketoacyl-coa thiolase (bk-2) mrna",adult,adult/imago,3,DB_SEQ000409
+223,"Culex pipiens pipiens","carnitine o-acetyltransferase (cpt-3) mrna",adult,adult/imago,3,DB_SEQ000410
+224,"Culex pipiens pipiens","acyl-coa dehydrogenase (acd-4) mrna",adult,adult/imago,3,DB_SEQ000405
+225,"Culex pipiens pipiens","insulin-like peptide 2 mrna",adult,adult/imago,1,DB_SEQ000460
+226,"Culex pipiens pipiens","clone cpild-a01 large subunit ribosomal rna&#44; mitochondrial",adult,adult/imago,1,DB_SEQ000425
+227,"Culex pipiens pipiens","beta-actin mrna",adult,adult/imago,1,DB_SEQ000407
+228,"Culex pipiens pipiens","clone cpild-f01 late diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000437
+229,"Culex pipiens pipiens","clone cpild-a10 cecropin mrna",adult,adult/imago,1,DB_SEQ000427
+230,"Culex pipiens pipiens","enoyl-coa hydratase (ech-1) mrna",adult,adult/imago,3,DB_SEQ000450
+231,"Culex pipiens pipiens","clone cpild-m43 putative diapause upregulated unknown mrna sequence",adult,adult/imago,1,DB_SEQ000445
+232,"Culex pipiens pipiens","ribosomal protein l19 mrna",adult,adult/imago,3,DB_SEQ000466
+233,"Culex pipiens pipiens","clone cpild-d02 putative reverse transcriptase mrna",adult,adult/imago,1,DB_SEQ000433
+234,"Culex pipiens pipiens","acyl-coa delta (11)-desaturase-like (fad-3) mrna",adult,adult/imago,3,DB_SEQ000406
+235,"Culex pipiens pipiens","fatty acid binding protein (fabp) mrna",adult,adult/imago,3,DB_SEQ000452
+236,"Culex pipiens pipiens","carnitine o-octanoyltransferase (cpt-1) mrna",adult,adult/imago,3,DB_SEQ000411
+237,"Culex pipiens pipiens","clone cpied-a24 selenoprotein mrna",adult,adult/imago,1,DB_SEQ000416
+238,"Culex pipiens pipiens","insulin-like peptide 5 mrna",adult,adult/imago,1,DB_SEQ000461
+239,"Culex pipiens pipiens","clone cpied-c09 putative diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000421
+240,"Culex pipiens pipiens","clone cpied-b03 putative transcription elongation factor b polypeptide 3 binding protein 1 mrna",adult,adult/imago,1,DB_SEQ000419
+241,"Culex pipiens pipiens","acetyl-coa carboxylase (acc) mrna",adult,adult/imago,3,DB_SEQ000401
+242,"Culex pipiens pipiens","clone cpild-h05 putative diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000442
+243,"Culex pipiens pipiens","nuclear hormone receptor 41 (nhr-41) mrna",adult,adult/imago,3,DB_SEQ000463
+244,"Culex pipiens pipiens","clone cpild-g10 putative diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000440
+245,"Culex pipiens pipiens","clone cpild-f07 late diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000439
+246,"Culex pipiens pipiens","clone cpild-b11 late diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000431
+247,"Culex pipiens pipiens","clone cpild-a06 aldehyde oxidase-like mrna sequence",adult,adult/imago,1,DB_SEQ000426
+248,"Culex pipiens pipiens","clone cpild-l01 putative ribosomal protein s6 mrna",adult,adult/imago,1,DB_SEQ000444
+249,"Culex pipiens pipiens","3-hydroxyacyl-coa dehyrogenase (hcdh-2) mrna",adult,adult/imago,3,DB_SEQ000397
+250,"Culex pipiens pipiens","clone cpild-h09 28s large subunit ribosomal rna",adult,adult/imago,4,DB_SEQ000443
+251,"Culex pipiens pipiens","clone cpild-d11 miniature inverted-repeat transposable element-like sequence",adult,adult/imago,1,DB_SEQ000435
+252,"Culex pipiens pipiens","acyl-coa dehydrogenase (acd-1) mrna",adult,adult/imago,3,DB_SEQ000403
+253,"Culex pipiens pipiens","clone cpild-d06 late diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000434
+254,"Culex pipiens pipiens","acyl-coa dehydrogenase (acd-2) mrna",adult,adult/imago,3,DB_SEQ000404
+255,"Culex pipiens pipiens","carnitine o-palmitoyltransferase (cpt-2) mrna",adult,adult/imago,3,DB_SEQ000412
+256,"Culex pipiens pipiens","clone cpied-m01 putative methoprene-tolerant protein mrna",adult,adult/imago,1,DB_SEQ000424
+257,"Culex pipiens pipiens","beta-ketoacyl-coa thiolase (bk-1) mrna",adult,adult/imago,3,DB_SEQ000408
+258,"Culex pipiens pipiens","clone cpild-c04 ribosomal protein s24 mrna",adult,adult/imago,1,DB_SEQ000432
+259,"Culex pipiens pipiens","delta (9)-desaturase (fad-2) mrna",adult,adult/imago,3,DB_SEQ000449
+260,"Culex pipiens pipiens","delta (9)-desaturase (fad-1) mrna",adult,adult/imago,3,DB_SEQ000448
+261,"Culex pipiens pipiens","3-hydroxyacyl-coa dehyrogenase (hcdh-3) mrna",adult,adult/imago,3,DB_SEQ000398
+262,"Culex pipiens pipiens","enoyl-coa hydratase (ech-4) mrna",adult,adult/imago,3,DB_SEQ000451
+263,"Culex pipiens pipiens","isovaleryl-coa dehydrogenase (acd-5) mrna",adult,adult/imago,3,DB_SEQ000462
+264,"Culex pipiens pipiens","clone cpild-h03 late diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000441
+265,"Culex pipiens pipiens","clone cpild-b02 late diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000430
+266,"Culex pipiens pipiens","clone cpied-e08 ribosomal protein 27a mrna",adult,adult/imago,1,DB_SEQ000423
+267,"Culex pipiens pipiens","clone cpild-a38 ribosomal protein s3a mrna",adult,adult/imago,2,DB_SEQ000429
+268,"Culex pipiens pipiens","crotonobetainyl-coa dehydrogenase-like (acd-3) mrna",adult,adult/imago,3,DB_SEQ000446
+269,"Culex pipiens pipiens","clone cpild-e09 putative methylmalonate-semialdehyde dehydrogenase mrna",adult,adult/imago,1,DB_SEQ000436
+270,"Culex pipiens pipiens","fatty acid synthase s-acetyltransferase (fas-2) mrna",adult,adult/imago,3,DB_SEQ000454
+271,"Culex pipiens pipiens","hormone-sensitive lipase mrna",adult,adult/imago,3,DB_SEQ000457
+272,"Culex pipiens pipiens","clone cpied-b06 beta tubulin mrna",adult,adult/imago,4,DB_SEQ000420
+273,"Culex pipiens pipiens","3-hydroxyacyl-coa dehyrogenase (hcdh-1) mrna",adult,adult/imago,3,DB_SEQ000396
+274,"Culex pipiens pipiens","clone cpied-a32 ribosomal protein l18 mrna",adult,adult/imago,1,DB_SEQ000418
+275,"Culex pipiens pipiens","clone cpied-a07 putative mitochondrial malate dehydrogenase mrna",adult,adult/imago,1,DB_SEQ000414
+276,"Culex pipiens pipiens","clone cpied-d03 putative diapause upregulated unknown mrna",adult,adult/imago,1,DB_SEQ000422
+277,"Culex pipiens pipiens","retinoid x receptor alpha (nhr-49) mrna",adult,adult/imago,3,DB_SEQ000465
+278,"Antheraea yamamai","mrna for cytochrome p450 cyp4g25",pupa/larva,larva,6,DB_SEQ000118
+279,"Helicoverpa assulta","pheromone biosynthesis neuropeptide precursor",pupa,pupae,2,DB_SEQ000672
+280,"Helicoverpa assulta","pheromone biosynthesis neuropeptide precursor&#44; mrna",pupa,pupae,4,DB_SEQ000673
+281,"Habrobracon hebetor","heat shock protein 70ii(b6) mrna",,adult/imago,3,DB_SEQ000657
+282,"Habrobracon hebetor","heat shock protein 70iii(a6) mrna",,adult/imago,3,DB_SEQ000658
+283,"Habrobracon hebetor","heat shock protein 70i(b4) mrna",,adult/imago,3,DB_SEQ000656
+284,"Tetanops myopaeformis","d20a2b differential display screening of dormant tetanops myopaeformis tetanops myopaeformis cdna similar to fat body protein 2",,larva,1,DB_SEQ000863
+285,"Rhagoletis pomonella","heat shock protein 70 mrna",,pupae / embryo/egg,11,DB_SEQ000245
+286,"Rhagoletis pomonella","heat shock protein 90 mrna",,pupae / embryo/egg,9,DB_SEQ000677
+287,"Paratlanticus ussuriensis","heat shock protein 70b mrna",,embryo/egg,1,DB_SEQ000766
+288,"Paratlanticus ussuriensis","small heat shock protein mrna",,embryo/egg,1,DB_SEQ000768
+289,"Paratlanticus ussuriensis","heat shock protein 70c mrna",,embryo/egg,1,DB_SEQ000767
+290,"Culex pipiens","trypsin mrna",adult,adult/imago,1,DB_SEQ000395
+291,"Culex pipiens","cytochrome c oxidase subunit i mrna",adult,adult/imago,1,DB_SEQ000384
+292,"Culex pipiens","superoxide dismutase-1 mrna",adult,adult/imago,1,DB_SEQ000392
+293,"Culex pipiens","superoxide dismutase-2 mrna",adult,adult/imago,1,DB_SEQ000393
+294,"Culex pipiens","chymotrypsin-like mrna",adult,adult/imago,1,DB_SEQ000382
+295,"Culex pipiens","superoxide dismutase-3 mrna",adult,adult/imago,1,DB_SEQ000394
+296,"Culex pipiens","glutathione peroxidase mrna",adult,adult/imago,1,DB_SEQ000389
+297,"Culex pipiens","fatty acid synthase mrna",adult,adult/imago,1,DB_SEQ000386
+298,"Culex pipiens","catalase mrna",adult,adult/imago,1,DB_SEQ000381
+299,"Culex pipiens","cytochrome c oxidase subunit iii mrna",adult,adult/imago,1,DB_SEQ000385
+300,"Manduca sexta","pheromone biosynthesis activating neuropeptide pban mrna",pupa,pupae,1,DB_SEQ000742
+301,"Aedes albopictus","gpcr methuselah family",adult,embryo/egg,1,DB_SEQ000042
+302,"Aedes albopictus","homolog of glyceraldehyde 3 phosphate dehydrogenase",adult,embryo/egg,1,DB_SEQ000046
+303,"Aedes albopictus","acyl-coa dehdrogenase 4",adult,embryo/egg,1,DB_SEQ000005
+304,"Aedes albopictus","isovaleryl-coa dehydrogenase",adult,embryo/egg,1,DB_SEQ000050
+305,"Aedes albopictus","lipase_aael012343",adult,embryo/egg,1,DB_SEQ000053
+306,"Aedes albopictus","questionable odorant-binding protein 99a",adult,embryo/egg,1,DB_SEQ000067
+307,"Aedes albopictus","receptor for activated c kinase&#44; putative",adult,embryo/egg,1,DB_SEQ000068
+308,"Aedes albopictus","acyl-coa dehydrogenase 2",adult,embryo/egg,1,DB_SEQ000006
+309,"Aedes albopictus","acyl-coa δ(11) desaturase",adult,embryo/egg,1,DB_SEQ000007
+310,"Aedes albopictus","homolog of gram-negative binding protein 4 (gnbpb4)",adult,embryo/egg,1,DB_SEQ000048
+311,"Aedes albopictus","carnitine o-palmitoyltransferase",adult,embryo/egg,1,DB_SEQ000019
+312,"Aedes albopictus","conserved hypothetical protein_aael004873",adult,embryo/egg,1,DB_SEQ000021
+313,"Aedes albopictus","gene containing a jh binding protein domain",adult,embryo/egg,1,DB_SEQ000039
+314,"Aedes albopictus","cyclo-hex-1-ene-1-carboxyl coa hydratase",adult,embryo/egg,1,DB_SEQ000027
+315,"Aedes albopictus","atypical odorant-binding protein 46 (obp46) mrna",adult,embryo/egg,1,DB_SEQ000016
+316,"Aedes albopictus","heat shock protein 67b2",adult,embryo/egg,1,DB_SEQ000043
+317,"Aedes albopictus","conserved hypothetical protein_aael008645",adult,embryo/egg,1,DB_SEQ000024
+318,"Aedes albopictus","ecdysone inducible protein l2&#44; putative",adult,embryo/egg,1,DB_SEQ000033
+319,"Aedes albopictus","putative jh-inducible protein",adult,embryo/egg,1,DB_SEQ000065
+320,"Aedes albopictus","homolog of a putative cecropin anti-microbial peptide (cecb)",adult,embryo/egg,1,DB_SEQ000045
+321,"Aedes albopictus","acetyl-coa synthase",adult,embryo/egg,1,DB_SEQ000003
+322,"Aedes albopictus","δ(9) desaturase",adult,embryo/egg,1,DB_SEQ000081
+323,"Aedes albopictus","amp activated protein kinase beta",adult,embryo/egg,1,DB_SEQ000010
+324,"Aedes albopictus","apolipophorin-iii",adult,embryo/egg,1,DB_SEQ000013
+325,"Aedes albopictus","pyruvate kinase",adult,embryo/egg,1,DB_SEQ000066
+326,"Aedes albopictus","amp activated protein kinase-alpha",adult,embryo/egg,1,DB_SEQ000012
+327,"Aedes albopictus","lipase_aael001057",adult,embryo/egg,1,DB_SEQ000051
+328,"Aedes albopictus","cyp18a1",adult,embryo/egg,1,DB_SEQ000028
+329,"Aedes albopictus","inhibitor of growth protein&#44; ing1",adult,embryo/egg,1,DB_SEQ000049
+330,"Aedes albopictus","epithelial membrane protein mrna",adult,embryo/egg,2,DB_SEQ000034
+331,"Aedes albopictus","cysteine-rich venom protein",adult,embryo/egg,1,DB_SEQ000029
+332,"Aedes albopictus","phosphoenolpyruvate carboxykinase",adult,embryo/egg,2,DB_SEQ000059
+333,"Aedes albopictus","homolog of gram-negative binding protein 3 (gnbpb3)",adult,embryo/egg,1,DB_SEQ000047
+334,"Aedes albopictus","fatty acyl coa elongase mrna",adult,embryo/egg,3,DB_SEQ000038
+335,"Aedes albopictus","amp activated protein kinase gamma",adult,embryo/egg,1,DB_SEQ000011
+336,"Aedes albopictus","3&#44;2-trans-enoyl-coa isomerase",adult,embryo/egg,1,DB_SEQ000001
+337,"Aedes albopictus","lipase_aael007044",adult,embryo/egg,1,DB_SEQ000052
+338,"Aedes albopictus","ortholog of juvenile hormone esterase (jhe)",adult,embryo/egg,1,DB_SEQ000057
+339,"Aedes albopictus","bhlhzip transcription factor bigmax",adult,embryo/egg,1,DB_SEQ000017
+340,"Aedes albopictus","lipid storage droplet protein",adult,embryo/egg,1,DB_SEQ000054
+341,"Aedes albopictus","phosphatidylethanolamine-binding protein mrna",adult,embryo/egg,3,DB_SEQ000058
+342,"Aedes albopictus","conserved hypothetical protein_aael012019",adult,embryo/egg,1,DB_SEQ000025
+343,"Heliotis virescens","pheromone biosynthesis-activating neuropeptide mrna",,pupae,1,DB_SEQ000678
+344,"Heliotis virescens","prothoracicotropic hormone ptth mrna",,pupae,1,DB_SEQ000679
+345,"Praon volucre","transitional endoplasmic reticulum atpase ter94-like",,pupae,1,DB_SEQ000783
+346,"Praon volucre","similar to arginine kinase-like protein",,pupae,1,DB_SEQ000780
+347,"Praon volucre","similar to ankyrin repeat protein",,pupae,1,DB_SEQ000779
+348,"Praon volucre","apolipoprotein d-like isoform 2",,pupae,1,DB_SEQ000771
+349,"Praon volucre","similar to putative muscular protein 20",,pupae,1,DB_SEQ000782
+350,"Praon volucre","gd10219 [glyceraldehyde 3-phosphate dehydrogenase]",,pupae,1,DB_SEQ000776
+351,"Praon volucre","elongation factor 1-alpha",,pupae,1,DB_SEQ000774
+352,"Praon volucre","actin related protein 1",,pupae,1,DB_SEQ000769
+353,"Praon volucre","aldehyde dehydrogenase isoform b",,pupae,1,DB_SEQ000770
+354,"Praon volucre","hypothetical protein sinv_09509 [cuticular protein]",,pupae,1,DB_SEQ000778
+355,"Praon volucre","cathepsin-l [cysteine peptidase&#44; cp]",,pupae,1,DB_SEQ000772
+356,"Praon volucre","similar to ga17549-pa [vanin-like protein]",,pupae,1,DB_SEQ000781
+357,"Praon volucre","vesicle amine transport protein",,pupae,1,DB_SEQ000368
+358,"Praon volucre","heat shock 70 kda protein 4l-like isoform1",,pupae,1,DB_SEQ000777
+359,"Eurygaster maura","lipid storage droplet binding protein 1 (lsd1) mrna",,adult/imago,4,DB_SEQ000648
+360,"Eurygaster maura","lipid storage droplet binding protein 2 (lsd2) mrna",,adult/imago,4,DB_SEQ000649
+361,"Anthonomus grandis","agsp-1 arylphorin mrna",,adult/imago,1,DB_SEQ000120
+362,"Anthonomus grandis","agsp-1 arylphorin",,adult/imago,1,DB_SEQ000119
+363,"Sitodiplosis mosellana","unigene8661_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000860
+364,"Sitodiplosis mosellana","unigene8831_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000862
+365,"Sitodiplosis mosellana","unigene38983_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000856
+366,"Sitodiplosis mosellana","unigene7576_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000858
+367,"Sitodiplosis mosellana","unigene17374_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000855
+368,"Sitodiplosis mosellana","unigene8309_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000859
+369,"Sitodiplosis mosellana","unigene6351_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000857
+370,"Sitodiplosis mosellana","cl66.contig1_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000854
+371,"Sitodiplosis mosellana","unigene8830_s_mosellanaa transcribed rna sequence",,larva,1,DB_SEQ000861
+372,"Omphisa fuscidentalis","ecdysone receptor a isoform (ecr-a) mrna",,larva,2,DB_SEQ000750
+373,"Omphisa fuscidentalis","ecdysone receptor b1 isoform (ecr-b1) mrna",,larva,2,DB_SEQ000751
+374,"Omphisa fuscidentalis","cytochrome c oxidase subunit i (cox1) gene",,larva,1,DB_SEQ000749
+375,"Galleria mellonella","hexamerin (lhp82) mrna",,larva,1,DB_SEQ000651
+376,"Galleria mellonella","arylphorin gene (larval hemolymph protein 76)",,larva,1,DB_SEQ000650
+377,"Delia antiqua","dna replication licensing factor",,pupae,1,DB_SEQ000512
+378,"Delia antiqua","duf1759 superfamily",,pupae,1,DB_SEQ000517
+379,"Delia antiqua","topoisomerase",,pupae,1,DB_SEQ000602
+380,"Delia antiqua","dna repair protein (mre11)",,pupae,1,DB_SEQ000511
+381,"Delia antiqua","14-3-3 zeta",,pupae,1,DB_SEQ000468
+382,"Delia antiqua","alkaline phosphatase",,pupae,1,DB_SEQ000477
+383,"Delia antiqua","tropomyosin 1",,pupae,1,DB_SEQ000606
+384,"Delia antiqua","centrosome-associated zinc finger protein",,pupae,1,DB_SEQ000492
+385,"Delia antiqua","gm26041",,pupae,1,DB_SEQ000541
+386,"Delia antiqua","cytochrome p450 (cyp6d1)",,pupae,1,DB_SEQ000501
+387,"Delia antiqua","fatty acyl-coa elongase",,pupae,1,DB_SEQ000524
+388,"Delia antiqua","matrix metalloproteinase-14",,pupae,1,DB_SEQ000565
+389,"Delia antiqua","zinc finger protein",,pupae,1,DB_SEQ000613
+390,"Delia antiqua","glucose dehydrogenase",,pupae,1,DB_SEQ000537
+391,"Delia antiqua","dacct2 mrna for chaperonin beta subunit",,pupae,3,DB_SEQ000502
+392,"Delia antiqua","heat shock protein 70",,pupae,1,DB_SEQ000244
+393,"Delia antiqua","hypothetical conserved protein",,pupae,1,DB_SEQ000552
+394,"Delia antiqua","dorsal isoform",,pupae,1,DB_SEQ000513
+395,"Delia antiqua","histone deacetylase 6 isoform c",,pupae,1,DB_SEQ000548
+396,"Delia antiqua","calreticulin",,pupae,1,DB_SEQ000488
+397,"Delia antiqua","adp ribosylation factor",,pupae,1,DB_SEQ000474
+398,"Delia antiqua","hexamerin lsp-2",,pupae,4,DB_SEQ000547
+399,"Delia antiqua","dacct4 mrna for chaperonin delta subunit",,pupae,3,DB_SEQ000504
+400,"Delia antiqua","small subunit ribosomal protein s17e",,pupae,1,DB_SEQ000598
+401,"Delia antiqua","mrna for delta9-acyl-coa desaturase",,pupae,1,DB_SEQ000573
+402,"Delia antiqua","datcp-1 mrna for t-complex protein 1&#44; alpha subunit(tcp-1-alpha)(cct-alpha)",,pupae,3,DB_SEQ000509
+403,"Delia antiqua","arylphorin receptor",,pupae,2,DB_SEQ000482
+404,"Delia antiqua","dacct7 mrna for chaperonin eta subunit",,pupae,3,DB_SEQ000507
+405,"Delia antiqua","gk11417",,pupae,1,DB_SEQ000534
+406,"Delia antiqua","mrna for hsp90 protein",,pupae,2,DB_SEQ000574
+407,"Delia antiqua","gh15908",,pupae,1,DB_SEQ000530
+408,"Delia antiqua","probable g-protein coupled receptor 158",,pupae,1,DB_SEQ000585
+409,"Delia antiqua","heterogeneous nuclear ribonucleoprotein",,pupae,1,DB_SEQ000546
+410,"Delia antiqua","dacct8 mrna for chaperonin theta subunit",,pupae,3,DB_SEQ000508
+411,"Delia antiqua","dorsal-related immunity factor&#44; isoform c",,pupae,1,DB_SEQ000515
+412,"Delia antiqua","low density lipoprotein-related protein",,pupae,1,DB_SEQ000564
+413,"Delia antiqua","actin binding protein",,pupae,1,DB_SEQ000471
+414,"Delia antiqua","heat shock protein 70 bd",,pupae,1,DB_SEQ000544
+415,"Delia antiqua","ga14484",,pupae,1,DB_SEQ000525
+416,"Delia antiqua","heat shock protein 23 mrna",,pupae,2,DB_SEQ000543
+417,"Delia antiqua","20s proteasome regulatory subunit",,pupae,1,DB_SEQ000469
+418,"Delia antiqua","enlongation-factor c",,pupae,1,DB_SEQ000522
+419,"Delia antiqua","mitochondrial ribosomal protein s2",,pupae,1,DB_SEQ000570
+420,"Delia antiqua","translocation protein",,pupae,1,DB_SEQ000604
+421,"Delia antiqua","adenosine monophosphate deaminase",,pupae,1,DB_SEQ000473
+422,"Delia antiqua","choline dehydrogenase",,pupae,1,DB_SEQ000493
+423,"Delia antiqua","carbon-nitrogen hydrolase",,pupae,1,DB_SEQ000489
+424,"Delia antiqua","cytochrome oxidase subunit iii (cox iii)",,pupae,1,DB_SEQ000499
+425,"Delia antiqua","cytochrome p450 ( cyp6d3v2)",,pupae,1,DB_SEQ000500
+426,"Delia antiqua","trypsin",,pupae,1,DB_SEQ000607
+427,"Delia antiqua","gf17745",,pupae,1,DB_SEQ000527
+428,"Delia antiqua","retroviral protease",,pupae,1,DB_SEQ000587
+429,"Delia antiqua","nucleosome assembly protein 1",,pupae,1,DB_SEQ000579
+430,"Delia antiqua","calcium-independent protein kinase c",,pupae,1,DB_SEQ000487
+431,"Delia antiqua","kinesin-like protein",,pupae,1,DB_SEQ000559
+432,"Delia antiqua","midophosphoribosyltransferase",,pupae,1,DB_SEQ000567
+433,"Delia antiqua","reverse transcriptase",,pupae,1,DB_SEQ000588
+434,"Delia antiqua","gj15777",,pupae,1,DB_SEQ000533
+435,"Delia antiqua","phosphatidylinositol transfer protein sec14",,pupae,1,DB_SEQ000584
+436,"Delia antiqua","sulfatase modifying factor 1",,pupae,1,DB_SEQ000601
+437,"Delia antiqua","clip-domain serine proteinase mrna",,pupae,2,DB_SEQ000494
+438,"Delia antiqua","mitochondrial ribosomal protein l17",,pupae,1,DB_SEQ000569
+439,"Delia antiqua","hsp70-interacting protein",,pupae,1,DB_SEQ000551
+440,"Delia antiqua","hypothetical protein eai",,pupae,1,DB_SEQ000555
+441,"Delia antiqua","diazepam-binding inhibitor",,pupae,1,DB_SEQ000510
+442,"Delia antiqua","heat shock factor binding protein",,pupae,1,DB_SEQ000542
+443,"Delia antiqua","cuticular protein tweedle motif 4",,pupae,1,DB_SEQ000497
+444,"Delia antiqua","mitochondrial atp-dependent protease",,pupae,1,DB_SEQ000568
+445,"Delia antiqua","arylphorin",,pupae,2,DB_SEQ000481
+446,"Delia antiqua","odorant-binding protein",,pupae,1,DB_SEQ000580
+447,"Delia antiqua","myosin-9",,pupae,1,DB_SEQ000576
+448,"Delia antiqua","arylphorin subunit a4",,pupae,1,DB_SEQ000483
+449,"Delia antiqua","dacct6 mrna for chaperonin zeta subunit",,pupae,3,DB_SEQ000506
+450,"Delia antiqua","an1-type zinc finger protein 5",,pupae,1,DB_SEQ000480
+451,"Delia antiqua","histone-fold protein chrac subunit",,pupae,1,DB_SEQ000549
+452,"Delia antiqua","gf20765",,pupae,1,DB_SEQ000528
+453,"Delia antiqua","rho-gtpase activating protein p190",,pupae,1,DB_SEQ000589
+454,"Delia antiqua","serine protease inhibitor",,pupae,2,DB_SEQ000595
+455,"Delia antiqua","dacct5 mrna for chaperonin epsilon subunit",,pupae,3,DB_SEQ000505
+456,"Delia antiqua","pebble&#44; isoform d",,pupae,1,DB_SEQ000581
+457,"Delia antiqua","alcohol dehydrogenase",,pupae,1,DB_SEQ000475
+458,"Delia antiqua","sarcoplasmic calcium-binding protein",,pupae,1,DB_SEQ000593
+459,"Delia antiqua","autophagy-specific 7",,pupae,1,DB_SEQ000485
+460,"Delia antiqua","molting defective&#44; isoform",,pupae,1,DB_SEQ000572
+461,"Delia antiqua","gl11745",,pupae,1,DB_SEQ000536
+462,"Delia antiqua","elongation factor 2(eef-2)",,pupae,1,DB_SEQ000520
+463,"Delia antiqua","alpha-crystallin domain",,pupae,1,DB_SEQ000478
+464,"Delia antiqua","ecdysoneless",,pupae,1,DB_SEQ000518
+465,"Delia antiqua","carboxylesterase p",,pupae,1,DB_SEQ000491
+466,"Delia antiqua","actin 1",,pupae,1,DB_SEQ000470
+467,"Delia antiqua","molecular chaperone prefolding subunit",,pupae,1,DB_SEQ000571
+468,"Delia antiqua","duf 298 family",,pupae,1,DB_SEQ000516
+469,"Delia antiqua","ww domain binding protein",,pupae,1,DB_SEQ000612
+470,"Delia antiqua","ribosomal s6 kinase (s6kii)",,pupae,1,DB_SEQ000591
+471,"Delia antiqua","vitellogenin",,pupae,1,DB_SEQ000611
+472,"Delia antiqua","hemocyanin_c",,pupae,1,DB_SEQ000545
+473,"Delia antiqua","dorsal protein",,pupae,1,DB_SEQ000514
+474,"Delia antiqua","phosphatidylinositol 3-kinase catalytic subunit",,pupae,1,DB_SEQ000583
+475,"Delia antiqua","ribosomal protein s17",,pupae,1,DB_SEQ000590
+476,"Delia antiqua","serine/threonine protein kinases",,pupae,1,DB_SEQ000597
+477,"Delia antiqua","zinc-finger double-stranded rna-binding",,pupae,1,DB_SEQ000615
+478,"Delia antiqua","putative virus-induced protein",,pupae,1,DB_SEQ000586
+479,"Delia antiqua","rna binding motif protein",,pupae,1,DB_SEQ000592
+480,"Delia antiqua","leucine-rich repeat-containing protein",,pupae,1,DB_SEQ000562
+481,"Delia antiqua","hypothetical protein",,pupae,1,DB_SEQ000553
+482,"Delia antiqua","gg22446",,pupae,1,DB_SEQ000529
+483,"Delia antiqua","nucleolar complex protein 2-like protein",,pupae,1,DB_SEQ000577
+484,"Delia antiqua","tubulin-ftsz superfamily",,pupae,1,DB_SEQ000609
+485,"Delia antiqua","gh18-chitinase-like",,pupae,1,DB_SEQ000532
+486,"Delia antiqua","cyclophilin a",,pupae,1,DB_SEQ000498
+487,"Delia antiqua","serine protease inhibitor 1",,pupae,1,DB_SEQ000596
+488,"Delia antiqua","nucleolar protein 6",,pupae,1,DB_SEQ000578
+489,"Delia antiqua","insulin-like growth factor-binding protein",,pupae,1,DB_SEQ000557
+490,"Delia antiqua","lipid storage droplet-1 ( perilipin)",,pupae,1,DB_SEQ000563
+491,"Delia antiqua","leucine-rich repeat",,pupae,1,DB_SEQ000561
+492,"Delia antiqua","aspartyl-trna synthetase",,pupae,1,DB_SEQ000484
+493,"Delia antiqua","gk24774",,pupae,1,DB_SEQ000535
+494,"Delia antiqua","tubulin beta chain",,pupae,1,DB_SEQ000608
+495,"Delia antiqua","engrailed nuclear homeoprotein",,pupae,1,DB_SEQ000521
+496,"Delia antiqua","carbonic anhydrase",,pupae,1,DB_SEQ000490
+497,"Delia antiqua","ribosomal protein s7",,pupae,1,DB_SEQ000334
+498,"Delia antiqua","ribosomal protein l8",,pupae,1,DB_SEQ000326
+499,"Delia antiqua","dacct3 mrna for chaperonin gamma subunit",,pupae,3,DB_SEQ000503
+500,"Delia antiqua","multifunction chaperon/14-3-3zeta",,pupae,1,DB_SEQ000575
+501,"Delia antiqua","gh17098",,pupae,1,DB_SEQ000531
+502,"Delia antiqua","storage protein-binding protein",,pupae,1,DB_SEQ000600
+503,"Delia antiqua","f0f1 atp synthase beta subunit",,pupae,1,DB_SEQ000523
+504,"Delia antiqua","cu2+/zn2+ superoxide dismutase sod",,pupae,1,DB_SEQ000495
+505,"Delia antiqua","larval hexamerin hex-l",,pupae,1,DB_SEQ000560
+506,"Delia antiqua","c-type lectin",,pupae,1,DB_SEQ000486
+507,"Delia antiqua","histone-lysine n-methyltransferase",,pupae,1,DB_SEQ000550
+508,"Delia antiqua","hypothetical protein bm1_11025",,pupae,1,DB_SEQ000554
+509,"Delia antiqua","seminal fluid protein",,pupae,1,DB_SEQ000594
+510,"Delia antiqua","sphingosine kinase",,pupae,1,DB_SEQ000599
+511,"Delia antiqua","glutamate-rich wd repeat protein",,pupae,1,DB_SEQ000538
+512,"Delia antiqua","zinc finger protein 142",,pupae,1,DB_SEQ000614
+513,"Delia antiqua","kinesin-associated protein",,pupae,1,DB_SEQ000558
+514,"Delia antiqua","glutamyl aminopeptidase",,pupae,1,DB_SEQ000539
+515,"Delia antiqua","trehalose-6-phosphate synthase 1",,pupae,1,DB_SEQ000605
+516,"Delia antiqua","alpha-crystallin hsp23 like",,pupae,1,DB_SEQ000479
+517,"Delia antiqua","translation elongation factors-1a",,pupae,1,DB_SEQ000603
+518,"Delia antiqua","microsomal glutathione s-transferase-like",,pupae,1,DB_SEQ000566
+519,"Delia antiqua","activity-regulated cytoskeleton associated protein",,pupae,1,DB_SEQ000472
+520,"Delia antiqua","insect alcohol dehydrogenase",,pupae,1,DB_SEQ000556
+521,"Delia antiqua","gf-ii mrna-binding protein",,pupae,1,DB_SEQ000526
+522,"Delia antiqua","elongation factor 1 beta",,pupae,1,DB_SEQ000519
+523,"Delia antiqua","udp-glucose-glycoprotein glucosyltransferase",,pupae,1,DB_SEQ000610
+524,"Delia antiqua","glutathione s-transferase",,pupae,2,DB_SEQ000540
+525,"Megachile rotundata","70 kda heat shock cognate protein (hsc70) mrna",larva,larva,1,DB_SEQ000743
+526,"Megachile rotundata","90 kda heat shock protein (hsp90) mrna",larva,larva,1,DB_SEQ000745
+527,"Megachile rotundata","70 kda heat shock protein (hsp70) mrna",larva,larva,1,DB_SEQ000744
+528,"Megachile rotundata","actin mrna",larva,larva,2,DB_SEQ000734
+529,"Helicoverpa armigera","protein phosphatase 2 regulatory subunit a alpha isoform mrna",pupa,pupae / pupae / larva / larva,3,DB_SEQ000667
+530,"Helicoverpa armigera","diazepam-binding inhibitor (dbi) mrna",pupa,pupae / pupae / larva / larva,6,DB_SEQ000663
+531,"Helicoverpa armigera","prothoracicotropic hormone mrna",pupa,pupae / pupae / larva / larva,3,DB_SEQ000668
+532,"Helicoverpa armigera","trehalose 6-phosphate synthase isoform i mrna",pupa,pupae / pupae / larva / larva,2,DB_SEQ000671
+533,"Helicoverpa armigera","diapause hormone-pheromone biosynthesis-activating neuropeptide (dh-pban) mrna",pupa,pupae / pupae / larva / larva,3,DB_SEQ000662
+534,"Helicoverpa armigera","protein phosphatase 2 regulatory subunit a alpha isoform",pupa,pupae / pupae / larva / larva,2,DB_SEQ000666
+535,"Helicoverpa armigera","cytochrome oxidase subunit i (coi) mrna",pupa,pupae / pupae / larva / larva,2,DB_SEQ000660
+536,"Helicoverpa armigera","fork head domain transcription factor",pupa,pupae / pupae / larva / larva,1,DB_SEQ000664
+537,"Helicoverpa armigera","transcription factor ap-4",pupa,pupae / pupae / larva / larva,1,DB_SEQ000669
+538,"Helicoverpa armigera","transcription factor ap-4 mrna",pupa,pupae / pupae / larva / larva,1,DB_SEQ000670
+539,"Helicoverpa armigera","cytochrome oxidase subunit i",pupa,pupae / pupae / larva / larva,2,DB_SEQ000659
+540,"Helicoverpa armigera","pou-domain transcription factor mrna",pupa,pupae / pupae / larva / larva,2,DB_SEQ000665
+541,"Bombyx mori","arginine kinase",embryo,embryo/egg,1,DB_SEQ000084
+542,"Bombyx mori","heat shock protein hsp20.8",embryo,embryo/egg,1,DB_SEQ000251
+543,"Bombyx mori","glucose-6-phosphate 1-dehydrogenase (loc101746394)&#44; mrna",embryo,embryo/egg,2,DB_SEQ000225
+544,"Bombyx mori","19g1 gene for 30k protein",embryo,embryo/egg,1,DB_SEQ000144
+545,"Bombyx mori","6g1 gene for 30k major plasma protein",embryo,embryo/egg,1,DB_SEQ000152
+546,"Bombyx mori","dopa decarboxylase (loc692675)&#44; mrna",embryo,embryo/egg,1,DB_SEQ000203
+547,"Bombyx mori","mrna for hsp40",embryo,embryo/egg,2,DB_SEQ000278
+548,"Bombyx mori","poly a binding protein (pabp) mrna",embryo,embryo/egg,1,DB_SEQ000298
+549,"Bombyx mori","mrna for mammalian sorbitol dehydrogenase homolog",embryo,embryo/egg,2,DB_SEQ000279
+550,"Bombyx mori","glycogen phosphorylase (gpase)",embryo,embryo/egg,2,DB_SEQ000233
+551,"Bombyx mori","mrna for trehalase",embryo,embryo/egg,2,DB_SEQ000280
+552,"Bombyx mori","bmhsp70 mrna for hsp70",embryo,embryo/egg,3,DB_SEQ000171
+553,"Bombyx mori","hsp90 mrna for 90-kda heat shock protein",embryo,embryo/egg,2,DB_SEQ000255
+554,"Bombyx mori","phosphofructo kinase (pfk)",embryo,embryo/egg,2,DB_SEQ000297
+555,"Bombyx mori","heat shock protein hsp20.4 (hsp20.4) mrna",embryo,embryo/egg,2,DB_SEQ000249
+556,"Bombyx mori","heat shock protein hsp20.8 (hsp20.8) mrna",embryo,embryo/egg,1,DB_SEQ000250
+557,"Bombyx mori","sorbitol dehydrogenase",embryo,embryo/egg,2,DB_SEQ000347
+558,"Bombyx mori","rna helicase-like protein",embryo,embryo/egg,2,DB_SEQ000337
+559,"Bombyx mori","dnaj (hsp40) homolog 5 (dnaj-5) mrna",embryo,embryo/egg,1,DB_SEQ000202
+560,"Hyles euphorbiae","prophenoloxidase",,pupae,1,DB_SEQ000689
+561,"Hyles euphorbiae","citrate synthase",,pupae,1,DB_SEQ000684
+562,"Hyles euphorbiae","cuticular protein",,pupae,3,DB_SEQ000496
+563,"Hyles euphorbiae","40s ribosomal protein s1",,pupae,1,DB_SEQ000680
+564,"Hyles euphorbiae","myosin heavy chain",,pupae,1,DB_SEQ000688
+565,"Hyles euphorbiae","f0f1-type atp synthase beta subunit",,pupae,1,DB_SEQ000685
+566,"Hyles euphorbiae","glutathione s-transferase omega 1",,pupae,1,DB_SEQ000686
+567,"Hyles euphorbiae","aldehyde dehydrogenase",,pupae,2,DB_SEQ000476
+568,"Hyles euphorbiae","apolipophorin i&#44; ii",,pupae,1,DB_SEQ000682
+569,"Hyles euphorbiae","methionine rich storage protein 1 and 2",,pupae,2,DB_SEQ000687
+570,"Helicoverpa zea","heat shock protein 70 cognate mrna",,pupae,3,DB_SEQ000676
+571,"Helicoverpa zea","diapause hormone receptor 1a mrna",,pupae,1,DB_SEQ000674
+572,"Helicoverpa zea","diapause hormone receptor 1b mrna",,pupae,1,DB_SEQ000675
+573,"Ostrinia nubilalis","ommochrome binding protein 1 (obp1) gene&#44; obp1-a1 allele",,larva,1,DB_SEQ000760
+574,"Ostrinia nubilalis","ommochrome binding protein 2 (obp2) gene&#44; obp2-b1 allele",,larva,1,DB_SEQ000762
+575,"Epiblema scudderiana","isolate elssg8 cytochrome oxidase subunit i (coi) gene",,larva,2,DB_SEQ000646
+576,"Eurosta solidaginis","isolate w2_1_alt cytochrome oxidase subunit i (coi) gene",,larva,1,DB_SEQ000647
+577,"Eurosta solidaginis","12s rrna",,larva,3,DB_SEQ000645

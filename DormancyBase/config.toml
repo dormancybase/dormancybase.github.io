@@ -1,9 +1,0 @@
-baseurl = "https://dormancybase.github.io/"
-languageCode = "en-us"
-title = "DORMANCYbase"
-theme = "DormancyBase"
-Paginate = 10
-
-[params]
-  description = "DORMANCYbase"
-  google_analytics = ""
